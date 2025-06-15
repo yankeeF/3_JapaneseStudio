@@ -1,0 +1,17 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 750,
+      "height": 1600,
+      "fitWidth": false
+    }
+  },
+  "layer": [
+    {
+      "name": "UIPage",
+      "value": 1
+    }
+  ],
+  "custom_joint_texture_layouts": []
+}

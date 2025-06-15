@@ -1,0 +1,8434 @@
+[
+  {
+    "kanji": "挨拶",
+    "kana": "あいさつ",
+    "romaji": "a i sa tsu",
+    "chinese": "打招呼；致词；寒暄、问候",
+    "english": "greeting",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "間",
+    "kana": "あいだ",
+    "romaji": "a i da",
+    "chinese": "间隔、期间；中间",
+    "english": "間",
+    "POS": "名"
+  },
+  {
+    "kanji": "会う",
+    "kana": "あう",
+    "romaji": "a u",
+    "chinese": "会面、见面",
+    "english": "meet",
+    "POS": "自五"
+  },
+  {
+    "kanji": "合う",
+    "kana": "あう",
+    "romaji": "a u",
+    "chinese": "一致、符合；互相",
+    "english": "fit",
+    "POS": "自五，辅助"
+  },
+  {
+    "kanji": "遭う，遇う",
+    "kana": "あい",
+    "romaji": "a i",
+    "chinese": "遇到、遭遇",
+    "english": "to encounter",
+    "POS": "自五"
+  },
+  {
+    "kanji": "喘ぐ",
+    "kana": "あえぐ",
+    "romaji": "a e gu",
+    "chinese": "喘息、挣扎",
+    "english": "Panting",
+    "POS": "自五"
+  },
+  {
+    "kanji": "青い",
+    "kana": "あおい",
+    "romaji": "a o i",
+    "chinese": "青色、蓝色、绿色；不成熟",
+    "english": "blue",
+    "POS": "形"
+  },
+  {
+    "kanji": "仰ぐ",
+    "kana": "あおぐ",
+    "romaji": "a o gu",
+    "chinese": "仰视；尊敬；依靠、仰仗；一口气喝完",
+    "english": "Look up",
+    "POS": "他五"
+  },
+  {
+    "kanji": "煽ぐ",
+    "kana": "あおぐ",
+    "romaji": "a o gu",
+    "chinese": "煽动",
+    "english": "Incite",
+    "POS": "他五"
+  },
+  {
+    "kanji": "赤",
+    "kana": "あか",
+    "romaji": "a ka",
+    "chinese": "红色；完全",
+    "english": "red",
+    "POS": "名"
+  },
+  {
+    "kanji": "赤い",
+    "kana": "あかい",
+    "romaji": "a ka i",
+    "chinese": "红色的",
+    "english": "red",
+    "POS": "形"
+  },
+  {
+    "kanji": "上がる",
+    "kana": "あがる",
+    "romaji": "a ga ru",
+    "chinese": "上、登、升；提高、长进；（谦语）去；结束、完成；怯场；（敬语）吃、喝；（接动词连",
+    "english": "Go up",
+    "POS": "自五，辅助"
+  },
+  {
+    "kanji": "明るい",
+    "kana": "あかるい",
+    "romaji": "a ka ru i",
+    "chinese": "明亮的；开朗的、活泼的",
+    "english": "bright",
+    "POS": "形"
+  },
+  {
+    "kanji": "秋",
+    "kana": "あき",
+    "romaji": "a ki",
+    "chinese": "秋天",
+    "english": "秋",
+    "POS": "名"
+  },
+  {
+    "kanji": "明らか",
+    "kana": "あきらか",
+    "romaji": "a ki ra ka",
+    "chinese": "明亮；明显、显然、确切",
+    "english": "clear",
+    "POS": "形動"
+  },
+  {
+    "kanji": "開く，明く",
+    "kana": "あく",
+    "romaji": "a ku",
+    "chinese": "开",
+    "english": "Open, bright",
+    "POS": "自五"
+  },
+  {
+    "kanji": "空く",
+    "kana": "あく",
+    "romaji": "a ku",
+    "chinese": "有空隙；闲着；缺编",
+    "english": "Vacant",
+    "POS": "自五"
+  },
+  {
+    "kanji": "明ける",
+    "kana": "あける",
+    "romaji": "a ke ru",
+    "chinese": "天明；过年；期满、结束",
+    "english": "Dawn",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "空ける",
+    "kana": "あける",
+    "romaji": "a ke ru",
+    "chinese": "空出；腾出；不在家",
+    "english": "Vacant",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "挙げる",
+    "kana": "あげる",
+    "romaji": "a ge ru",
+    "chinese": "举；举起；举行；发动；扬（名）",
+    "english": "List",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "上げる",
+    "kana": "あげる",
+    "romaji": "a ge ru",
+    "chinese": "举起、拎起；进房间；升学；进步、提高；增加数量、加深程度；得益；完成；显效；送给",
+    "english": "increase",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "揚げる",
+    "kana": "あげる",
+    "romaji": "a ge ru",
+    "chinese": "举起；油炸；起（货）",
+    "english": "Fry",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "憧れる",
+    "kana": "あこがれる",
+    "romaji": "a ko ga re ru",
+    "chinese": "向往、憧憬；被异性所吸引",
+    "english": "Admire",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "朝",
+    "kana": "あさ",
+    "romaji": "a sa",
+    "chinese": "早上、上午",
+    "english": "朝",
+    "POS": "名"
+  },
+  {
+    "kanji": "浅い",
+    "kana": "あさい",
+    "romaji": "a sa i",
+    "chinese": "浅；（时间等）短；肤浅、少的；颜色浅",
+    "english": "shallow",
+    "POS": "形"
+  },
+  {
+    "kanji": "鮮やか",
+    "kana": "あざやか",
+    "romaji": "a za ya ka",
+    "chinese": "鲜明；出色",
+    "english": "vivid",
+    "POS": "形動"
+  },
+  {
+    "kanji": "足",
+    "kana": "あし",
+    "romaji": "a shi",
+    "chinese": "脚、腿、（器物）的腿儿",
+    "english": "足",
+    "POS": "名"
+  },
+  {
+    "kanji": "味",
+    "kana": "あじ",
+    "romaji": "a ji",
+    "chinese": "味道、风味；滋味、甜头；趣味、情调",
+    "english": "味",
+    "POS": "名"
+  },
+  {
+    "kanji": "明日",
+    "kana": "あした",
+    "romaji": "a shi ta",
+    "chinese": "明天",
+    "english": "tomorrow",
+    "POS": "名"
+  },
+  {
+    "kanji": "味わう",
+    "kana": "あじわう",
+    "romaji": "a ji wa u",
+    "chinese": "品尝；玩味、欣赏；体验",
+    "english": "taste",
+    "POS": "他五"
+  },
+  {
+    "kanji": "預かる",
+    "kana": "あずかる",
+    "romaji": "a zu ka ru",
+    "chinese": "收存、保管；照顾；承担、担任",
+    "english": "look after",
+    "POS": "他五"
+  },
+  {
+    "kanji": "預ける",
+    "kana": "あずける",
+    "romaji": "a zu ke ru",
+    "chinese": "寄存；托付、委托",
+    "english": "Deposit",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "焦る",
+    "kana": "あせる",
+    "romaji": "a se ru",
+    "chinese": "着急、焦躁",
+    "english": "panic",
+    "POS": "自五"
+  },
+  {
+    "kanji": "遊ぶ",
+    "kana": "あそぶ",
+    "romaji": "a so bu",
+    "chinese": "玩耍；旅行、游学；没工作；不起作用",
+    "english": "play",
+    "POS": "自五"
+  },
+  {
+    "kanji": "与える",
+    "kana": "あたえる",
+    "romaji": "a ta e ru",
+    "chinese": "授予；给予；使蒙受",
+    "english": "give",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "暖かい，温かい",
+    "kana": "あたたかい",
+    "romaji": "a ta ta ka i",
+    "chinese": "温暖；和睦；富足",
+    "english": "Warm, warm",
+    "POS": "形"
+  },
+  {
+    "kanji": "頭",
+    "kana": "あたま",
+    "romaji": "a ta ma",
+    "chinese": "头",
+    "english": "頭",
+    "POS": "名"
+  },
+  {
+    "kanji": "新しい",
+    "kana": "あたらしい",
+    "romaji": "a ta ra shi i",
+    "chinese": "新的；新式的；新鲜的；有活力的；现代的，进步的",
+    "english": "new",
+    "POS": "形"
+  },
+  {
+    "kanji": "辺り",
+    "kana": "あたり",
+    "romaji": "a ta ri",
+    "chinese": "周围；大约；之类的",
+    "english": "Around",
+    "POS": "名"
+  },
+  {
+    "kanji": "当たり前",
+    "kana": "あたりまえ",
+    "romaji": "a ta ri ma e",
+    "chinese": "当然；普通",
+    "english": "obvious",
+    "POS": "形動"
+  },
+  {
+    "kanji": "当たる",
+    "kana": "あたる",
+    "romaji": "a ta ru",
+    "chinese": "晒（太阳）、吹（风）等；顺利、成功；击中、命中、猜中；粗暴对待；承担、担任；被指",
+    "english": "Hit",
+    "POS": "自五"
+  },
+  {
+    "kanji": "あちこち",
+    "kana": "あちこち",
+    "romaji": "a chi ko chi",
+    "chinese": "到处；顺序乱",
+    "english": "Here and there",
+    "POS": "代"
+  },
+  {
+    "kanji": "あちら",
+    "kana": "あちら",
+    "romaji": "a chi ra",
+    "chinese": "那边；那个；那位",
+    "english": "there",
+    "POS": "代，名"
+  },
+  {
+    "kanji": "熱い",
+    "kana": "あつい",
+    "romaji": "a tsu i",
+    "chinese": "温度高；体温高；热烈的",
+    "english": "hot",
+    "POS": "形"
+  },
+  {
+    "kanji": "暑い",
+    "kana": "あつい",
+    "romaji": "a tsu i",
+    "chinese": "气温高",
+    "english": "hot",
+    "POS": "形"
+  },
+  {
+    "kanji": "厚い",
+    "kana": "あつい",
+    "romaji": "a tsu i",
+    "chinese": "有厚度；人情深厚；程度很深",
+    "english": "thick",
+    "POS": "形"
+  },
+  {
+    "kanji": "篤い",
+    "kana": "あつい",
+    "romaji": "a tsu i",
+    "chinese": "病重；志笃、（感情）深厚",
+    "english": "Serious",
+    "POS": "形"
+  },
+  {
+    "kanji": "扱う",
+    "kana": "あつかう",
+    "romaji": "a tsu ka u",
+    "chinese": "操作；对待、待遇；处理；出售；报道",
+    "english": "handle",
+    "POS": "他五"
+  },
+  {
+    "kanji": "あっさり",
+    "kana": "あっさり",
+    "romaji": "a っ sa ri",
+    "chinese": "清淡；轻易",
+    "english": "Light",
+    "POS": "副"
+  },
+  {
+    "kanji": "集まる",
+    "kana": "あつまる",
+    "romaji": "a tsu ma ru",
+    "chinese": "集合、聚集；收集、集中",
+    "english": "get together",
+    "POS": "自五"
+  },
+  {
+    "kanji": "集める",
+    "kana": "あつめる",
+    "romaji": "a tsu me ru",
+    "chinese": "使集合；收集、征集；集中、吸引",
+    "english": "collect",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "圧力",
+    "kana": "あつりょく",
+    "romaji": "a tsu ryo ku",
+    "chinese": "压力；威压",
+    "english": "pressure",
+    "POS": "名"
+  },
+  {
+    "kanji": "宛て名",
+    "kana": "あてな",
+    "romaji": "a te na",
+    "chinese": "收信（件）人姓名和地址",
+    "english": "Addressee",
+    "POS": "名"
+  },
+  {
+    "kanji": "当てる",
+    "kana": "あてる",
+    "romaji": "a te ru",
+    "chinese": "碰撞；命中；晒；紧靠；中（奖）；猜对、预测正确；指名、委派",
+    "english": "Hit",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "後",
+    "kana": "あと",
+    "romaji": "a to",
+    "chinese": "后面；后方；以后；之后；那么、再见；（顺序）后；死后；后任、后继者、续弦；剩下的",
+    "english": "後",
+    "POS": "名"
+  },
+  {
+    "kanji": "後始末",
+    "kana": "あとしまつ",
+    "romaji": "a to shi ma tsu",
+    "chinese": "善后处理",
+    "english": "Cleaning up",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "穴，孔",
+    "kana": "あな",
+    "romaji": "a na",
+    "chinese": "洞、穴；亏空",
+    "english": "hole",
+    "POS": "名"
+  },
+  {
+    "kanji": "貴方",
+    "kana": "あなた",
+    "romaji": "a na ta",
+    "chinese": "你、您",
+    "english": "you",
+    "POS": "代"
+  },
+  {
+    "kanji": "兄",
+    "kana": "あに",
+    "romaji": "a ni",
+    "chinese": "哥哥",
+    "english": "兄",
+    "POS": "名"
+  },
+  {
+    "kanji": "姉",
+    "kana": "あね",
+    "romaji": "a ne",
+    "chinese": "姐姐；嫂子",
+    "english": "姉",
+    "POS": "名"
+  },
+  {
+    "kanji": "あの",
+    "kana": "あの",
+    "romaji": "a no",
+    "chinese": "那个（远称）；那",
+    "english": "that",
+    "POS": "連体"
+  },
+  {
+    "kanji": "暴く",
+    "kana": "あばく",
+    "romaji": "a ba ku",
+    "chinese": "揭发；发掘",
+    "english": "expose",
+    "POS": "他五"
+  },
+  {
+    "kanji": "暴れる",
+    "kana": "あばれる",
+    "romaji": "a ba re ru",
+    "chinese": "胡闹；闯荡",
+    "english": "Go wild",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "浴びせる",
+    "kana": "あびせる",
+    "romaji": "a bi se ru",
+    "chinese": "浇、泼（水等）；使蒙受、使遭受；不断地质问、非难",
+    "english": "to shower",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "浴びる",
+    "kana": "あびる",
+    "romaji": "a bi ru",
+    "chinese": "洗、淋浴、泼；沐浴；受到（非难、质问、赞扬等）",
+    "english": "Take a bath",
+    "POS": "他上一"
+  },
+  {
+    "kanji": "危ない",
+    "kana": "あぶない",
+    "romaji": "a bu na i",
+    "chinese": "危险的；垂危；不稳定、不确定；靠不住；危急、千钧一发",
+    "english": "dangerous",
+    "POS": "形"
+  },
+  {
+    "kanji": "油，脂",
+    "kana": "あぶら",
+    "romaji": "a bu ra",
+    "chinese": "油；（人、动物身上的）脂肪",
+    "english": "grease",
+    "POS": "名"
+  },
+  {
+    "kanji": "溢れる",
+    "kana": "あふれる",
+    "romaji": "a fu re ru",
+    "chinese": "溢、满；形容人很多；充满、洋溢",
+    "english": "Overflowing",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "阿呆",
+    "kana": "あほう",
+    "romaji": "a ho u",
+    "chinese": "蠢；傻子",
+    "english": "fool",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "甘い",
+    "kana": "あまい",
+    "romaji": "a ma i",
+    "chinese": "甜；淡、咸味不足；指声音甜；不严格、宽松；考虑简单、浅薄、天真；男女间关系好；松",
+    "english": "sweet",
+    "POS": "形"
+  },
+  {
+    "kanji": "甘える",
+    "kana": "あまえる",
+    "romaji": "a ma e ru",
+    "chinese": "撒娇；承蒙",
+    "english": "Being spoiled",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "余る",
+    "kana": "あまる",
+    "romaji": "a ma ru",
+    "chinese": "剩、余；胜过",
+    "english": "Remaining",
+    "POS": "自五"
+  },
+  {
+    "kanji": "網",
+    "kana": "あみ",
+    "romaji": "a mi",
+    "chinese": "网；落网",
+    "english": "網",
+    "POS": "名"
+  },
+  {
+    "kanji": "編む",
+    "kana": "あむ",
+    "romaji": "a mu",
+    "chinese": "编织；编纂",
+    "english": "Knit",
+    "POS": "他五"
+  },
+  {
+    "kanji": "雨",
+    "kana": "あめ",
+    "romaji": "a me",
+    "chinese": "雨、雨点般",
+    "english": "雨",
+    "POS": "名"
+  },
+  {
+    "kanji": "怪しい",
+    "kana": "あやしい",
+    "romaji": "a ya shi i",
+    "chinese": "奇怪的；可疑的、难以置信的；靠不住的、不确定的；要变坏的",
+    "english": "suspicious",
+    "POS": "形"
+  },
+  {
+    "kanji": "怪しむ",
+    "kana": "あやしむ",
+    "romaji": "a ya shi mu",
+    "chinese": "怀疑、觉得奇怪",
+    "english": "be suspicious",
+    "POS": "他五"
+  },
+  {
+    "kanji": "操る",
+    "kana": "あやつる",
+    "romaji": "a ya tsu ru",
+    "chinese": "耍（木偶）；熟练的掌握、运用；驾驭、操纵",
+    "english": "manipulate",
+    "POS": "他五"
+  },
+  {
+    "kanji": "過ち",
+    "kana": "あやまち",
+    "romaji": "a ya ma chi",
+    "chinese": "失败、错；过失",
+    "english": "Mistake",
+    "POS": "名"
+  },
+  {
+    "kanji": "誤る",
+    "kana": "あやまる",
+    "romaji": "a ya ma ru",
+    "chinese": "错、弄错；耽误、贻误",
+    "english": "err",
+    "POS": "他五"
+  },
+  {
+    "kanji": "謝る",
+    "kana": "あやまる",
+    "romaji": "a ya ma ru",
+    "chinese": "认错",
+    "english": "apologize",
+    "POS": "他五"
+  },
+  {
+    "kanji": "荒い",
+    "kana": "あらい",
+    "romaji": "a ra i",
+    "chinese": "粗暴；剧烈；胡来",
+    "english": "rough",
+    "POS": "形"
+  },
+  {
+    "kanji": "洗う",
+    "kana": "あらう",
+    "romaji": "a ra u",
+    "chinese": "洗；洗刷、冲洗；调查、查清",
+    "english": "wash",
+    "POS": "他五"
+  },
+  {
+    "kanji": "粗筋",
+    "kana": "あらすじ",
+    "romaji": "a ra su ji",
+    "chinese": "梗概",
+    "english": "Synopsis",
+    "POS": "名"
+  },
+  {
+    "kanji": "争う",
+    "kana": "あらそう",
+    "romaji": "a ra so u",
+    "chinese": "竞争；争吵、争论；主张、申辩",
+    "english": "compete",
+    "POS": "他五"
+  },
+  {
+    "kanji": "改まる",
+    "kana": "あらたまる",
+    "romaji": "a ra ta ma ru",
+    "chinese": "更新；变好；郑重、客气",
+    "english": "Change",
+    "POS": "自五"
+  },
+  {
+    "kanji": "改める",
+    "kana": "あらためる",
+    "romaji": "a ra ta me ru",
+    "chinese": "更新、改；改正；（语言、态度等）郑重；调查、计算",
+    "english": "change",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "現す",
+    "kana": "あらわす",
+    "romaji": "a ra wa su",
+    "chinese": "使其出现；发挥",
+    "english": "Reveal",
+    "POS": "他五"
+  },
+  {
+    "kanji": "著す",
+    "kana": "あらわす",
+    "romaji": "a ra wa su",
+    "chinese": "撰写、著",
+    "english": "Write",
+    "POS": "他五"
+  },
+  {
+    "kanji": "表わす",
+    "kana": "あらわす",
+    "romaji": "a ra wa su",
+    "chinese": "表露；表现；意味着",
+    "english": "Represent",
+    "POS": "他五"
+  },
+  {
+    "kanji": "現れる",
+    "kana": "あらわれる",
+    "romaji": "a ra wa re ru",
+    "chinese": "显露；出现；来",
+    "english": "appear",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "有り難い",
+    "kana": "ありがたい",
+    "romaji": "a ri ga ta i",
+    "chinese": "宝贵的；难得、感激",
+    "english": "Thank you",
+    "POS": "形"
+  },
+  {
+    "kanji": "ありがとう",
+    "kana": "ありがとう",
+    "romaji": "a ri ga to u",
+    "chinese": "谢谢",
+    "english": "thank you",
+    "POS": "感"
+  },
+  {
+    "kanji": "在る",
+    "kana": "ある",
+    "romaji": "a ru",
+    "chinese": "存在、活着；位于",
+    "english": "There is",
+    "POS": "自五"
+  },
+  {
+    "kanji": "或いは",
+    "kana": "あるいは",
+    "romaji": "a ru i ha",
+    "chinese": "或者；用于列举同类事项；也许",
+    "english": "or",
+    "POS": "接"
+  },
+  {
+    "kanji": "歩く",
+    "kana": "あるく",
+    "romaji": "a ru ku",
+    "chinese": "步行、外出",
+    "english": "walk",
+    "POS": "自五"
+  },
+  {
+    "kanji": "あれ",
+    "kana": "あれ",
+    "romaji": "a re",
+    "chinese": "那个；那件事；那时；那个人；那儿；哎呀",
+    "english": "That",
+    "POS": "代名，感"
+  },
+  {
+    "kanji": "荒れる",
+    "kana": "あれる",
+    "romaji": "a re ru",
+    "chinese": "海浪汹涌；荒废、荒芜；皮肤变粗糙、皴裂；（行为、秩序等）杂乱无章",
+    "english": "Rough",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "泡",
+    "kana": "あわ",
+    "romaji": "a wa",
+    "chinese": "泡沫",
+    "english": "泡",
+    "POS": "名"
+  },
+  {
+    "kanji": "淡い",
+    "kana": "あわい",
+    "romaji": "a wa i",
+    "chinese": "颜色浅、味道淡；微少的",
+    "english": "pale",
+    "POS": "形"
+  },
+  {
+    "kanji": "合わせる，併わせる",
+    "kana": "あわせる",
+    "romaji": "a wa se ru",
+    "chinese": "合并；相加、合计；调整（机械、乐器）；适应；切合；核对；使一致、配合；混合",
+    "english": "to combine, to put together",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "慌ただしい",
+    "kana": "あわただしい",
+    "romaji": "a wa ta da shi i",
+    "chinese": "不稳定的；慌忙、匆忙",
+    "english": "Hectic",
+    "POS": "形"
+  },
+  {
+    "kanji": "慌てる",
+    "kana": "あわてる",
+    "romaji": "a wa te ru",
+    "chinese": "着慌、慌忙",
+    "english": "panic",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "哀れ",
+    "kana": "あわれ",
+    "romaji": "a wa re",
+    "chinese": "可怜、怜悯；情趣、情感",
+    "english": "Pathetic",
+    "POS": "名"
+  },
+  {
+    "kanji": "暗記",
+    "kana": "あんき",
+    "romaji": "a n ki",
+    "chinese": "背诵",
+    "english": "Memorization",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "安心",
+    "kana": "あんしん",
+    "romaji": "a n shi n",
+    "chinese": "安心、放心",
+    "english": "peace of mind",
+    "POS": "名，サ変，行動"
+  },
+  {
+    "kanji": "安全",
+    "kana": "あんぜん",
+    "romaji": "a n ze n",
+    "chinese": "安全",
+    "english": "Safety",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "安定",
+    "kana": "あんてい",
+    "romaji": "a n te i",
+    "chinese": "安定、稳定",
+    "english": "Stability",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "案内",
+    "kana": "あんない",
+    "romaji": "a n na i",
+    "chinese": "引导、通知；知道、了解",
+    "english": "guidance",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "良い，好い",
+    "kana": "いい",
+    "romaji": "i i",
+    "chinese": "好；合适；行、可以；最好、希望；容易",
+    "english": "Good, good",
+    "POS": "形"
+  },
+  {
+    "kanji": "いい加減",
+    "kana": "いいかげん",
+    "romaji": "i i ka ge n",
+    "chinese": "适度地；无根据、不负责任；很、相当",
+    "english": "Seriously",
+    "POS": "名，副，形動"
+  },
+  {
+    "kanji": "言う",
+    "kana": "いう",
+    "romaji": "i u",
+    "chinese": "说；有声响；询问；批评、评价；表达；叫、称做；议论、谣言；美言、讲情",
+    "english": "say",
+    "POS": "自，他五"
+  },
+  {
+    "kanji": "家",
+    "kana": "いえ",
+    "romaji": "i e",
+    "chinese": "房子；家；门第",
+    "english": "家",
+    "POS": "名"
+  },
+  {
+    "kanji": "家柄",
+    "kana": "いえがら",
+    "romaji": "i e ga ra",
+    "chinese": "门第；家世",
+    "english": "Family background",
+    "POS": "名"
+  },
+  {
+    "kanji": "以下",
+    "kana": "いか",
+    "romaji": "i ka",
+    "chinese": "（数量、程度等）以下；下面",
+    "english": "below",
+    "POS": "名"
+  },
+  {
+    "kanji": "如何",
+    "kana": "いかが",
+    "romaji": "i ka ga",
+    "chinese": "怎样、如何",
+    "english": "how",
+    "POS": "副，形動"
+  },
+  {
+    "kanji": "生かす",
+    "kana": "いかす",
+    "romaji": "i ka su",
+    "chinese": "使活着；活用；使复活",
+    "english": "Make use of",
+    "POS": "他五"
+  },
+  {
+    "kanji": "息",
+    "kana": "いき",
+    "romaji": "i ki",
+    "chinese": "呼吸；步调",
+    "english": "息",
+    "POS": "名"
+  },
+  {
+    "kanji": "勢い",
+    "kana": "いきおい",
+    "romaji": "i ki o i",
+    "chinese": "力；活力、生气；劲头、情况；势力",
+    "english": "Momentum",
+    "POS": "名"
+  },
+  {
+    "kanji": "息抜き",
+    "kana": "いきぬき",
+    "romaji": "i ki nu ki",
+    "chinese": "稍作休息、散心",
+    "english": "Relaxation",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "生きる",
+    "kana": "いきる",
+    "romaji": "i ki ru",
+    "chinese": "谋生、维持生计；有效、有影响；生动、栩栩如生",
+    "english": "live",
+    "POS": "自上一"
+  },
+  {
+    "kanji": "行く",
+    "kana": "いく",
+    "romaji": "i ku",
+    "chinese": "去；寄到；过去、逝去；往来、上班、上学；事情进展；以某种方式做",
+    "english": "go",
+    "POS": "自五"
+  },
+  {
+    "kanji": "幾つ",
+    "kana": "いくつ",
+    "romaji": "i ku tsu",
+    "chinese": "几个；几岁",
+    "english": "how many",
+    "POS": "名"
+  },
+  {
+    "kanji": "幾ら",
+    "kana": "いくら",
+    "romaji": "i ku ra",
+    "chinese": "多少、多少钱；无论如何、即使也",
+    "english": "How much",
+    "POS": "名"
+  },
+  {
+    "kanji": "池",
+    "kana": "いけ",
+    "romaji": "i ke",
+    "chinese": "池子、水池；砚池",
+    "english": "池",
+    "POS": "名"
+  },
+  {
+    "kanji": "いけない",
+    "kana": "いけない",
+    "romaji": "i ke na i",
+    "chinese": "不好的、不行的；没有希望的、没有指望的；禁止；（用なくてはいけない的形式表示）必",
+    "english": "No",
+    "POS": "形"
+  },
+  {
+    "kanji": "生ける",
+    "kana": "いける",
+    "romaji": "i ke ru",
+    "chinese": "插花；栽花",
+    "english": "Living",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "意見",
+    "kana": "いけん",
+    "romaji": "i ke n",
+    "chinese": "想法；忠告、建议",
+    "english": "意見",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "以後",
+    "kana": "いご",
+    "romaji": "i go",
+    "chinese": "以后",
+    "english": "以後",
+    "POS": "名"
+  },
+  {
+    "kanji": "勇ましい",
+    "kana": "いさましい",
+    "romaji": "i sa ma shi i",
+    "chinese": "勇敢的；大胆的；雄壮",
+    "english": "Brave",
+    "POS": "形"
+  },
+  {
+    "kanji": "石",
+    "kana": "いし",
+    "romaji": "i shi",
+    "chinese": "石头、石子；宝石",
+    "english": "石",
+    "POS": "名"
+  },
+  {
+    "kanji": "意地",
+    "kana": "いじ",
+    "romaji": "i ji",
+    "chinese": "气质、性情；固执、要强；物欲、食欲",
+    "english": "Will",
+    "POS": "名"
+  },
+  {
+    "kanji": "維持",
+    "kana": "いじ",
+    "romaji": "i ji",
+    "chinese": "维持",
+    "english": "維持",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "医者",
+    "kana": "いしゃ",
+    "romaji": "i sha",
+    "chinese": "医生",
+    "english": "doctor",
+    "POS": "名"
+  },
+  {
+    "kanji": "以上",
+    "kana": "いじょう",
+    "romaji": "i jo u",
+    "chinese": "上述；完、终；以上；既然",
+    "english": "End",
+    "POS": "名"
+  },
+  {
+    "kanji": "椅子",
+    "kana": "いす",
+    "romaji": "i su",
+    "chinese": "椅子；职位",
+    "english": "chair",
+    "POS": "名"
+  },
+  {
+    "kanji": "忙しい",
+    "kana": "いそがしい",
+    "romaji": "i so ga shi i",
+    "chinese": "忙碌",
+    "english": "busy",
+    "POS": "形"
+  },
+  {
+    "kanji": "急ぐ",
+    "kana": "いそぐ",
+    "romaji": "i so gu",
+    "chinese": "着急、赶紧；急、忙",
+    "english": "Hurry",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "痛い",
+    "kana": "いたい",
+    "romaji": "i ta i",
+    "chinese": "疼痛；难受；（被触及弱点而）感到痛苦",
+    "english": "it hurts",
+    "POS": "形"
+  },
+  {
+    "kanji": "抱く",
+    "kana": "いだく",
+    "romaji": "i da ku",
+    "chinese": "抱；怀有、抱有",
+    "english": "Embrace",
+    "POS": "他五"
+  },
+  {
+    "kanji": "致す",
+    "kana": "いたす",
+    "romaji": "i ta su",
+    "chinese": "“する”的谦恭说法；引起",
+    "english": "Do",
+    "POS": "他五"
+  },
+  {
+    "kanji": "頂く，戴く",
+    "kana": "いただく",
+    "romaji": "i ta da ku",
+    "chinese": "顶、戴、顶在上面；领受、蒙……赐给；“食う、飮む”的谦恭说法；请、给",
+    "english": "To receive, to receive",
+    "POS": "他五"
+  },
+  {
+    "kanji": "痛む，傷む",
+    "kana": "いたむ",
+    "romaji": "i ta mu",
+    "chinese": "（身体）疼痛；心痛、伤心；损坏",
+    "english": "to hurt, to hurt",
+    "POS": "自五"
+  },
+  {
+    "kanji": "至る",
+    "kana": "いたる",
+    "romaji": "i ta ru",
+    "chinese": "到、至；到（某时）；涉及到；结果为",
+    "english": "reach",
+    "POS": "自五"
+  },
+  {
+    "kanji": "位置",
+    "kana": "いち",
+    "romaji": "i chi",
+    "chinese": "位置；地位",
+    "english": "Location",
+    "POS": "名"
+  },
+  {
+    "kanji": "一時",
+    "kana": "いちじ",
+    "romaji": "i chi ji",
+    "chinese": "同时；瞬时；那时、过去；暂时；1点钟",
+    "english": "Temporary",
+    "POS": "名，副"
+  },
+  {
+    "kanji": "著しい",
+    "kana": "いちじるしい",
+    "romaji": "i chi ji ru shi i",
+    "chinese": "显著的、明显的",
+    "english": "Significant",
+    "POS": "形"
+  },
+  {
+    "kanji": "一日",
+    "kana": "いちにち",
+    "romaji": "i chi ni chi",
+    "chinese": "一天；一整天；某日",
+    "english": "One Day",
+    "POS": "名"
+  },
+  {
+    "kanji": "一番",
+    "kana": "いちばん",
+    "romaji": "i chi ba n",
+    "chinese": "第一；最；最好",
+    "english": "number one",
+    "POS": "名，副"
+  },
+  {
+    "kanji": "一面",
+    "kana": "いちめん",
+    "romaji": "i chi me n",
+    "chinese": "事物的一个方面；一面、全面；报纸头版",
+    "english": "one side",
+    "POS": "名"
+  },
+  {
+    "kanji": "何時",
+    "kana": "いつ",
+    "romaji": "i tsu",
+    "chinese": "何时",
+    "english": "when",
+    "POS": "代"
+  },
+  {
+    "kanji": "一緒",
+    "kana": "いっしょ",
+    "romaji": "i っ sho",
+    "chinese": "一起做；同时发生；在一起",
+    "english": "together",
+    "POS": "名"
+  },
+  {
+    "kanji": "一杯",
+    "kana": "いっぱい",
+    "romaji": "i っ pa i",
+    "chinese": "一杯、一碗；饮少量的酒；满满的；全部、沾满；极限；许多",
+    "english": "One cup",
+    "POS": "名，副"
+  },
+  {
+    "kanji": "一般",
+    "kana": "いっぱん",
+    "romaji": "i っ pa n",
+    "chinese": "整个、普遍；普通、一般",
+    "english": "generally",
+    "POS": "名"
+  },
+  {
+    "kanji": "一方",
+    "kana": "いっぽう",
+    "romaji": "i っ po u",
+    "chinese": "一方面；（立场不同的双方中的）其中一方；一个劲儿地、一直；另一方面",
+    "english": "on the other hand",
+    "POS": "名，副助，接"
+  },
+  {
+    "kanji": "いつも",
+    "kana": "いつも",
+    "romaji": "i tsu mo",
+    "chinese": "经常地；平常",
+    "english": "everytime",
+    "POS": "副"
+  },
+  {
+    "kanji": "偽る",
+    "kana": "いつわる",
+    "romaji": "i tsu wa ru",
+    "chinese": "欺骗；说谎",
+    "english": "Lie",
+    "POS": "他五"
+  },
+  {
+    "kanji": "糸",
+    "kana": "いと",
+    "romaji": "i to",
+    "chinese": "线；乐器的弦；钓鱼线；线状物",
+    "english": "糸",
+    "POS": "名"
+  },
+  {
+    "kanji": "従兄弟",
+    "kana": "いとこ",
+    "romaji": "i to ko",
+    "chinese": "堂兄弟（姐妹）、表兄弟（姐妹）",
+    "english": "Cousin",
+    "POS": "名"
+  },
+  {
+    "kanji": "以内",
+    "kana": "いない",
+    "romaji": "i na i",
+    "chinese": "以内",
+    "english": "Within",
+    "POS": "接尾"
+  },
+  {
+    "kanji": "田舎",
+    "kana": "いなか",
+    "romaji": "i na ka",
+    "chinese": "乡下、地方上的；故乡",
+    "english": "countryside",
+    "POS": "名"
+  },
+  {
+    "kanji": "犬",
+    "kana": "いぬ",
+    "romaji": "i nu",
+    "chinese": "狗；间谍、鹰犬",
+    "english": "犬",
+    "POS": "名"
+  },
+  {
+    "kanji": "稲",
+    "kana": "いね",
+    "romaji": "i ne",
+    "chinese": "水稻",
+    "english": "稲",
+    "POS": "名"
+  },
+  {
+    "kanji": "命",
+    "kana": "いのち",
+    "romaji": "i no chi",
+    "chinese": "生命；寿命；最重要的",
+    "english": "命",
+    "POS": "名"
+  },
+  {
+    "kanji": "祈る",
+    "kana": "いのる",
+    "romaji": "i no ru",
+    "chinese": "（向神佛）祈祷；祝愿、希望",
+    "english": "pray",
+    "POS": "他五"
+  },
+  {
+    "kanji": "威張る",
+    "kana": "いばる",
+    "romaji": "i ba ru",
+    "chinese": "趾高气扬、自吹自擂",
+    "english": "Boastful",
+    "POS": "自五"
+  },
+  {
+    "kanji": "今",
+    "kana": "いま",
+    "romaji": "i ma",
+    "chinese": "现在；当前；马上；正好、方才；用（今少しで）的形式，表示“几乎”",
+    "english": "今",
+    "POS": "名，副"
+  },
+  {
+    "kanji": "居間",
+    "kana": "いま",
+    "romaji": "i ma",
+    "chinese": "起居室",
+    "english": "living room",
+    "POS": "名"
+  },
+  {
+    "kanji": "戒める",
+    "kana": "いましめる",
+    "romaji": "i ma shi me ru",
+    "chinese": "训斥、警告；禁止",
+    "english": "Admonish",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "意味",
+    "kana": "いみ",
+    "romaji": "i mi",
+    "chinese": "意思；动机；含义；主旨、要点；意义",
+    "english": "meaning",
+    "POS": "名"
+  },
+  {
+    "kanji": "妹",
+    "kana": "いもうと",
+    "romaji": "i mo u to",
+    "chinese": "妹妹",
+    "english": "妹",
+    "POS": "名"
+  },
+  {
+    "kanji": "嫌",
+    "kana": "いや",
+    "romaji": "i ya",
+    "chinese": "令人厌烦",
+    "english": "嫌",
+    "POS": "形動"
+  },
+  {
+    "kanji": "いよいよ",
+    "kana": "いよいよ",
+    "romaji": "i yo i yo",
+    "chinese": "越发；终于；果真、确实",
+    "english": "Finally",
+    "POS": "副"
+  },
+  {
+    "kanji": "以来",
+    "kana": "いらい",
+    "romaji": "i ra i",
+    "chinese": "那之后、以来；今后",
+    "english": "since",
+    "POS": "名"
+  },
+  {
+    "kanji": "いらいら",
+    "kana": "いらいら",
+    "romaji": "i ra i ra",
+    "chinese": "情绪急躁、心理不安",
+    "english": "Irritability",
+    "POS": "副，サ変"
+  },
+  {
+    "kanji": "いらっしゃる",
+    "kana": "いらっしゃる",
+    "romaji": "i ra っ sha ru",
+    "chinese": "（敬语）来；（敬语）去；（敬语）在；相当于“……です”",
+    "english": "Come",
+    "POS": "自五"
+  },
+  {
+    "kanji": "入る",
+    "kana": "いる",
+    "romaji": "i ru",
+    "chinese": "进入；达到某种状态",
+    "english": "enter",
+    "POS": "自五"
+  },
+  {
+    "kanji": "要る",
+    "kana": "いる",
+    "romaji": "i ru",
+    "chinese": "需要、必要",
+    "english": "need",
+    "POS": "自五"
+  },
+  {
+    "kanji": "居る",
+    "kana": "いる",
+    "romaji": "i ru",
+    "chinese": "（指人、动物等）有、在、居住在",
+    "english": "be there",
+    "POS": "自上一"
+  },
+  {
+    "kanji": "入れる",
+    "kana": "いれる",
+    "romaji": "i re ru",
+    "chinese": "装、放入；让入、让进；容纳；镶嵌；购进、输入；雇佣、采用；添、加；承认、容忍；加",
+    "english": "put in",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "色",
+    "kana": "いろ",
+    "romaji": "i ro",
+    "chinese": "色彩；肤色；表情；景象、样子；种类；恋爱、女色",
+    "english": "色",
+    "POS": "名"
+  },
+  {
+    "kanji": "色色",
+    "kana": "いろいろ",
+    "romaji": "i ro i ro",
+    "chinese": "各种各样",
+    "english": "Color",
+    "POS": "名，副，形動"
+  },
+  {
+    "kanji": "祝う",
+    "kana": "いわう",
+    "romaji": "i wa u",
+    "chinese": "庆祝；祝贺、贺礼",
+    "english": "celebrate",
+    "POS": "他五"
+  },
+  {
+    "kanji": "印象",
+    "kana": "いんしょう",
+    "romaji": "i n sho u",
+    "chinese": "印象",
+    "english": "impression",
+    "POS": "名"
+  },
+  {
+    "kanji": "上",
+    "kana": "うえ",
+    "romaji": "u e",
+    "chinese": "上面；表面；有关；还、而且；之后；既然……就；（接尾词）对长辈的敬称",
+    "english": "上",
+    "POS": "名"
+  },
+  {
+    "kanji": "植える",
+    "kana": "うえる",
+    "romaji": "u e ru",
+    "chinese": "种、植；嵌入；打疫苗",
+    "english": "plant",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "伺う",
+    "kana": "うかがう",
+    "romaji": "u ka ga u",
+    "chinese": "打听；听说；访问",
+    "english": "Ask",
+    "POS": "他五"
+  },
+  {
+    "kanji": "浮かぶ",
+    "kana": "うかぶ",
+    "romaji": "u ka bu",
+    "chinese": "浮上水面、在空中飘；浮现、显露；想起",
+    "english": "Floating",
+    "POS": "自五"
+  },
+  {
+    "kanji": "浮く",
+    "kana": "うく",
+    "romaji": "u ku",
+    "chinese": "浮、飘、现；结余、剩余；高兴",
+    "english": "float",
+    "POS": "自五"
+  },
+  {
+    "kanji": "受け入れる",
+    "kana": "うけいれる",
+    "romaji": "u ke i re ru",
+    "chinese": "接收；采纳；接纳",
+    "english": "accept",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "受け付ける",
+    "kana": "うけつける",
+    "romaji": "u ke tsu ke ru",
+    "chinese": "受理；接收、采纳；对（药品、食物等）吸收",
+    "english": "accept",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "受け取る",
+    "kana": "うけとる",
+    "romaji": "u ke to ru",
+    "chinese": "接、收、领；理解",
+    "english": "receive",
+    "POS": "他五"
+  },
+  {
+    "kanji": "受ける",
+    "kana": "うける",
+    "romaji": "u ke ru",
+    "chinese": "获得；接住、挡住；接收（邀请、要求）；接收；上课、接收考试；遭到；相应、接受；继",
+    "english": "receive",
+    "POS": "自，他下一"
+  },
+  {
+    "kanji": "動かす",
+    "kana": "うごかす",
+    "romaji": "u go ka su",
+    "chinese": "使活动、开动、移动；变更；使感动、施加影响；使行动；影响",
+    "english": "move",
+    "POS": "他五"
+  },
+  {
+    "kanji": "動く",
+    "kana": "うごく",
+    "romaji": "u go ku",
+    "chinese": "动、晃动；转动、开动；摇晃；活动；（受到影响）行动；变更；变动",
+    "english": "Move",
+    "POS": "自五"
+  },
+  {
+    "kanji": "牛",
+    "kana": "うし",
+    "romaji": "u shi",
+    "chinese": "牛",
+    "english": "牛",
+    "POS": "名"
+  },
+  {
+    "kanji": "失う",
+    "kana": "うしなう",
+    "romaji": "u shi na u",
+    "chinese": "失去、丧失；错过；丧、亡",
+    "english": "lose",
+    "POS": "他五"
+  },
+  {
+    "kanji": "後ろ",
+    "kana": "うしろ",
+    "romaji": "u shi ro",
+    "chinese": "后面；后背",
+    "english": "behind",
+    "POS": "名"
+  },
+  {
+    "kanji": "薄い",
+    "kana": "うすい",
+    "romaji": "u su i",
+    "chinese": "薄的；色、味淡；（浓度、密度）低；程度低、缺乏",
+    "english": "thin",
+    "POS": "形"
+  },
+  {
+    "kanji": "嘘",
+    "kana": "うそ",
+    "romaji": "u so",
+    "chinese": "谎言；错误；不合适、不合时宜",
+    "english": "嘘",
+    "POS": "名"
+  },
+  {
+    "kanji": "歌う",
+    "kana": "うたう",
+    "romaji": "u ta u",
+    "chinese": "唱、唱歌；做诗（歌）；鸟儿鸣唱",
+    "english": "sing",
+    "POS": "他五"
+  },
+  {
+    "kanji": "疑う",
+    "kana": "うたがう",
+    "romaji": "u ta ga u",
+    "chinese": "猜疑；担心、怀疑；嫌疑",
+    "english": "doubt",
+    "POS": "他五"
+  },
+  {
+    "kanji": "疑わしい",
+    "kana": "うたがわしい",
+    "romaji": "u ta ga wa shi i",
+    "chinese": "可疑",
+    "english": "i doubt it",
+    "POS": "形"
+  },
+  {
+    "kanji": "家",
+    "kana": "うち",
+    "romaji": "u chi",
+    "chinese": "房屋；自己的家（庭）",
+    "english": "家",
+    "POS": "名"
+  },
+  {
+    "kanji": "内",
+    "kana": "うち",
+    "romaji": "u chi",
+    "chinese": "里面、内；内心；自己所在的组织或团体；在一定的范围、区域之内；（时间）以内；处于",
+    "english": "内",
+    "POS": "名"
+  },
+  {
+    "kanji": "打ち合わせる",
+    "kana": "うちあわせる",
+    "romaji": "u chi a wa se ru",
+    "chinese": "使相碰、互击；商量",
+    "english": "Meeting",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "打つ",
+    "kana": "うつ",
+    "romaji": "u tsu",
+    "chinese": "打、敲响；敲打；击（球）；击（键盘）；注射；撒；（围棋等）下子；令人感动、打动",
+    "english": "strike",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "うっかり",
+    "kana": "うっかり",
+    "romaji": "u っ ka ri",
+    "chinese": "迷糊、心不在焉；疏忽",
+    "english": "inadvertently",
+    "POS": "副，サ変"
+  },
+  {
+    "kanji": "美しい",
+    "kana": "うつくしい",
+    "romaji": "u tsu ku shi i",
+    "chinese": "美好的、优美的；高尚的",
+    "english": "beautiful",
+    "POS": "形"
+  },
+  {
+    "kanji": "移す",
+    "kana": "うつす",
+    "romaji": "u tsu su",
+    "chinese": "移动；调动工作、转校；转移（注意力）；移交；改变状态；传染",
+    "english": "Transfer",
+    "POS": "他五"
+  },
+  {
+    "kanji": "写す，映す",
+    "kana": "うつす",
+    "romaji": "u tsu su",
+    "chinese": "誊写、抄写；拍照；描写",
+    "english": "to copy, to project",
+    "POS": "他五"
+  },
+  {
+    "kanji": "訴える",
+    "kana": "うったえる",
+    "romaji": "u っ ta e ru",
+    "chinese": "控告、诉讼；主张；诉诸于……；感动、打动",
+    "english": "bring the action",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "移る",
+    "kana": "うつる",
+    "romaji": "u tsu ru",
+    "chinese": "迁移、搬动；（地位等）发生变化；变迁；（话题、兴趣发生）变化；传染；熏上、染上",
+    "english": "Move",
+    "POS": "自五"
+  },
+  {
+    "kanji": "写る，映る",
+    "kana": "うつる",
+    "romaji": "u tsu ru",
+    "chinese": "映、照；被拍摄；照相",
+    "english": "To be photographed",
+    "POS": "自五"
+  },
+  {
+    "kanji": "促す",
+    "kana": "うながす",
+    "romaji": "u na ga su",
+    "chinese": "催促、敦促；促进、劝说",
+    "english": "prompt",
+    "POS": "他五"
+  },
+  {
+    "kanji": "奪う",
+    "kana": "うばう",
+    "romaji": "u ba u",
+    "chinese": "抢夺；强烈吸引、迷人",
+    "english": "Take away",
+    "POS": "他五"
+  },
+  {
+    "kanji": "馬",
+    "kana": "うま",
+    "romaji": "u ma",
+    "chinese": "马",
+    "english": "馬",
+    "POS": "名"
+  },
+  {
+    "kanji": "旨い",
+    "kana": "うまい",
+    "romaji": "u ma i",
+    "chinese": "美味的；高明、擅长；方便、顺利",
+    "english": "delicious",
+    "POS": "形"
+  },
+  {
+    "kanji": "生まれる",
+    "kana": "うまれる",
+    "romaji": "u ma re ru",
+    "chinese": "出生、诞生；产生、出现",
+    "english": "Born",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "海",
+    "kana": "うみ",
+    "romaji": "u mi",
+    "chinese": "海",
+    "english": "海",
+    "POS": "名"
+  },
+  {
+    "kanji": "生む，産む",
+    "kana": "うむ",
+    "romaji": "u mu",
+    "chinese": "生、产；产生、产出",
+    "english": "give birth, give birth",
+    "POS": "他五"
+  },
+  {
+    "kanji": "埋める",
+    "kana": "うめる",
+    "romaji": "u me ru",
+    "chinese": "埋入；填满；满满的；填补；（往热水里）兑凉水",
+    "english": "fill in",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "裏",
+    "kana": "うら",
+    "romaji": "u ra",
+    "chinese": "里面；反面、背面；货币的背面；衣服等的里子；鞋底；后面；内幕；幕后",
+    "english": "裏",
+    "POS": "名"
+  },
+  {
+    "kanji": "裏切る",
+    "kana": "うらぎる",
+    "romaji": "u ra gi ru",
+    "chinese": "不守信条、背叛；辜负、与期待相反",
+    "english": "betray",
+    "POS": "他五"
+  },
+  {
+    "kanji": "恨む",
+    "kana": "うらむ",
+    "romaji": "u ra mu",
+    "chinese": "怨恨、抱怨",
+    "english": "hate",
+    "POS": "他五"
+  },
+  {
+    "kanji": "羨ましい",
+    "kana": "うらやましい",
+    "romaji": "u ra ya ma shi i",
+    "chinese": "羡慕",
+    "english": "enviable",
+    "POS": "形"
+  },
+  {
+    "kanji": "売る",
+    "kana": "うる",
+    "romaji": "u ru",
+    "chinese": "卖、出售；沽名、扬名、出卖、背叛；找碴、挑起",
+    "english": "sell",
+    "POS": "他五"
+  },
+  {
+    "kanji": "潤う",
+    "kana": "うるおう",
+    "romaji": "u ru o u",
+    "chinese": "湿润；受益、受惠",
+    "english": "Moisturize",
+    "POS": "自五"
+  },
+  {
+    "kanji": "煩い，五月蠅い",
+    "kana": "うるさい",
+    "romaji": "u ru sa i",
+    "chinese": "吵闹；讨厌、烦人；纠缠不休；议论纷纷",
+    "english": "Noisy, annoying",
+    "POS": "形"
+  },
+  {
+    "kanji": "嬉しい",
+    "kana": "うれしい",
+    "romaji": "u re shi i",
+    "chinese": "高兴、快活",
+    "english": "happy",
+    "POS": "形"
+  },
+  {
+    "kanji": "うろうろ",
+    "kana": "うろうろ",
+    "romaji": "u ro u ro",
+    "chinese": "徘徊、彷徨；心神不安、不知所措",
+    "english": "Wandering around",
+    "POS": "副，サ変"
+  },
+  {
+    "kanji": "噂",
+    "kana": "うわさ",
+    "romaji": "u wa sa",
+    "chinese": "闲谈、传言、风言风语",
+    "english": "噂",
+    "POS": "名"
+  },
+  {
+    "kanji": "運転",
+    "kana": "うんてん",
+    "romaji": "u n te n",
+    "chinese": "驾驶；操纵、运转；周转",
+    "english": "driving",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "運動",
+    "kana": "うんどう",
+    "romaji": "u n do u",
+    "chinese": "运动",
+    "english": "運動",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "運命",
+    "kana": "うんめい",
+    "romaji": "u n me i",
+    "chinese": "命运",
+    "english": "destiny",
+    "POS": "名"
+  },
+  {
+    "kanji": "絵",
+    "kana": "え",
+    "romaji": "e",
+    "chinese": "绘画，画面",
+    "english": "絵",
+    "POS": "名"
+  },
+  {
+    "kanji": "映画",
+    "kana": "えいが",
+    "romaji": "e i ga",
+    "chinese": "电影",
+    "english": "movie",
+    "POS": "名"
+  },
+  {
+    "kanji": "影響",
+    "kana": "えいきょう",
+    "romaji": "e i kyo u",
+    "chinese": "影响",
+    "english": "影響",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "営業",
+    "kana": "えいぎょう",
+    "romaji": "e i gyo u",
+    "chinese": "营业",
+    "english": "sales",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "英語",
+    "kana": "えいご",
+    "romaji": "e i go",
+    "chinese": "英语",
+    "english": "English",
+    "POS": "名"
+  },
+  {
+    "kanji": "描く",
+    "kana": "えがく",
+    "romaji": "e ga ku",
+    "chinese": "画、描绘；造型；表现；想象",
+    "english": "draw",
+    "POS": "他五"
+  },
+  {
+    "kanji": "駅",
+    "kana": "えき",
+    "romaji": "e ki",
+    "chinese": "车站",
+    "english": "駅",
+    "POS": "名"
+  },
+  {
+    "kanji": "閲覧",
+    "kana": "えつらん",
+    "romaji": "e tsu ra n",
+    "chinese": "阅览",
+    "english": "View",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "偉い",
+    "kana": "えらい",
+    "romaji": "e ra i",
+    "chinese": "杰出、卓越；地位（身份）高；（出乎意料地）严重、厉害",
+    "english": "great",
+    "POS": "形"
+  },
+  {
+    "kanji": "選ぶ",
+    "kana": "えらぶ",
+    "romaji": "e ra bu",
+    "chinese": "挑选；看中；选拔；选举",
+    "english": "choose",
+    "POS": "他五"
+  },
+  {
+    "kanji": "得る",
+    "kana": "える",
+    "romaji": "e ru",
+    "chinese": "（通过努力、手段等）得到；能、可能",
+    "english": "obtain",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "円",
+    "kana": "えん",
+    "romaji": "e n",
+    "chinese": "圆形；日元",
+    "english": "円",
+    "POS": "名"
+  },
+  {
+    "kanji": "演じる",
+    "kana": "えんじる",
+    "romaji": "e n ji ru",
+    "chinese": "上演、演出；做出（坏事等）、扮演",
+    "english": "play",
+    "POS": "他上一"
+  },
+  {
+    "kanji": "延長",
+    "kana": "えんちょう",
+    "romaji": "e n cho u",
+    "chinese": "延长；延长时间；全长；延长线",
+    "english": "延長",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "遠慮",
+    "kana": "えんりょ",
+    "romaji": "e n ryo",
+    "chinese": "远虑；礼让、谦虚；客气；谢绝",
+    "english": "refrain",
+    "POS": "名，自サ"
+  },
+  {
+    "kanji": "美味しい",
+    "kana": "おいしい",
+    "romaji": "o i shi i",
+    "chinese": "味美、好吃；有魅力",
+    "english": "delicious",
+    "POS": "形"
+  },
+  {
+    "kanji": "追う",
+    "kana": "おう",
+    "romaji": "o u",
+    "chinese": "追赶犯人、猎物等；驱赶；轰走；驱逐、清除；追求；按照顺序、随着时间",
+    "english": "Follow up",
+    "POS": "他五"
+  },
+  {
+    "kanji": "負う",
+    "kana": "おう",
+    "romaji": "o u",
+    "chinese": "背负；接受、担任责任；多亏、借助于；受伤",
+    "english": "Lose",
+    "POS": "他五"
+  },
+  {
+    "kanji": "応援",
+    "kana": "おうえん",
+    "romaji": "o u e n",
+    "chinese": "支持；声源、从旁助威",
+    "english": "support",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "応接",
+    "kana": "おうせつ",
+    "romaji": "o u se tsu",
+    "chinese": "接待",
+    "english": "Reception",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "応募",
+    "kana": "おうぼ",
+    "romaji": "o u bo",
+    "chinese": "应聘、应征",
+    "english": "Application",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "応用",
+    "kana": "おうよう",
+    "romaji": "o u yo u",
+    "chinese": "应用",
+    "english": "application",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "多い",
+    "kana": "おおい",
+    "romaji": "o o i",
+    "chinese": "数量多；次数多、程度深",
+    "english": "many",
+    "POS": "形"
+  },
+  {
+    "kanji": "覆う",
+    "kana": "おおう",
+    "romaji": "o o u",
+    "chinese": "蒙上、盖上；充满；包藏、掩饰；笼罩",
+    "english": "cover",
+    "POS": "他五"
+  },
+  {
+    "kanji": "大きい",
+    "kana": "おおきい",
+    "romaji": "o o ki i",
+    "chinese": "大的、个子高的；数目大；音量大；年长的；成长、长大；（规模等）大；夸大、夸张；显",
+    "english": "big",
+    "POS": "形"
+  },
+  {
+    "kanji": "大きな",
+    "kana": "おおきな",
+    "romaji": "o o ki na",
+    "chinese": "大的",
+    "english": "Large",
+    "POS": "連体"
+  },
+  {
+    "kanji": "大勢",
+    "kana": "おおぜい",
+    "romaji": "o o ze i",
+    "chinese": "人数多",
+    "english": "large crowd",
+    "POS": "名"
+  },
+  {
+    "kanji": "可笑しい",
+    "kana": "おかしい",
+    "romaji": "o ka shi i",
+    "chinese": "可笑的、滑稽的；不正常；可疑的",
+    "english": "funny",
+    "POS": "形"
+  },
+  {
+    "kanji": "侵す",
+    "kana": "おかす",
+    "romaji": "o ka su",
+    "chinese": "侵犯（国土、领域等）",
+    "english": "Invade",
+    "POS": "他五"
+  },
+  {
+    "kanji": "犯す",
+    "kana": "おかす",
+    "romaji": "o ka su",
+    "chinese": "犯法、违反道德；强奸、施暴",
+    "english": "commit",
+    "POS": "他五"
+  },
+  {
+    "kanji": "冒す",
+    "kana": "おかす",
+    "romaji": "o ka su",
+    "chinese": "冒着危险、不顾困难；加害、带来伤害；亵渎",
+    "english": "risk",
+    "POS": "他五"
+  },
+  {
+    "kanji": "補う",
+    "kana": "おぎなう",
+    "romaji": "o gi na u",
+    "chinese": "弥补",
+    "english": "compensate",
+    "POS": "他五"
+  },
+  {
+    "kanji": "起きる",
+    "kana": "おきる",
+    "romaji": "o ki ru",
+    "chinese": "起床；不睡；离开病床；起身、站起来；发生、产生",
+    "english": "get up",
+    "POS": "自上一"
+  },
+  {
+    "kanji": "奥",
+    "kana": "おく",
+    "romaji": "o ku",
+    "chinese": "里头、深处；后面；里屋、内宅、上房；胸中",
+    "english": "奥",
+    "POS": "名"
+  },
+  {
+    "kanji": "億",
+    "kana": "おく",
+    "romaji": "o ku",
+    "chinese": "亿",
+    "english": "億",
+    "POS": "名"
+  },
+  {
+    "kanji": "置く",
+    "kana": "おく",
+    "romaji": "o ku",
+    "chinese": "摆、置；放置；放下、留下、丢下；购入以备出售；设置；任命、雇用；留在家住；寄存、",
+    "english": "put",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "送る",
+    "kana": "おくる",
+    "romaji": "o ku ru",
+    "chinese": "邮寄；派遣；送人、送行；吊唁、送别（死者）；渡过；依此传递、移动；送；标上假名",
+    "english": "send",
+    "POS": "他五"
+  },
+  {
+    "kanji": "贈る",
+    "kana": "おくる",
+    "romaji": "o ku ru",
+    "chinese": "赠送；授予（称号等）；报以、致以",
+    "english": "give",
+    "POS": "他五"
+  },
+  {
+    "kanji": "遅れる",
+    "kana": "おくれる",
+    "romaji": "o ku re ru",
+    "chinese": "迟到、赶不上；比预定晚；钟、表慢了",
+    "english": "Delay",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "起こす，興す",
+    "kana": "おこす",
+    "romaji": "o ko su",
+    "chinese": "扶起；叫醒；翻起、弄起；开始；发动；生病；（思想、感情等）引起、惹起；发热、发电",
+    "english": "to wake up, to raise up",
+    "POS": "他五"
+  },
+  {
+    "kanji": "行う",
+    "kana": "おこなう",
+    "romaji": "o ko na u",
+    "chinese": "做、办；实施、举行",
+    "english": "conduct",
+    "POS": "他五"
+  },
+  {
+    "kanji": "起る",
+    "kana": "おこる",
+    "romaji": "o ko ru",
+    "chinese": "发生、产生；起因；兴起、起源；发热、发电；发病",
+    "english": "Get up",
+    "POS": "自五"
+  },
+  {
+    "kanji": "怒る",
+    "kana": "おこる",
+    "romaji": "o ko ru",
+    "chinese": "生气；训斥、呵斥",
+    "english": "get angry",
+    "POS": "自五"
+  },
+  {
+    "kanji": "押さえる",
+    "kana": "おさえる",
+    "romaji": "o sa e ru",
+    "chinese": "压、按、捂；堵；抓住",
+    "english": "Hold",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "抑える",
+    "kana": "おさえる",
+    "romaji": "o sa e ru",
+    "chinese": "抑制；压倒、凌驾；抑制感情；降低程度",
+    "english": "suppress",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "幼い",
+    "kana": "おさない",
+    "romaji": "o sa na i",
+    "chinese": "幼小的；幼稚的",
+    "english": "Young",
+    "POS": "形"
+  },
+  {
+    "kanji": "治まる",
+    "kana": "おさまる",
+    "romaji": "o sa ma ru",
+    "chinese": "变得安定；止痛；心情平静",
+    "english": "Calm down",
+    "POS": "自五"
+  },
+  {
+    "kanji": "収まる",
+    "kana": "おさまる",
+    "romaji": "o sa ma ru",
+    "chinese": "收纳、整齐地收好；解决、平息",
+    "english": "Fits",
+    "POS": "自五"
+  },
+  {
+    "kanji": "納まる",
+    "kana": "おさまる",
+    "romaji": "o sa ma ru",
+    "chinese": "缴纳；稳坐……的交椅；心满意足",
+    "english": "settle",
+    "POS": "自五"
+  },
+  {
+    "kanji": "修まる",
+    "kana": "おさまる",
+    "romaji": "o sa ma ru",
+    "chinese": "端正",
+    "english": "conduct oneself well",
+    "POS": "自五"
+  },
+  {
+    "kanji": "治める",
+    "kana": "おさめる",
+    "romaji": "o sa me ru",
+    "chinese": "平定；统治、治理",
+    "english": "Govern",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "収める",
+    "kana": "おさめる",
+    "romaji": "o sa me ru",
+    "chinese": "收录；获得",
+    "english": "Pack up",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "納める",
+    "kana": "おさめる",
+    "romaji": "o sa me ru",
+    "chinese": "接受；缴纳；结束",
+    "english": "Pay",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "修める",
+    "kana": "おさめる",
+    "romaji": "o sa me ru",
+    "chinese": "掌握学问；修、修养",
+    "english": "Repair",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "惜しい",
+    "kana": "おしい",
+    "romaji": "o shi i",
+    "chinese": "珍惜、可贵；可惜、委屈；遗憾",
+    "english": "Too bad",
+    "POS": "形"
+  },
+  {
+    "kanji": "お爺さん",
+    "kana": "おじいさん",
+    "romaji": "o ji i sa n",
+    "chinese": "爷爷、祖父、外祖父",
+    "english": "grandfather",
+    "POS": "名"
+  },
+  {
+    "kanji": "教える",
+    "kana": "おしえる",
+    "romaji": "o shi e ru",
+    "chinese": "教、传授；告诉、指点",
+    "english": "teach",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "惜しむ",
+    "kana": "おしむ",
+    "romaji": "o shi mu",
+    "chinese": "珍惜；认为可惜、吝啬；惋惜",
+    "english": "regret",
+    "POS": "他五"
+  },
+  {
+    "kanji": "おしゃべり",
+    "kana": "おしゃべり",
+    "romaji": "o sha be ri",
+    "chinese": "闲聊、聊天；多嘴多舌、健谈（的人）；议论、传言、风言风语",
+    "english": "Chatting",
+    "POS": "形動，名，サ変"
+  },
+  {
+    "kanji": "押す，推す，捺す",
+    "kana": "おす",
+    "romaji": "o su",
+    "chinese": "推、挤；压、碰；盖章；强行；压倒；顶住、不顾",
+    "english": "to push, to shove, to stamp",
+    "POS": "他五"
+  },
+  {
+    "kanji": "お世辞",
+    "kana": "おせじ",
+    "romaji": "o se ji",
+    "chinese": "恭维（话）、奉承（话）",
+    "english": "compliment",
+    "POS": "名"
+  },
+  {
+    "kanji": "汚染",
+    "kana": "おせん",
+    "romaji": "o se n",
+    "chinese": "污染",
+    "english": "pollution",
+    "POS": "名"
+  },
+  {
+    "kanji": "遅い",
+    "kana": "おそい",
+    "romaji": "o so i",
+    "chinese": "速度慢、迟缓；夜深；时间晚、迟",
+    "english": "slow",
+    "POS": "形"
+  },
+  {
+    "kanji": "襲う",
+    "kana": "おそう",
+    "romaji": "o so u",
+    "chinese": "袭击、侵袭；继承",
+    "english": "Attack",
+    "POS": "他五"
+  },
+  {
+    "kanji": "恐れ入る",
+    "kana": "おそれいる",
+    "romaji": "o so re i ru",
+    "chinese": "不好意思；折服、佩服",
+    "english": "I'm honored",
+    "POS": "自五"
+  },
+  {
+    "kanji": "恐れる",
+    "kana": "おそれる",
+    "romaji": "o so re ru",
+    "chinese": "害怕、畏惧；担心；敬畏",
+    "english": "fear",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "恐ろしい",
+    "kana": "おそろしい",
+    "romaji": "o so ro shi i",
+    "chinese": "可怕的；惊人的、非常的",
+    "english": "terrible",
+    "POS": "形"
+  },
+  {
+    "kanji": "教わる",
+    "kana": "おそわる",
+    "romaji": "o so wa ru",
+    "chinese": "收教、跟……学习",
+    "english": "be taught",
+    "POS": "他五"
+  },
+  {
+    "kanji": "穏やか",
+    "kana": "おだやか",
+    "romaji": "o da ya ka",
+    "chinese": "平静、平稳；温和、安详",
+    "english": "gentle",
+    "POS": "形動"
+  },
+  {
+    "kanji": "陥る",
+    "kana": "おちいる",
+    "romaji": "o chi i ru",
+    "chinese": "落入、掉进；陷入（不良）状态；中计",
+    "english": "fall into",
+    "POS": "自五"
+  },
+  {
+    "kanji": "落ち着く",
+    "kana": "おちつく",
+    "romaji": "o chi tsu ku",
+    "chinese": "镇静、平心静气；稳定、安定；坐得稳；有头绪、有结果；（颜色、衣服等）淡雅",
+    "english": "calm down",
+    "POS": "自五"
+  },
+  {
+    "kanji": "お茶",
+    "kana": "おちゃ",
+    "romaji": "o cha",
+    "chinese": "茶",
+    "english": "tea",
+    "POS": "名"
+  },
+  {
+    "kanji": "落ちる",
+    "kana": "おちる",
+    "romaji": "o chi ru",
+    "chinese": "落下；崩溃、陷没；下、降；西沉、下山；脱落、褪色；漏掉；钱被用掉；落榜、落选；程",
+    "english": "drop down",
+    "POS": "自上一"
+  },
+  {
+    "kanji": "おっしゃる",
+    "kana": "おっしゃる",
+    "romaji": "o っ sha ru",
+    "chinese": "说、称呼（敬语）",
+    "english": "Say",
+    "POS": "他五"
+  },
+  {
+    "kanji": "夫",
+    "kana": "おっと",
+    "romaji": "o っ to",
+    "chinese": "丈夫",
+    "english": "夫",
+    "POS": "名"
+  },
+  {
+    "kanji": "音",
+    "kana": "おと",
+    "romaji": "o to",
+    "chinese": "（物体发出的）声响",
+    "english": "音",
+    "POS": "名"
+  },
+  {
+    "kanji": "弟",
+    "kana": "おとうと",
+    "romaji": "o to u to",
+    "chinese": "弟弟",
+    "english": "弟",
+    "POS": "名"
+  },
+  {
+    "kanji": "男",
+    "kana": "おとこ",
+    "romaji": "o to ko",
+    "chinese": "男性、男子汉、大丈夫气质",
+    "english": "男",
+    "POS": "名"
+  },
+  {
+    "kanji": "陥れる",
+    "kana": "おとしいれる",
+    "romaji": "o to shi i re ru",
+    "chinese": "使……陷入；陷害",
+    "english": "to ensnare",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "落とす",
+    "kana": "おとす",
+    "romaji": "o to su",
+    "chinese": "投下、扔下；弄掉、除掉；丢失、遗漏；减弱、降低；是陷入不好的状态；花钱；使落第；",
+    "english": "Drop",
+    "POS": "他五"
+  },
+  {
+    "kanji": "訪れる",
+    "kana": "おとずれる",
+    "romaji": "o to zu re ru",
+    "chinese": "拜访；到来",
+    "english": "visit",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "一昨日",
+    "kana": "おととい",
+    "romaji": "o to to i",
+    "chinese": "前天",
+    "english": "the day before yesterday",
+    "POS": "名"
+  },
+  {
+    "kanji": "一昨年",
+    "kana": "おととし",
+    "romaji": "o to to shi",
+    "chinese": "前年",
+    "english": "Two years ago",
+    "POS": "名"
+  },
+  {
+    "kanji": "大人",
+    "kana": "おとな",
+    "romaji": "o to na",
+    "chinese": "成人",
+    "english": "adult",
+    "POS": "名"
+  },
+  {
+    "kanji": "大人しい",
+    "kana": "おとなしい",
+    "romaji": "o to na shi i",
+    "chinese": "老实、温顺；（颜色）等素气",
+    "english": "quiet",
+    "POS": "形"
+  },
+  {
+    "kanji": "踊る",
+    "kana": "おどる",
+    "romaji": "o do ru",
+    "chinese": "跳舞；被操纵",
+    "english": "dance",
+    "POS": "自五"
+  },
+  {
+    "kanji": "驚く",
+    "kana": "おどろく",
+    "romaji": "o do ro ku",
+    "chinese": "惊讶、惊叹；吃惊、惊惶",
+    "english": "Surprised",
+    "POS": "自五"
+  },
+  {
+    "kanji": "同じ",
+    "kana": "おなじ",
+    "romaji": "o na ji",
+    "chinese": "（性质、种类等）相同；一样的；相等；（用“同じ……なる”的形式表示）反正",
+    "english": "same",
+    "POS": "連体，形動"
+  },
+  {
+    "kanji": "鬼",
+    "kana": "おに",
+    "romaji": "o ni",
+    "chinese": "鬼怪；穷凶极恶的人",
+    "english": "鬼",
+    "POS": "名"
+  },
+  {
+    "kanji": "覚える",
+    "kana": "おぼえる",
+    "romaji": "o bo e ru",
+    "chinese": "记忆；学习、掌握；感觉、感到",
+    "english": "learn by heart",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "重い",
+    "kana": "おもい",
+    "romaji": "o mo i",
+    "chinese": "重的；沉重的；重要的；（情况、程度等）重大的",
+    "english": "heavy",
+    "POS": "形"
+  },
+  {
+    "kanji": "思い出",
+    "kana": "おもいで",
+    "romaji": "o mo i de",
+    "chinese": "追忆、怀念",
+    "english": "memory",
+    "POS": "名"
+  },
+  {
+    "kanji": "思う",
+    "kana": "おもう",
+    "romaji": "o mo u",
+    "chinese": "考虑；怀疑；推测；想象；感觉；期望；牵挂；爱慕；退出",
+    "english": "think",
+    "POS": "他五"
+  },
+  {
+    "kanji": "面白い",
+    "kana": "おもしろい",
+    "romaji": "o mo shi ro i",
+    "chinese": "有趣的；可笑的；（用否定的形式表示）情况不妙",
+    "english": "interesting",
+    "POS": "形"
+  },
+  {
+    "kanji": "玩具",
+    "kana": "おもちゃ",
+    "romaji": "o mo cha",
+    "chinese": "玩具；玩物",
+    "english": "Toy",
+    "POS": "名"
+  },
+  {
+    "kanji": "表",
+    "kana": "おもて",
+    "romaji": "o mo te",
+    "chinese": "正面；家的正面；户外；棒球比赛的前半场；表面",
+    "english": "表",
+    "POS": "名"
+  },
+  {
+    "kanji": "親",
+    "kana": "おや",
+    "romaji": "o ya",
+    "chinese": "父母",
+    "english": "親",
+    "POS": "名"
+  },
+  {
+    "kanji": "泳ぐ",
+    "kana": "およぐ",
+    "romaji": "o yo gu",
+    "chinese": "游泳；踉跄；栽倒；穿过；处世",
+    "english": "swim",
+    "POS": "自五"
+  },
+  {
+    "kanji": "及ぶ",
+    "kana": "およぶ",
+    "romaji": "o yo bu",
+    "chinese": "达到；发展成；临到；匹敌；比得上；（用否定的形式表示）不需要、不必",
+    "english": "reaches",
+    "POS": "自五"
+  },
+  {
+    "kanji": "降りる",
+    "kana": "おりる",
+    "romaji": "o ri ru",
+    "chinese": "（从交通工具中）下来；退位；半道退出；降霜等",
+    "english": "Get off",
+    "POS": "自上一"
+  },
+  {
+    "kanji": "下りる",
+    "kana": "おりる",
+    "romaji": "o ri ru",
+    "chinese": "降下；批准、发下来上锁",
+    "english": "Get off",
+    "POS": "自上一"
+  },
+  {
+    "kanji": "折る",
+    "kana": "おる",
+    "romaji": "o ru",
+    "chinese": "折；折断；弯曲",
+    "english": "Fold",
+    "POS": "他五"
+  },
+  {
+    "kanji": "降ろす",
+    "kana": "おろす",
+    "romaji": "o ro su",
+    "chinese": "让人下来；卸下；降旗；退位",
+    "english": "unload",
+    "POS": "他五"
+  },
+  {
+    "kanji": "下ろす",
+    "kana": "おろす",
+    "romaji": "o ro su",
+    "chinese": "放下、取下；风从高处刮下；落（发）；上锁；切鱼肉；擦丝；使用新产品；取出；打胎",
+    "english": "Take down",
+    "POS": "他五"
+  },
+  {
+    "kanji": "終わる",
+    "kana": "おわる",
+    "romaji": "o wa ru",
+    "chinese": "完",
+    "english": "End",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "音楽",
+    "kana": "おんがく",
+    "romaji": "o n ga ku",
+    "chinese": "音乐",
+    "english": "music",
+    "POS": "名"
+  },
+  {
+    "kanji": "温度",
+    "kana": "おんど",
+    "romaji": "o n do",
+    "chinese": "温度",
+    "english": "temperature",
+    "POS": "名"
+  },
+  {
+    "kanji": "女",
+    "kana": "おんな",
+    "romaji": "o n na",
+    "chinese": "女性；情妇；女佣人",
+    "english": "女",
+    "POS": "名"
+  },
+  {
+    "kanji": "海外",
+    "kana": "かいがい",
+    "romaji": "ka i ga i",
+    "chinese": "海外、外国",
+    "english": "abroad",
+    "POS": "名"
+  },
+  {
+    "kanji": "会議",
+    "kana": "かいぎ",
+    "romaji": "ka i gi",
+    "chinese": "会议",
+    "english": "meeting",
+    "POS": "名"
+  },
+  {
+    "kanji": "会計",
+    "kana": "かいけい",
+    "romaji": "ka i ke i",
+    "chinese": "会计；付款、结帐",
+    "english": "accounting",
+    "POS": "名"
+  },
+  {
+    "kanji": "解決",
+    "kana": "かいけつ",
+    "romaji": "ka i ke tsu",
+    "chinese": "解决",
+    "english": "解決",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "会合",
+    "kana": "かいごう",
+    "romaji": "ka i go u",
+    "chinese": "集合、集会、聚集",
+    "english": "Meeting",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "外交",
+    "kana": "がいこう",
+    "romaji": "ga i ko u",
+    "chinese": "外交；推销",
+    "english": "diplomatic",
+    "POS": "名"
+  },
+  {
+    "kanji": "外向",
+    "kana": "がいこう",
+    "romaji": "ga i ko u",
+    "chinese": "外向",
+    "english": "Extroversion",
+    "POS": "名"
+  },
+  {
+    "kanji": "外国",
+    "kana": "がいこく",
+    "romaji": "ga i ko ku",
+    "chinese": "外国",
+    "english": "foreign country",
+    "POS": "名"
+  },
+  {
+    "kanji": "解散",
+    "kana": "かいさん",
+    "romaji": "ka i sa n",
+    "chinese": "解决；组织解体；国会解散",
+    "english": "dissolution",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "開始",
+    "kana": "かいし",
+    "romaji": "ka i shi",
+    "chinese": "开始",
+    "english": "開始",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "会社",
+    "kana": "かいしゃ",
+    "romaji": "ka i sha",
+    "chinese": "公司",
+    "english": "company",
+    "POS": "名"
+  },
+  {
+    "kanji": "階段",
+    "kana": "かいだん",
+    "romaji": "ka i da n",
+    "chinese": "楼梯",
+    "english": "階段",
+    "POS": "名"
+  },
+  {
+    "kanji": "解答",
+    "kana": "かいとう",
+    "romaji": "ka i to u",
+    "chinese": "解答",
+    "english": "answer",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "買い物",
+    "kana": "かいもの",
+    "romaji": "ka i mo no",
+    "chinese": "买东西、买的东西；买得合算的东西",
+    "english": "shopping",
+    "POS": "名"
+  },
+  {
+    "kanji": "会話",
+    "kana": "かいわ",
+    "romaji": "ka i wa",
+    "chinese": "会话",
+    "english": "conversation",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "買う",
+    "kana": "かう",
+    "romaji": "ka u",
+    "chinese": "买；招、招致；惹起；主动承担；高度评价、赏识",
+    "english": "buy",
+    "POS": "他五"
+  },
+  {
+    "kanji": "返す",
+    "kana": "かえす",
+    "romaji": "ka e su",
+    "chinese": "归还；回报、回敬；报仇；回礼",
+    "english": "return",
+    "POS": "他五"
+  },
+  {
+    "kanji": "かえって",
+    "kana": "かえって",
+    "romaji": "ka e っ te",
+    "chinese": "反而；反倒",
+    "english": "On the contrary",
+    "POS": "副"
+  },
+  {
+    "kanji": "顧みる，省みる",
+    "kana": "かえりみる",
+    "romaji": "ka e ri mi ru",
+    "chinese": "回头看；回顾；反省；牵挂",
+    "english": "to look back, to reflect",
+    "POS": "他上一"
+  },
+  {
+    "kanji": "返る",
+    "kana": "かえる",
+    "romaji": "ka e ru",
+    "chinese": "复原；复归",
+    "english": "Return",
+    "POS": "自五"
+  },
+  {
+    "kanji": "帰る",
+    "kana": "かえる",
+    "romaji": "ka e ru",
+    "chinese": "回来（去）；归去；（否定形式）死",
+    "english": "Go home",
+    "POS": "自五"
+  },
+  {
+    "kanji": "代える",
+    "kana": "かえる",
+    "romaji": "ka e ru",
+    "chinese": "代替",
+    "english": "Replace",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "換える",
+    "kana": "かえる",
+    "romaji": "ka e ru",
+    "chinese": "交换",
+    "english": "exchange",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "替える",
+    "kana": "かえる",
+    "romaji": "ka e ru",
+    "chinese": "替换",
+    "english": "Replace",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "変える",
+    "kana": "かえる",
+    "romaji": "ka e ru",
+    "chinese": "改变；移到别的地方",
+    "english": "change",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "顔",
+    "kana": "かお",
+    "romaji": "ka o",
+    "chinese": "脸、表情",
+    "english": "顔",
+    "POS": "名"
+  },
+  {
+    "kanji": "香る，薫る",
+    "kana": "かおる",
+    "romaji": "ka o ru",
+    "chinese": "飘香",
+    "english": "Fragrant, fragrant",
+    "POS": "自五"
+  },
+  {
+    "kanji": "抱える",
+    "kana": "かかえる",
+    "romaji": "ka ka e ru",
+    "chinese": "用手抱；有麻烦事；雇",
+    "english": "Hold",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "科学",
+    "kana": "かがく",
+    "romaji": "ka ga ku",
+    "chinese": "科学",
+    "english": "science",
+    "POS": "名"
+  },
+  {
+    "kanji": "掲げる",
+    "kana": "かかげる",
+    "romaji": "ka ka ge ru",
+    "chinese": "高举；登载；提出方针等",
+    "english": "Raise",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "鏡",
+    "kana": "かがみ",
+    "romaji": "ka ga mi",
+    "chinese": "镜子",
+    "english": "鏡",
+    "POS": "名"
+  },
+  {
+    "kanji": "掛かる",
+    "kana": "かかる",
+    "romaji": "ka ka ru",
+    "chinese": "悬、垂、吊；放在火上；降临、落到（身上）；锁着；放在上面；挂住、陷入；设置；靠着",
+    "english": "Hang",
+    "POS": "自五"
+  },
+  {
+    "kanji": "拘わらず",
+    "kana": "かかわらず",
+    "romaji": "ka ka wa ra zu",
+    "chinese": "尽管；不问、不管",
+    "english": "Regardless",
+    "POS": "連"
+  },
+  {
+    "kanji": "関る",
+    "kana": "かかわる",
+    "romaji": "ka ka wa ru",
+    "chinese": "有关；拘泥",
+    "english": "Involved",
+    "POS": "自五"
+  },
+  {
+    "kanji": "鍵",
+    "kana": "かぎ",
+    "romaji": "ka gi",
+    "chinese": "钥匙；线索、关键",
+    "english": "鍵",
+    "POS": "名"
+  },
+  {
+    "kanji": "限る",
+    "kana": "かぎる",
+    "romaji": "ka gi ru",
+    "chinese": "限制、限于；最好；（否定的形式）不一定；未必",
+    "english": "Limited",
+    "POS": "他五"
+  },
+  {
+    "kanji": "書く",
+    "kana": "かく",
+    "romaji": "ka ku",
+    "chinese": "写、画；写文章",
+    "english": "write",
+    "POS": "他五"
+  },
+  {
+    "kanji": "隠す",
+    "kana": "かくす",
+    "romaji": "ka ku su",
+    "chinese": "掩盖；隐藏、隐瞒",
+    "english": "hide",
+    "POS": "他五"
+  },
+  {
+    "kanji": "学生",
+    "kana": "がくせい",
+    "romaji": "ga ku se i",
+    "chinese": "学生",
+    "english": "student",
+    "POS": "名"
+  },
+  {
+    "kanji": "学費",
+    "kana": "がくひ",
+    "romaji": "ga ku hi",
+    "chinese": "学费",
+    "english": "Tuition",
+    "POS": "名"
+  },
+  {
+    "kanji": "学歴",
+    "kana": "がくれき",
+    "romaji": "ga ku re ki",
+    "chinese": "学历",
+    "english": "Education",
+    "POS": "名"
+  },
+  {
+    "kanji": "隠れる",
+    "kana": "かくれる",
+    "romaji": "ka ku re ru",
+    "chinese": "隐藏；躲藏；隐遁；作为借口",
+    "english": "hide",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "影",
+    "kana": "かげ",
+    "romaji": "ka ge",
+    "chinese": "光；月光；倒影、影像；踪影、行踪；暗面",
+    "english": "影",
+    "POS": "名"
+  },
+  {
+    "kanji": "欠ける",
+    "kana": "かける",
+    "romaji": "ka ke ru",
+    "chinese": "缺损；月蚀、日食；欠缺",
+    "english": "Chipped",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "掛ける",
+    "kana": "かける",
+    "romaji": "ka ke ru",
+    "chinese": "垂下、悬、挂；放置火上；覆盖；洒；锁上、扣上；轻轻握住、搭着等；钩、钓；捆（箱子",
+    "english": "Hang",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "加減",
+    "kana": "かげん",
+    "romaji": "ka ge n",
+    "chinese": "加法和减法；调节；事物的状态；健康状态；稍微",
+    "english": "Adjustment",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "過去",
+    "kana": "かこ",
+    "romaji": "ka ko",
+    "chinese": "过去；（人的）经历",
+    "english": "過去",
+    "POS": "名"
+  },
+  {
+    "kanji": "囲む",
+    "kana": "かこむ",
+    "romaji": "ka ko mu",
+    "chinese": "围绕、环绕；包围",
+    "english": "surround",
+    "POS": "他五"
+  },
+  {
+    "kanji": "傘",
+    "kana": "かさ",
+    "romaji": "ka sa",
+    "chinese": "伞",
+    "english": "傘",
+    "POS": "名"
+  },
+  {
+    "kanji": "重ねる",
+    "kana": "かさねる",
+    "romaji": "ka sa ne ru",
+    "chinese": "摞起、使重叠；反复、累积",
+    "english": "Layer",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "飾る",
+    "kana": "かざる",
+    "romaji": "ka za ru",
+    "chinese": "装饰；陈列；登载；修饰文章",
+    "english": "decorate",
+    "POS": "他五"
+  },
+  {
+    "kanji": "菓子",
+    "kana": "かし",
+    "romaji": "ka shi",
+    "chinese": "点心、糖果",
+    "english": "Confectionery",
+    "POS": "名"
+  },
+  {
+    "kanji": "貸す",
+    "kana": "かす",
+    "romaji": "ka su",
+    "chinese": "借款、贷款；出租；帮助、出力",
+    "english": "lend",
+    "POS": "他五"
+  },
+  {
+    "kanji": "数",
+    "kana": "かず",
+    "romaji": "ka zu",
+    "chinese": "数目、数",
+    "english": "数",
+    "POS": "名"
+  },
+  {
+    "kanji": "風",
+    "kana": "かぜ",
+    "romaji": "ka ze",
+    "chinese": "风；架子、派头",
+    "english": "風",
+    "POS": "名"
+  },
+  {
+    "kanji": "風邪",
+    "kana": "かぜ",
+    "romaji": "ka ze",
+    "chinese": "感冒",
+    "english": "cold",
+    "POS": "名"
+  },
+  {
+    "kanji": "稼ぐ",
+    "kana": "かせぐ",
+    "romaji": "ka se gu",
+    "chinese": "做工赚钱；努力争取",
+    "english": "Earn",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "数える",
+    "kana": "かぞえる",
+    "romaji": "ka zo e ru",
+    "chinese": "数数；列举",
+    "english": "count",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "家族",
+    "kana": "かぞく",
+    "romaji": "ka zo ku",
+    "chinese": "家族",
+    "english": "family",
+    "POS": "名"
+  },
+  {
+    "kanji": "肩",
+    "kana": "かた",
+    "romaji": "ka ta",
+    "chinese": "肩膀；衣服的肩膀；器物的上方",
+    "english": "肩",
+    "POS": "名"
+  },
+  {
+    "kanji": "固い",
+    "kana": "かたい",
+    "romaji": "ka ta i",
+    "chinese": "坚硬的；紧的；坚定的；严重的；确实的；顽固的",
+    "english": "Hard",
+    "POS": "形"
+  },
+  {
+    "kanji": "硬い",
+    "kana": "かたい",
+    "romaji": "ka ta i",
+    "chinese": "坚硬的；僵、硬；生涩的、生硬的；表情僵硬",
+    "english": "hard",
+    "POS": "形"
+  },
+  {
+    "kanji": "堅い",
+    "kana": "かたい",
+    "romaji": "ka ta i",
+    "chinese": "坚实的；可以信赖的；严肃的",
+    "english": "hard",
+    "POS": "形"
+  },
+  {
+    "kanji": "片付ける",
+    "kana": "かたづける",
+    "romaji": "ka ta zu ke ru",
+    "chinese": "收拾；解决；嫁出去；除去妨碍者",
+    "english": "put away",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "固まる",
+    "kana": "かたまる",
+    "romaji": "ka ta ma ru",
+    "chinese": "凝固；集中到一处；确实、可靠",
+    "english": "Harden",
+    "POS": "自五"
+  },
+  {
+    "kanji": "傾く",
+    "kana": "かたむく",
+    "romaji": "ka ta mu ku",
+    "chinese": "倾斜；（日、月）西沉；衰落；带有某种倾向",
+    "english": "Tilt",
+    "POS": "自五"
+  },
+  {
+    "kanji": "固める",
+    "kana": "かためる",
+    "romaji": "ka ta me ru",
+    "chinese": "使坚固；坚守；坚定；安定、稳定；归拢到一起",
+    "english": "Harden",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "勝つ",
+    "kana": "かつ",
+    "romaji": "ka tsu",
+    "chinese": "得胜；胜过、超过",
+    "english": "win",
+    "POS": "自五"
+  },
+  {
+    "kanji": "学科",
+    "kana": "がっか",
+    "romaji": "ga っ ka",
+    "chinese": "学科",
+    "english": "discipline",
+    "POS": "名"
+  },
+  {
+    "kanji": "がっかり",
+    "kana": "がっかり",
+    "romaji": "ga っ ka ri",
+    "chinese": "失望的样子；非常疲劳的样子",
+    "english": "Disappointed",
+    "POS": "副，サ変"
+  },
+  {
+    "kanji": "担ぐ",
+    "kana": "かつぐ",
+    "romaji": "ka tsu gu",
+    "chinese": "担负；推举；骗人、捉弄人；迷信",
+    "english": "Carry",
+    "POS": "他五"
+  },
+  {
+    "kanji": "学校",
+    "kana": "がっこう",
+    "romaji": "ga っ ko u",
+    "chinese": "学校",
+    "english": "School",
+    "POS": "名"
+  },
+  {
+    "kanji": "勝手",
+    "kana": "かって",
+    "romaji": "ka っ te",
+    "chinese": "厨房；生活状况；情形；样子、状况；任性、随便",
+    "english": "selfishness",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "悲しい",
+    "kana": "かなしい",
+    "romaji": "ka na shi i",
+    "chinese": "悲伤的、可悲的",
+    "english": "sad",
+    "POS": "形"
+  },
+  {
+    "kanji": "悲しむ",
+    "kana": "かなしむ",
+    "romaji": "ka na shi mu",
+    "chinese": "悲伤、悲痛",
+    "english": "Sad",
+    "POS": "他五"
+  },
+  {
+    "kanji": "必ず",
+    "kana": "かならず",
+    "romaji": "ka na ra zu",
+    "chinese": "一定",
+    "english": "surely",
+    "POS": "副"
+  },
+  {
+    "kanji": "金",
+    "kana": "かね",
+    "romaji": "ka ne",
+    "chinese": "金属；金钱",
+    "english": "金",
+    "POS": "名"
+  },
+  {
+    "kanji": "鞄",
+    "kana": "かばん",
+    "romaji": "ka ba n",
+    "chinese": "包",
+    "english": "鞄",
+    "POS": "名"
+  },
+  {
+    "kanji": "壁",
+    "kana": "かべ",
+    "romaji": "ka be",
+    "chinese": "墙；障碍、障碍物",
+    "english": "壁",
+    "POS": "名"
+  },
+  {
+    "kanji": "我慢",
+    "kana": "がまん",
+    "romaji": "ga ma n",
+    "chinese": "忍耐",
+    "english": "patience",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "神",
+    "kana": "かみ",
+    "romaji": "ka mi",
+    "chinese": "神",
+    "english": "神",
+    "POS": "名"
+  },
+  {
+    "kanji": "紙",
+    "kana": "かみ",
+    "romaji": "ka mi",
+    "chinese": "纸；划拳时的纸",
+    "english": "紙",
+    "POS": "名"
+  },
+  {
+    "kanji": "髪",
+    "kana": "かみ",
+    "romaji": "ka mi",
+    "chinese": "头发；发型",
+    "english": "髪",
+    "POS": "名"
+  },
+  {
+    "kanji": "雷",
+    "kana": "かみなり",
+    "romaji": "ka mi na ri",
+    "chinese": "雷",
+    "english": "雷",
+    "POS": "名"
+  },
+  {
+    "kanji": "噛む",
+    "kana": "かむ",
+    "romaji": "ka mu",
+    "chinese": "咬、嚼；齿轮咬合；简易地说；（水）猛烈冲击；有关系的",
+    "english": "bite",
+    "POS": "他五"
+  },
+  {
+    "kanji": "痒い",
+    "kana": "かゆい",
+    "romaji": "ka yu i",
+    "chinese": "痒",
+    "english": "itchy",
+    "POS": "形"
+  },
+  {
+    "kanji": "通う",
+    "kana": "かよう",
+    "romaji": "ka yo u",
+    "chinese": "上班、走读；交通工具往来；通往；心意相通；相似、相通",
+    "english": "go to",
+    "POS": "自五"
+  },
+  {
+    "kanji": "辛い",
+    "kana": "からい",
+    "romaji": "ka ra i",
+    "chinese": "辣的；咸的；严格的；严酷的",
+    "english": "hard",
+    "POS": "形"
+  },
+  {
+    "kanji": "体",
+    "kana": "からだ",
+    "romaji": "ka ra da",
+    "chinese": "身体；身体状况",
+    "english": "体",
+    "POS": "名"
+  },
+  {
+    "kanji": "借りる",
+    "kana": "かりる",
+    "romaji": "ka ri ru",
+    "chinese": "借钱、东西等；借助",
+    "english": "borrow",
+    "POS": "他上一"
+  },
+  {
+    "kanji": "軽い",
+    "kana": "かるい",
+    "romaji": "ka ru i",
+    "chinese": "轻的；轻快的；轻微的；轻松的；清淡、少量；容易的；轻率的",
+    "english": "light",
+    "POS": "形"
+  },
+  {
+    "kanji": "彼",
+    "kana": "かれ",
+    "romaji": "ka re",
+    "chinese": "他；情人（丈夫）",
+    "english": "彼",
+    "POS": "名，代"
+  },
+  {
+    "kanji": "枯れる",
+    "kana": "かれる",
+    "romaji": "ka re ru",
+    "chinese": "枯萎；技艺等造诣精深、成熟",
+    "english": "Wither",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "川，河",
+    "kana": "かわ",
+    "romaji": "ka wa",
+    "chinese": "河、河流",
+    "english": "river, river",
+    "POS": "名"
+  },
+  {
+    "kanji": "皮，革",
+    "kana": "かわ",
+    "romaji": "ka wa",
+    "chinese": "皮、表皮、皮革",
+    "english": "leather",
+    "POS": "名"
+  },
+  {
+    "kanji": "側",
+    "kana": "がわ",
+    "romaji": "ga wa",
+    "chinese": "一侧、一方面",
+    "english": "側",
+    "POS": "名"
+  },
+  {
+    "kanji": "可愛い",
+    "kana": "かわいい",
+    "romaji": "ka wa i i",
+    "chinese": "可爱的；讨人喜欢的；小巧的",
+    "english": "cute",
+    "POS": "形"
+  },
+  {
+    "kanji": "可哀相",
+    "kana": "かわいそう",
+    "romaji": "ka wa i so u",
+    "chinese": "可怜的",
+    "english": "Sad",
+    "POS": "形動"
+  },
+  {
+    "kanji": "渇く",
+    "kana": "かわく",
+    "romaji": "ka wa ku",
+    "chinese": "渴",
+    "english": "Thirst",
+    "POS": "自五"
+  },
+  {
+    "kanji": "代わる",
+    "kana": "かわる",
+    "romaji": "ka wa ru",
+    "chinese": "代替、取代",
+    "english": "replace",
+    "POS": "自五"
+  },
+  {
+    "kanji": "変わる",
+    "kana": "かわる",
+    "romaji": "ka wa ru",
+    "chinese": "变化；变更、转移；区别；特殊",
+    "english": "change",
+    "POS": "自五"
+  },
+  {
+    "kanji": "缶",
+    "kana": "かん",
+    "romaji": "ka n",
+    "chinese": "（金属）筒、罐、罐头",
+    "english": "缶",
+    "POS": "名"
+  },
+  {
+    "kanji": "考える",
+    "kana": "かんがえる",
+    "romaji": "ka n ga e ru",
+    "chinese": "思考；深思熟虑；考虑；反省；精神准备、早做准备；决心；预见；想象；设法",
+    "english": "think",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "感覚",
+    "kana": "かんかく",
+    "romaji": "ka n ka ku",
+    "chinese": "感觉",
+    "english": "feelings",
+    "POS": "名"
+  },
+  {
+    "kanji": "環境",
+    "kana": "かんきょう",
+    "romaji": "ka n kyo u",
+    "chinese": "环境",
+    "english": "環境",
+    "POS": "名"
+  },
+  {
+    "kanji": "関係",
+    "kana": "かんけい",
+    "romaji": "ka n ke i",
+    "chinese": "关系、有关；性关系",
+    "english": "relationship",
+    "POS": "名"
+  },
+  {
+    "kanji": "歓迎",
+    "kana": "かんげい",
+    "romaji": "ka n ge i",
+    "chinese": "欢迎",
+    "english": "welcome",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "漢字",
+    "kana": "かんじ",
+    "romaji": "ka n ji",
+    "chinese": "汉字",
+    "english": "漢字",
+    "POS": "名"
+  },
+  {
+    "kanji": "元日",
+    "kana": "がんじつ",
+    "romaji": "ga n ji tsu",
+    "chinese": "元旦",
+    "english": "New Year's Day",
+    "POS": "名"
+  },
+  {
+    "kanji": "感謝",
+    "kana": "かんしゃ",
+    "romaji": "ka n sha",
+    "chinese": "感谢",
+    "english": "感謝",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "感情",
+    "kana": "かんじょう",
+    "romaji": "ka n jo u",
+    "chinese": "感情",
+    "english": "emotion",
+    "POS": "名"
+  },
+  {
+    "kanji": "勘定",
+    "kana": "かんじょう",
+    "romaji": "ka n jo u",
+    "chinese": "计算；付账、结帐；考虑、估计",
+    "english": "Account",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "感じる",
+    "kana": "かんじる",
+    "romaji": "ka n ji ru",
+    "chinese": "感觉；感动；感触",
+    "english": "feel",
+    "POS": "自他上一"
+  },
+  {
+    "kanji": "関心",
+    "kana": "かんしん",
+    "romaji": "ka n shi n",
+    "chinese": "关心",
+    "english": "interest",
+    "POS": "名"
+  },
+  {
+    "kanji": "感心",
+    "kana": "かんしん",
+    "romaji": "ka n shi n",
+    "chinese": "佩服；赞赏",
+    "english": "Impression",
+    "POS": "名，形動，サ変"
+  },
+  {
+    "kanji": "完全",
+    "kana": "かんぜん",
+    "romaji": "ka n ze n",
+    "chinese": "完全",
+    "english": "completely",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "感想",
+    "kana": "かんそう",
+    "romaji": "ka n so u",
+    "chinese": "感想",
+    "english": "thoughts",
+    "POS": "名"
+  },
+  {
+    "kanji": "簡単",
+    "kana": "かんたん",
+    "romaji": "ka n ta n",
+    "chinese": "简单；简短",
+    "english": "easy",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "感動",
+    "kana": "かんどう",
+    "romaji": "ka n do u",
+    "chinese": "感动",
+    "english": "感動",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "観念",
+    "kana": "かんねん",
+    "romaji": "ka n ne n",
+    "chinese": "观念；意识；断念、不抱希望",
+    "english": "Concept",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "乾杯",
+    "kana": "かんぱい",
+    "romaji": "ka n pa i",
+    "chinese": "干杯",
+    "english": "cheers",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "頑張る",
+    "kana": "がんばる",
+    "romaji": "ga n ba ru",
+    "chinese": "努力、全力以赴；主张、固守不动",
+    "english": "do my best",
+    "POS": "自五"
+  },
+  {
+    "kanji": "管理",
+    "kana": "かんり",
+    "romaji": "ka n ri",
+    "chinese": "管理",
+    "english": "manage",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "木",
+    "kana": "き",
+    "romaji": "ki",
+    "chinese": "树、木材",
+    "english": "木",
+    "POS": "名"
+  },
+  {
+    "kanji": "気",
+    "kana": "き",
+    "romaji": "ki",
+    "chinese": "空气；气氛；风味、味道；意志；心情；意识；（用“……する気”的形式表示）准备做；",
+    "english": "気",
+    "POS": "名"
+  },
+  {
+    "kanji": "黄色",
+    "kana": "きいろ",
+    "romaji": "ki i ro",
+    "chinese": "黄色",
+    "english": "yellow",
+    "POS": "名"
+  },
+  {
+    "kanji": "議員",
+    "kana": "ぎいん",
+    "romaji": "gi i n",
+    "chinese": "议院",
+    "english": "議員",
+    "POS": "名"
+  },
+  {
+    "kanji": "消える",
+    "kana": "きえる",
+    "romaji": "ki e ru",
+    "chinese": "火熄灭、光消失等；消失；雪融化；感情、记忆等消失",
+    "english": "disappear",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "記憶",
+    "kana": "きおく",
+    "romaji": "ki o ku",
+    "chinese": "记忆",
+    "english": "記憶",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "機会",
+    "kana": "きかい",
+    "romaji": "ki ka i",
+    "chinese": "机会",
+    "english": "opportunity",
+    "POS": "名"
+  },
+  {
+    "kanji": "機械",
+    "kana": "きかい",
+    "romaji": "ki ka i",
+    "chinese": "机械",
+    "english": "機械",
+    "POS": "名"
+  },
+  {
+    "kanji": "危機",
+    "kana": "きき",
+    "romaji": "ki ki",
+    "chinese": "危机",
+    "english": "危機",
+    "POS": "名"
+  },
+  {
+    "kanji": "利く",
+    "kana": "きく",
+    "romaji": "ki ku",
+    "chinese": "有效；敏锐",
+    "english": "Useful",
+    "POS": "自五"
+  },
+  {
+    "kanji": "効く",
+    "kana": "きく",
+    "romaji": "ki ku",
+    "chinese": "有效",
+    "english": "Effective",
+    "POS": "自五"
+  },
+  {
+    "kanji": "聞く，聴く",
+    "kana": "きく",
+    "romaji": "ki ku",
+    "chinese": "听；听说；听从；遂愿；问、询问；闻（味）、品（尝）",
+    "english": "Listen, listen",
+    "POS": "他五"
+  },
+  {
+    "kanji": "危険",
+    "kana": "きけん",
+    "romaji": "ki ke n",
+    "chinese": "危险",
+    "english": "danger",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "機嫌",
+    "kana": "きげん",
+    "romaji": "ki ge n",
+    "chinese": "安泰；心情、情绪",
+    "english": "mood",
+    "POS": "名"
+  },
+  {
+    "kanji": "気候",
+    "kana": "きこう",
+    "romaji": "ki ko u",
+    "chinese": "气候、气象",
+    "english": "climate",
+    "POS": "名"
+  },
+  {
+    "kanji": "聞こえる",
+    "kana": "きこえる",
+    "romaji": "ki ko e ru",
+    "chinese": "听得见；听起来似乎是……；有名；理解、同意",
+    "english": "hear",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "記者",
+    "kana": "きしゃ",
+    "romaji": "ki sha",
+    "chinese": "记者",
+    "english": "記者",
+    "POS": "名"
+  },
+  {
+    "kanji": "汽車",
+    "kana": "きしゃ",
+    "romaji": "ki sha",
+    "chinese": "火车",
+    "english": "汽車",
+    "POS": "名"
+  },
+  {
+    "kanji": "傷",
+    "kana": "きず",
+    "romaji": "ki zu",
+    "chinese": "伤；瑕疵；有损于、缺点、污点",
+    "english": "傷",
+    "POS": "名"
+  },
+  {
+    "kanji": "築く",
+    "kana": "きずく",
+    "romaji": "ki zu ku",
+    "chinese": "修筑、构筑；确立、确定",
+    "english": "build",
+    "POS": "他五"
+  },
+  {
+    "kanji": "犠牲",
+    "kana": "ぎせい",
+    "romaji": "gi se i",
+    "chinese": "牺牲",
+    "english": "Sacrifice",
+    "POS": "名"
+  },
+  {
+    "kanji": "季節",
+    "kana": "きせつ",
+    "romaji": "ki se tsu",
+    "chinese": "季节",
+    "english": "season",
+    "POS": "名"
+  },
+  {
+    "kanji": "基礎",
+    "kana": "きそ",
+    "romaji": "ki so",
+    "chinese": "基础",
+    "english": "基礎",
+    "POS": "名"
+  },
+  {
+    "kanji": "規則",
+    "kana": "きそく",
+    "romaji": "ki so ku",
+    "chinese": "规则",
+    "english": "規則",
+    "POS": "名"
+  },
+  {
+    "kanji": "北",
+    "kana": "きた",
+    "romaji": "ki ta",
+    "chinese": "北、北方、北面",
+    "english": "北",
+    "POS": "名"
+  },
+  {
+    "kanji": "気体",
+    "kana": "きたい",
+    "romaji": "ki ta i",
+    "chinese": "气体",
+    "english": "gas",
+    "POS": "名"
+  },
+  {
+    "kanji": "期待",
+    "kana": "きたい",
+    "romaji": "ki ta i",
+    "chinese": "期待、期望",
+    "english": "Expectations",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "汚い",
+    "kana": "きたない",
+    "romaji": "ki ta na i",
+    "chinese": "脏的、不干净的；卑劣；卑鄙的；吝啬的",
+    "english": "dirty",
+    "POS": "形"
+  },
+  {
+    "kanji": "きちんと",
+    "kana": "きちんと",
+    "romaji": "ki chi n to",
+    "chinese": "干净、整洁地；正确地；如期地；恰当地、妥切地",
+    "english": "Neatly",
+    "POS": "副"
+  },
+  {
+    "kanji": "きつい",
+    "kana": "きつい",
+    "romaji": "ki tsu i",
+    "chinese": "严厉、苛刻的；强烈的；严厉；紧的、瘦小的",
+    "english": "tight",
+    "POS": "形"
+  },
+  {
+    "kanji": "切手",
+    "kana": "きって",
+    "romaji": "ki っ te",
+    "chinese": "邮票",
+    "english": "stamp",
+    "POS": "名"
+  },
+  {
+    "kanji": "きっと",
+    "kana": "きっと",
+    "romaji": "ki っ to",
+    "chinese": "一定、毫无疑问地；严厉地、严肃地",
+    "english": "surely",
+    "POS": "副"
+  },
+  {
+    "kanji": "切符",
+    "kana": "きっぷ",
+    "romaji": "ki っ pu",
+    "chinese": "票、券",
+    "english": "ticket",
+    "POS": "名"
+  },
+  {
+    "kanji": "記念",
+    "kana": "きねん",
+    "romaji": "ki ne n",
+    "chinese": "纪念",
+    "english": "memorial",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "昨日",
+    "kana": "きのう",
+    "romaji": "ki no u",
+    "chinese": "昨天；不久以前、过去",
+    "english": "yesterday",
+    "POS": "名"
+  },
+  {
+    "kanji": "機能",
+    "kana": "きのう",
+    "romaji": "ki no u",
+    "chinese": "机能",
+    "english": "function",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "気の毒",
+    "kana": "きのどく",
+    "romaji": "ki no do ku",
+    "chinese": "可怜的；对不起，抱歉",
+    "english": "I feel sorry for you",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "厳しい",
+    "kana": "きびしい",
+    "romaji": "ki bi shi i",
+    "chinese": "严格的；严酷的；厉害的；严峻的",
+    "english": "strict",
+    "POS": "形"
+  },
+  {
+    "kanji": "希望",
+    "kana": "きぼう",
+    "romaji": "ki bo u",
+    "chinese": "希望",
+    "english": "hope",
+    "POS": "名"
+  },
+  {
+    "kanji": "基本",
+    "kana": "きほん",
+    "romaji": "ki ho n",
+    "chinese": "基本",
+    "english": "Basics",
+    "POS": "名"
+  },
+  {
+    "kanji": "決まる",
+    "kana": "きまる",
+    "romaji": "ki ma ru",
+    "chinese": "决定；当然、必定",
+    "english": "Decide",
+    "POS": "自五"
+  },
+  {
+    "kanji": "義務",
+    "kana": "ぎむ",
+    "romaji": "gi mu",
+    "chinese": "义务",
+    "english": "義務",
+    "POS": "名"
+  },
+  {
+    "kanji": "決める",
+    "kana": "きめる",
+    "romaji": "ki me ru",
+    "chinese": "决定；决心；定局；做好；以……为习惯",
+    "english": "decide",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "気持ち",
+    "kana": "きもち",
+    "romaji": "ki mo chi",
+    "chinese": "感情；情绪；心境；感觉；一点点",
+    "english": "feeling",
+    "POS": "名"
+  },
+  {
+    "kanji": "着物",
+    "kana": "きもの",
+    "romaji": "ki mo no",
+    "chinese": "衣服；和服",
+    "english": "kimono",
+    "POS": "名"
+  },
+  {
+    "kanji": "客",
+    "kana": "きゃく",
+    "romaji": "kya ku",
+    "chinese": "客人",
+    "english": "客",
+    "POS": "名"
+  },
+  {
+    "kanji": "休憩",
+    "kana": "きゅうけい",
+    "romaji": "kyu u ke i",
+    "chinese": "休息、歇",
+    "english": "break",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "休日",
+    "kana": "きゅうじつ",
+    "romaji": "kyu u ji tsu",
+    "chinese": "休息日",
+    "english": "holiday",
+    "POS": "名"
+  },
+  {
+    "kanji": "給料",
+    "kana": "きゅうりょう",
+    "romaji": "kyu u ryo u",
+    "chinese": "报酬、薪水",
+    "english": "salary",
+    "POS": "名"
+  },
+  {
+    "kanji": "今日",
+    "kana": "きょう",
+    "romaji": "kyo u",
+    "chinese": "今天",
+    "english": "today",
+    "POS": "名"
+  },
+  {
+    "kanji": "教育",
+    "kana": "きょういく",
+    "romaji": "kyo u i ku",
+    "chinese": "教育",
+    "english": "educate",
+    "POS": "名"
+  },
+  {
+    "kanji": "教科書",
+    "kana": "きょうかしょ",
+    "romaji": "kyo u ka sho",
+    "chinese": "教科书",
+    "english": "textbook",
+    "POS": "名"
+  },
+  {
+    "kanji": "行事",
+    "kana": "ぎょうじ",
+    "romaji": "gyo u ji",
+    "chinese": "仪式；活动",
+    "english": "Events",
+    "POS": "名"
+  },
+  {
+    "kanji": "兄弟",
+    "kana": "きょうだい",
+    "romaji": "kyo u da i",
+    "chinese": "兄弟、姐妹；把兄弟、哥儿们",
+    "english": "brother",
+    "POS": "名"
+  },
+  {
+    "kanji": "興味",
+    "kana": "きょうみ",
+    "romaji": "kyo u mi",
+    "chinese": "兴趣",
+    "english": "interest",
+    "POS": "名"
+  },
+  {
+    "kanji": "協力",
+    "kana": "きょうりょく",
+    "romaji": "kyo u ryo ku",
+    "chinese": "协作",
+    "english": "cooperation",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "許可",
+    "kana": "きょか",
+    "romaji": "kyo ka",
+    "chinese": "许可",
+    "english": "許可",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "去年",
+    "kana": "きょねん",
+    "romaji": "kyo ne n",
+    "chinese": "去年",
+    "english": "last year",
+    "POS": "名"
+  },
+  {
+    "kanji": "嫌い",
+    "kana": "きらい",
+    "romaji": "ki ra i",
+    "chinese": "不喜欢；有点；（用否定式表示）不分",
+    "english": "dislike",
+    "POS": "形動，名"
+  },
+  {
+    "kanji": "嫌う",
+    "kana": "きらう",
+    "romaji": "ki ra u",
+    "chinese": "憎恶；敬而远之、回避；（用否定式表示）不论、不分",
+    "english": "hate",
+    "POS": "自五"
+  },
+  {
+    "kanji": "霧",
+    "kana": "きり",
+    "romaji": "ki ri",
+    "chinese": "雾",
+    "english": "霧",
+    "POS": "名"
+  },
+  {
+    "kanji": "切る",
+    "kana": "きる",
+    "romaji": "ki ru",
+    "chinese": "切、剪；被刀划受伤；解除关系；使中断；限于；减少、降低；去掉水份等；改变方向；开",
+    "english": "Cut",
+    "POS": "他五"
+  },
+  {
+    "kanji": "着る",
+    "kana": "きる",
+    "romaji": "ki ru",
+    "chinese": "穿；背负",
+    "english": "wear",
+    "POS": "他上一"
+  },
+  {
+    "kanji": "綺麗",
+    "kana": "きれい",
+    "romaji": "ki re i",
+    "chinese": "美丽；干净；手脚麻利；没有污点；完全",
+    "english": "beautiful",
+    "POS": "形動"
+  },
+  {
+    "kanji": "切れる",
+    "kana": "きれる",
+    "romaji": "ki re ru",
+    "chinese": "被切断；锋利；断绝关系；中断；终结、完了；结束；低于；反应敏捷",
+    "english": "Cut",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "記録",
+    "kana": "きろく",
+    "romaji": "ki ro ku",
+    "chinese": "记录",
+    "english": "record",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "銀行",
+    "kana": "ぎんこう",
+    "romaji": "gi n ko u",
+    "chinese": "银行",
+    "english": "銀行",
+    "POS": "名"
+  },
+  {
+    "kanji": "禁止",
+    "kana": "きんし",
+    "romaji": "ki n shi",
+    "chinese": "禁止",
+    "english": "prohibit",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "禁じる",
+    "kana": "きんじる",
+    "romaji": "ki n ji ru",
+    "chinese": "禁止",
+    "english": "Prohibit",
+    "POS": "他上一"
+  },
+  {
+    "kanji": "具合",
+    "kana": "ぐあい",
+    "romaji": "gu a i",
+    "chinese": "健康状态；事态、情况；做法；方便；合适",
+    "english": "Condition",
+    "POS": "名"
+  },
+  {
+    "kanji": "食う",
+    "kana": "くう",
+    "romaji": "ku u",
+    "chinese": "生活；虫咬；紧逼对方；侵入对方的势力范围；打倒强手；费时、费钱；上年纪；遭到",
+    "english": "Eat",
+    "POS": "他五"
+  },
+  {
+    "kanji": "空間",
+    "kana": "くうかん",
+    "romaji": "ku u ka n",
+    "chinese": "空间",
+    "english": "空間",
+    "POS": "名"
+  },
+  {
+    "kanji": "空気",
+    "kana": "くうき",
+    "romaji": "ku u ki",
+    "chinese": "大气；气氛",
+    "english": "air",
+    "POS": "名"
+  },
+  {
+    "kanji": "偶然",
+    "kana": "ぐうぜん",
+    "romaji": "gu u ze n",
+    "chinese": "偶然、偶尔",
+    "english": "accidental",
+    "POS": "名，形動，副"
+  },
+  {
+    "kanji": "潜る",
+    "kana": "くぐる",
+    "romaji": "ku gu ru",
+    "chinese": "从下面穿过；趁不注意逃走",
+    "english": "dive",
+    "POS": "自五"
+  },
+  {
+    "kanji": "草",
+    "kana": "くさ",
+    "romaji": "ku sa",
+    "chinese": "草、饲草；非正式",
+    "english": "草",
+    "POS": "名，接頭"
+  },
+  {
+    "kanji": "臭い",
+    "kana": "くさい",
+    "romaji": "ku sa i",
+    "chinese": "臭；可疑；造作、故意；有气味；派头、样子",
+    "english": "odor",
+    "POS": "形"
+  },
+  {
+    "kanji": "腐る",
+    "kana": "くさる",
+    "romaji": "ku sa ru",
+    "chinese": "腐烂；金属受腐蚀；堕落；情绪低落",
+    "english": "Rot",
+    "POS": "自五"
+  },
+  {
+    "kanji": "愚図愚図",
+    "kana": "ぐずぐず",
+    "romaji": "gu zu gu zu",
+    "chinese": "慢手慢脚的样子；发牢骚的样子",
+    "english": "Stupid, stupid",
+    "POS": "副"
+  },
+  {
+    "kanji": "崩す",
+    "kana": "くずす",
+    "romaji": "ku zu su",
+    "chinese": "敲坏、折毁；使凌乱、散乱；换成零钱、破开；欢颜",
+    "english": "Break down",
+    "POS": "他五"
+  },
+  {
+    "kanji": "薬",
+    "kana": "くすり",
+    "romaji": "ku su ri",
+    "chinese": "药、益处",
+    "english": "薬",
+    "POS": "名"
+  },
+  {
+    "kanji": "崩れる",
+    "kana": "くずれる",
+    "romaji": "ku zu re ru",
+    "chinese": "崩溃、倒塌；紊乱；走形、凌乱；天气变坏；换成零钱；行情急剧下落",
+    "english": "Collapse",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "癖",
+    "kana": "くせ",
+    "romaji": "ku se",
+    "chinese": "癖性；特征；（头发）卷儿、（衣服）褶儿",
+    "english": "癖",
+    "POS": "名"
+  },
+  {
+    "kanji": "下さい",
+    "kana": "ください",
+    "romaji": "ku da sa i",
+    "chinese": "请给我……；请帮我……",
+    "english": "Please",
+    "POS": "連"
+  },
+  {
+    "kanji": "下さる",
+    "kana": "くださる",
+    "romaji": "ku da sa ru",
+    "chinese": "“与える”的尊敬语；“してくれる”的尊敬语",
+    "english": "Give",
+    "POS": "他五"
+  },
+  {
+    "kanji": "果物",
+    "kana": "くだもの",
+    "romaji": "ku da mo no",
+    "chinese": "水果",
+    "english": "fruit",
+    "POS": "名"
+  },
+  {
+    "kanji": "下る",
+    "kana": "くだる",
+    "romaji": "ku da ru",
+    "chinese": "往低处移动；低于；从中心地朝四周去；下（命令、判决等）；时代变迁；拉肚子；投降",
+    "english": "Go down",
+    "POS": "自五"
+  },
+  {
+    "kanji": "口",
+    "kana": "くち",
+    "romaji": "ku chi",
+    "chinese": "人或是动物的嘴；像嘴一样张开的部分；语言、说法；传闻；味觉；抚养的人数；（工作等",
+    "english": "口",
+    "POS": "名"
+  },
+  {
+    "kanji": "靴",
+    "kana": "くつ",
+    "romaji": "ku tsu",
+    "chinese": "鞋",
+    "english": "靴",
+    "POS": "名"
+  },
+  {
+    "kanji": "国",
+    "kana": "くに",
+    "romaji": "ku ni",
+    "chinese": "国家；地方；故乡",
+    "english": "国",
+    "POS": "名"
+  },
+  {
+    "kanji": "配る",
+    "kana": "くばる",
+    "romaji": "ku ba ru",
+    "chinese": "分配；配置；用心、注意",
+    "english": "Distribute",
+    "POS": "他五"
+  },
+  {
+    "kanji": "首",
+    "kana": "くび",
+    "romaji": "ku bi",
+    "chinese": "颈部；生命；免职、解雇",
+    "english": "首",
+    "POS": "名"
+  },
+  {
+    "kanji": "組み立てる",
+    "kana": "くみたてる",
+    "romaji": "ku mi ta te ru",
+    "chinese": "组装",
+    "english": "assemble",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "汲む",
+    "kana": "くむ",
+    "romaji": "ku mu",
+    "chinese": "舀起液体；摄取；体谅",
+    "english": "Pump",
+    "POS": "他五"
+  },
+  {
+    "kanji": "組む",
+    "kana": "くむ",
+    "romaji": "ku mu",
+    "chinese": "组装；交叉；成为朋友、合伙；对战",
+    "english": "Assemble",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "雲",
+    "kana": "くも",
+    "romaji": "ku mo",
+    "chinese": "云；模糊",
+    "english": "雲",
+    "POS": "名"
+  },
+  {
+    "kanji": "曇る",
+    "kana": "くもる",
+    "romaji": "ku mo ru",
+    "chinese": "天空多云；模糊；发愁",
+    "english": "Cloudy",
+    "POS": "自五"
+  },
+  {
+    "kanji": "悔しい",
+    "kana": "くやしい",
+    "romaji": "ku ya shi i",
+    "chinese": "后悔；窝囊",
+    "english": "regrettable",
+    "POS": "形"
+  },
+  {
+    "kanji": "位",
+    "kana": "くらい",
+    "romaji": "ku ra i",
+    "chinese": "大致的数量；（带轻蔑的语气）至少；差不多",
+    "english": "位",
+    "POS": "副助"
+  },
+  {
+    "kanji": "暗い",
+    "kana": "くらい",
+    "romaji": "ku ra i",
+    "chinese": "昏暗；颜色不明朗；心情沉重；不熟悉、生疏；不光彩的",
+    "english": "dark",
+    "POS": "形"
+  },
+  {
+    "kanji": "暮らす",
+    "kana": "くらす",
+    "romaji": "ku ra su",
+    "chinese": "生活；维持生活；度过时光",
+    "english": "live",
+    "POS": "自五"
+  },
+  {
+    "kanji": "比べる，較べる",
+    "kana": "くらべる",
+    "romaji": "ku ra be ru",
+    "chinese": "比较；比高低",
+    "english": "to compare",
+    "POS": "自他下一"
+  },
+  {
+    "kanji": "来る",
+    "kana": "くる",
+    "romaji": "ku ru",
+    "chinese": "来；来访；季节、时间到来；送到；引进；来源于；起因；变成某种状态",
+    "english": "come",
+    "POS": "力変"
+  },
+  {
+    "kanji": "苦しい",
+    "kana": "くるしい",
+    "romaji": "ku ru shi i",
+    "chinese": "痛苦；辛苦；艰难；困惑；勉强",
+    "english": "painful",
+    "POS": "形"
+  },
+  {
+    "kanji": "苦しむ",
+    "kana": "くるしむ",
+    "romaji": "ku ru shi mu",
+    "chinese": "痛苦；烦恼；难于；费尽周折",
+    "english": "suffer",
+    "POS": "自五"
+  },
+  {
+    "kanji": "車",
+    "kana": "くるま",
+    "romaji": "ku ru ma",
+    "chinese": "车轮；汽车、马车",
+    "english": "車",
+    "POS": "名"
+  },
+  {
+    "kanji": "暮れる",
+    "kana": "くれる",
+    "romaji": "ku re ru",
+    "chinese": "天晚；季节过去；想不出、不知如何",
+    "english": "Night",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "呉れる",
+    "kana": "くれる",
+    "romaji": "ku re ru",
+    "chinese": "别人给自己；别人帮助自己做某事",
+    "english": "give",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "黒",
+    "kana": "くろ",
+    "romaji": "ku ro",
+    "chinese": "黑色；值得怀疑",
+    "english": "黒",
+    "POS": "名"
+  },
+  {
+    "kanji": "黒い",
+    "kana": "くろい",
+    "romaji": "ku ro i",
+    "chinese": "黑的；脸色黑；被弄脏；阴暗；心地肮脏；有犯罪嫌疑；不吉祥的",
+    "english": "black",
+    "POS": "形"
+  },
+  {
+    "kanji": "苦労",
+    "kana": "くろう",
+    "romaji": "ku ro u",
+    "chinese": "费周折、担心",
+    "english": "Hardship",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "加える",
+    "kana": "くわえる",
+    "romaji": "ku wa e ru",
+    "chinese": "加算；增加；吸收为伙伴；给予",
+    "english": "Add",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "詳しい",
+    "kana": "くわしい",
+    "romaji": "ku wa shi i",
+    "chinese": "详细的；精通",
+    "english": "be familiar with",
+    "POS": "形"
+  },
+  {
+    "kanji": "加わる",
+    "kana": "くわわる",
+    "romaji": "ku wa wa ru",
+    "chinese": "增加；增多；加入",
+    "english": "Join",
+    "POS": "自五"
+  },
+  {
+    "kanji": "計画",
+    "kana": "けいかく",
+    "romaji": "ke i ka ku",
+    "chinese": "计划",
+    "english": "plan",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "景気",
+    "kana": "けいき",
+    "romaji": "ke i ki",
+    "chinese": "经济状况；活跃",
+    "english": "Economy",
+    "POS": "名"
+  },
+  {
+    "kanji": "経験",
+    "kana": "けいけん",
+    "romaji": "ke i ke n",
+    "chinese": "经验",
+    "english": "experience",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "傾向",
+    "kana": "けいこう",
+    "romaji": "ke i ko u",
+    "chinese": "倾向、趋势；性格、趋向",
+    "english": "tendency",
+    "POS": "名"
+  },
+  {
+    "kanji": "経済",
+    "kana": "けいざい",
+    "romaji": "ke i za i",
+    "chinese": "经济；节约",
+    "english": "economy",
+    "POS": "名"
+  },
+  {
+    "kanji": "警察",
+    "kana": "けいさつ",
+    "romaji": "ke i sa tsu",
+    "chinese": "警察",
+    "english": "police",
+    "POS": "名"
+  },
+  {
+    "kanji": "計算",
+    "kana": "けいさん",
+    "romaji": "ke i sa n",
+    "chinese": "计算；计算、盘算、打算",
+    "english": "計算",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "形式",
+    "kana": "けいしき",
+    "romaji": "ke i shi ki",
+    "chinese": "样式、款式；形式上的、表面上的",
+    "english": "form",
+    "POS": "名"
+  },
+  {
+    "kanji": "芸術",
+    "kana": "げいじゅつ",
+    "romaji": "ge i ju tsu",
+    "chinese": "艺术",
+    "english": "art",
+    "POS": "名"
+  },
+  {
+    "kanji": "怪我",
+    "kana": "けが",
+    "romaji": "ke ga",
+    "chinese": "受伤；过失",
+    "english": "injury",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "消す",
+    "kana": "けす",
+    "romaji": "ke su",
+    "chinese": "灭火；关（灯、煤气等）；删除；包盖、吸收；消灭；杀死",
+    "english": "erase",
+    "POS": "他五"
+  },
+  {
+    "kanji": "削る",
+    "kana": "けずる",
+    "romaji": "ke zu ru",
+    "chinese": "刀削；削减",
+    "english": "Cut",
+    "POS": "他五"
+  },
+  {
+    "kanji": "結果",
+    "kana": "けっか",
+    "romaji": "ke っ ka",
+    "chinese": "结果",
+    "english": "結果",
+    "POS": "名"
+  },
+  {
+    "kanji": "結構",
+    "kana": "けっこう",
+    "romaji": "ke っ ko u",
+    "chinese": "构造；非常好的、无懈可击的；足够的、满足的；不需要",
+    "english": "結構",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "結婚",
+    "kana": "けっこん",
+    "romaji": "ke っ ko n",
+    "chinese": "结婚",
+    "english": "marriage",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "決して",
+    "kana": "けっして",
+    "romaji": "ke っ shi te",
+    "chinese": "（后接否定式）决不",
+    "english": "never",
+    "POS": "副"
+  },
+  {
+    "kanji": "決心",
+    "kana": "けっしん",
+    "romaji": "ke っ shi n",
+    "chinese": "决心、下决心",
+    "english": "決心",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "決断",
+    "kana": "けつだん",
+    "romaji": "ke tsu da n",
+    "chinese": "下定决心",
+    "english": "decision",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "決定",
+    "kana": "けってい",
+    "romaji": "ke っ te i",
+    "chinese": "决定",
+    "english": "決定",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "結論",
+    "kana": "けつろん",
+    "romaji": "ke tsu ro n",
+    "chinese": "结论",
+    "english": "結論",
+    "POS": "名"
+  },
+  {
+    "kanji": "煙",
+    "kana": "けむり",
+    "romaji": "ke mu ri",
+    "chinese": "烟；像烟似的",
+    "english": "煙",
+    "POS": "名"
+  },
+  {
+    "kanji": "蹴る",
+    "kana": "ける",
+    "romaji": "ke ru",
+    "chinese": "用脚踢；不满地从座位上站起来；拒绝要求",
+    "english": "Kick",
+    "POS": "他五"
+  },
+  {
+    "kanji": "けれども",
+    "kana": "けれども",
+    "romaji": "ke re do mo",
+    "chinese": "表示转折关系；没有特别的意义、仅仅表示前后话题的连接；作为终助词、用于表示谦虚地",
+    "english": "However",
+    "POS": "接続，助"
+  },
+  {
+    "kanji": "険しい",
+    "kana": "けわしい",
+    "romaji": "ke wa shi i",
+    "chinese": "险峻的；可怕的、险恶的；有危险的、艰险的",
+    "english": "Steep",
+    "POS": "形"
+  },
+  {
+    "kanji": "権威",
+    "kana": "けんい",
+    "romaji": "ke n i",
+    "chinese": "权威",
+    "english": "authority",
+    "POS": "名"
+  },
+  {
+    "kanji": "原因",
+    "kana": "げんいん",
+    "romaji": "ge n i n",
+    "chinese": "原因",
+    "english": "reason",
+    "POS": "名"
+  },
+  {
+    "kanji": "喧嘩",
+    "kana": "けんか",
+    "romaji": "ke n ka",
+    "chinese": "争吵；打假",
+    "english": "fight",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "見学",
+    "kana": "けんがく",
+    "romaji": "ke n ga ku",
+    "chinese": "实地参观",
+    "english": "visit",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "玄関",
+    "kana": "げんかん",
+    "romaji": "ge n ka n",
+    "chinese": "大门",
+    "english": "entrance",
+    "POS": "名"
+  },
+  {
+    "kanji": "元気",
+    "kana": "げんき",
+    "romaji": "ge n ki",
+    "chinese": "有活力；健康",
+    "english": "fine",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "現金",
+    "kana": "げんきん",
+    "romaji": "ge n ki n",
+    "chinese": "现金；贪图眼前利益、势力眼",
+    "english": "現金",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "言語",
+    "kana": "げんご",
+    "romaji": "ge n go",
+    "chinese": "语言",
+    "english": "language",
+    "POS": "名"
+  },
+  {
+    "kanji": "健康",
+    "kana": "けんこう",
+    "romaji": "ke n ko u",
+    "chinese": "身体状况；健康",
+    "english": "healthy",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "検査",
+    "kana": "けんさ",
+    "romaji": "ke n sa",
+    "chinese": "检查",
+    "english": "inspection",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "現在",
+    "kana": "げんざい",
+    "romaji": "ge n za i",
+    "chinese": "现在；当时、截至某时",
+    "english": "現在",
+    "POS": "名"
+  },
+  {
+    "kanji": "現象",
+    "kana": "げんしょう",
+    "romaji": "ge n sho u",
+    "chinese": "现象",
+    "english": "現象",
+    "POS": "名"
+  },
+  {
+    "kanji": "建設",
+    "kana": "けんせつ",
+    "romaji": "ke n se tsu",
+    "chinese": "建造；设立、创立",
+    "english": "建設",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "現代",
+    "kana": "げんだい",
+    "romaji": "ge n da i",
+    "chinese": "现代",
+    "english": "現代",
+    "POS": "名"
+  },
+  {
+    "kanji": "建築",
+    "kana": "けんちく",
+    "romaji": "ke n chi ku",
+    "chinese": "建筑",
+    "english": "建築",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "権利",
+    "kana": "けんり",
+    "romaji": "ke n ri",
+    "chinese": "权利",
+    "english": "right",
+    "POS": "名"
+  },
+  {
+    "kanji": "原料",
+    "kana": "げんりょう",
+    "romaji": "ge n ryo u",
+    "chinese": "原料",
+    "english": "raw material",
+    "POS": "名"
+  },
+  {
+    "kanji": "鯉",
+    "kana": "こい",
+    "romaji": "ko i",
+    "chinese": "鲤鱼",
+    "english": "鯉",
+    "POS": "名"
+  },
+  {
+    "kanji": "濃い",
+    "kana": "こい",
+    "romaji": "ko i",
+    "chinese": "颜色深；深度、密度高；味道浓；关系深",
+    "english": "dark",
+    "POS": "形"
+  },
+  {
+    "kanji": "語彙",
+    "kana": "ごい",
+    "romaji": "go i",
+    "chinese": "词汇",
+    "english": "vocabulary",
+    "POS": "名"
+  },
+  {
+    "kanji": "行為",
+    "kana": "こうい",
+    "romaji": "ko u i",
+    "chinese": "行为",
+    "english": "行為",
+    "POS": "名"
+  },
+  {
+    "kanji": "公園",
+    "kana": "こうえん",
+    "romaji": "ko u e n",
+    "chinese": "公园",
+    "english": "公園",
+    "POS": "名"
+  },
+  {
+    "kanji": "効果",
+    "kana": "こうか",
+    "romaji": "ko u ka",
+    "chinese": "效果",
+    "english": "effect",
+    "POS": "名"
+  },
+  {
+    "kanji": "合格",
+    "kana": "ごうかく",
+    "romaji": "go u ka ku",
+    "chinese": "合格",
+    "english": "Passed",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "交換",
+    "kana": "こうかん",
+    "romaji": "ko u ka n",
+    "chinese": "交换",
+    "english": "exchange",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "工業",
+    "kana": "こうぎょう",
+    "romaji": "ko u gyo u",
+    "chinese": "工业",
+    "english": "工業",
+    "POS": "名"
+  },
+  {
+    "kanji": "工事",
+    "kana": "こうじ",
+    "romaji": "ko u ji",
+    "chinese": "工事",
+    "english": "construction",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "構造",
+    "kana": "こうぞう",
+    "romaji": "ko u zo u",
+    "chinese": "构造",
+    "english": "structure",
+    "POS": "名"
+  },
+  {
+    "kanji": "交通",
+    "kana": "こうつう",
+    "romaji": "ko u tsu u",
+    "chinese": "交通；客货的输送",
+    "english": "transportation",
+    "POS": "名"
+  },
+  {
+    "kanji": "行動",
+    "kana": "こうどう",
+    "romaji": "ko u do u",
+    "chinese": "行动",
+    "english": "行動",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "被る",
+    "kana": "こうむる",
+    "romaji": "ko u mu ru",
+    "chinese": "遭受损害、屈辱；得到恩惠；承蒙",
+    "english": "suffer",
+    "POS": "他五"
+  },
+  {
+    "kanji": "交流",
+    "kana": "こうりゅう",
+    "romaji": "ko u ryu u",
+    "chinese": "交流",
+    "english": "comminicate",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "声",
+    "kana": "こえ",
+    "romaji": "ko e",
+    "chinese": "人或是动物所发出的声音；语言；意见；迹象",
+    "english": "声",
+    "POS": "名"
+  },
+  {
+    "kanji": "越える，超える",
+    "kana": "こえる",
+    "romaji": "ko e ru",
+    "chinese": "超过；超越；穿越",
+    "english": "To surpass, to exceed",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "氷",
+    "kana": "こおり",
+    "romaji": "ko o ri",
+    "chinese": "冰",
+    "english": "氷",
+    "POS": "名"
+  },
+  {
+    "kanji": "凍る",
+    "kana": "こおる",
+    "romaji": "ko o ru",
+    "chinese": "结冰",
+    "english": "Freeze",
+    "POS": "自五"
+  },
+  {
+    "kanji": "故郷",
+    "kana": "こきょう",
+    "romaji": "ko kyo u",
+    "chinese": "故乡",
+    "english": "hometown",
+    "POS": "名"
+  },
+  {
+    "kanji": "国語",
+    "kana": "こくご",
+    "romaji": "ko ku go",
+    "chinese": "国语、语文",
+    "english": "national language",
+    "POS": "名"
+  },
+  {
+    "kanji": "国際",
+    "kana": "こくさい",
+    "romaji": "ko ku sa i",
+    "chinese": "国际",
+    "english": "international",
+    "POS": "名"
+  },
+  {
+    "kanji": "国民",
+    "kana": "こくみん",
+    "romaji": "ko ku mi n",
+    "chinese": "国名",
+    "english": "national",
+    "POS": "名"
+  },
+  {
+    "kanji": "此処",
+    "kana": "ここ",
+    "romaji": "ko ko",
+    "chinese": "这里；最近；这时；目前的阶段、范围；这点",
+    "english": "here",
+    "POS": "代"
+  },
+  {
+    "kanji": "午後",
+    "kana": "ごご",
+    "romaji": "go go",
+    "chinese": "午后、下午",
+    "english": "afternoon",
+    "POS": "名"
+  },
+  {
+    "kanji": "心",
+    "kana": "こころ",
+    "romaji": "ko ko ro",
+    "chinese": "精神；想法；心情、感觉；体贴心；真心；爱情；意义",
+    "english": "心",
+    "POS": "名"
+  },
+  {
+    "kanji": "志す",
+    "kana": "こころざす",
+    "romaji": "ko ko ro za su",
+    "chinese": "以……为目标、决心",
+    "english": "Aim",
+    "POS": "他五"
+  },
+  {
+    "kanji": "試みる",
+    "kana": "こころみる",
+    "romaji": "ko ko ro mi ru",
+    "chinese": "尝试、企图",
+    "english": "Try",
+    "POS": "他上一"
+  },
+  {
+    "kanji": "腰",
+    "kana": "こし",
+    "romaji": "ko shi",
+    "chinese": "腰；弹力、粘度",
+    "english": "腰",
+    "POS": "名"
+  },
+  {
+    "kanji": "故障",
+    "kana": "こしょう",
+    "romaji": "ko sho u",
+    "chinese": "故障",
+    "english": "Fault",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "個人",
+    "kana": "こじん",
+    "romaji": "ko ji n",
+    "chinese": "个人",
+    "english": "個人",
+    "POS": "名"
+  },
+  {
+    "kanji": "越す",
+    "kana": "こす",
+    "romaji": "ko su",
+    "chinese": "穿过、通过；度过时光；越过高峰；经过；追赶；搬家；来、去的敬语",
+    "english": "Cross",
+    "POS": "他五"
+  },
+  {
+    "kanji": "答える",
+    "kana": "こたえる",
+    "romaji": "ko ta e ru",
+    "chinese": "回答；解答",
+    "english": "answer",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "拘る",
+    "kana": "こだわる",
+    "romaji": "ko da wa ru",
+    "chinese": "讲究、在乎、固执",
+    "english": "Be particular",
+    "POS": "自五"
+  },
+  {
+    "kanji": "ご馳走",
+    "kana": "ごちそう",
+    "romaji": "go chi so u",
+    "chinese": "款待；佳肴",
+    "english": "feast",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "此方",
+    "kana": "こちら",
+    "romaji": "ko chi ra",
+    "chinese": "这里；这个；自己",
+    "english": "This side",
+    "POS": "代"
+  },
+  {
+    "kanji": "事",
+    "kana": "こと",
+    "romaji": "ko to",
+    "chinese": "事情；理由；工作；内容",
+    "english": "事",
+    "POS": "名"
+  },
+  {
+    "kanji": "今年",
+    "kana": "ことし",
+    "romaji": "ko to shi",
+    "chinese": "今年",
+    "english": "This year",
+    "POS": "名"
+  },
+  {
+    "kanji": "異なる",
+    "kana": "ことなる",
+    "romaji": "ko to na ru",
+    "chinese": "不同；特别",
+    "english": "different",
+    "POS": "自五"
+  },
+  {
+    "kanji": "言葉",
+    "kana": "ことば",
+    "romaji": "ko to ba",
+    "chinese": "语言；单词、语句、表达；说法、讲法；所说的话",
+    "english": "words",
+    "POS": "名"
+  },
+  {
+    "kanji": "子供",
+    "kana": "こども",
+    "romaji": "ko do mo",
+    "chinese": "自己的儿女；年幼者",
+    "english": "child",
+    "POS": "名"
+  },
+  {
+    "kanji": "断る",
+    "kana": "ことわる",
+    "romaji": "ko to wa ru",
+    "chinese": "谢绝、拒绝；预先通知；道歉、解释",
+    "english": "turn down",
+    "POS": "他五"
+  },
+  {
+    "kanji": "粉",
+    "kana": "こな",
+    "romaji": "ko na",
+    "chinese": "粉末",
+    "english": "粉",
+    "POS": "名"
+  },
+  {
+    "kanji": "この",
+    "kana": "この",
+    "romaji": "ko no",
+    "chinese": "这、这个；这件（事）",
+    "english": "this",
+    "POS": "連体"
+  },
+  {
+    "kanji": "この頃",
+    "kana": "このごろ",
+    "romaji": "ko no go ro",
+    "chinese": "最近",
+    "english": "These days",
+    "POS": "名"
+  },
+  {
+    "kanji": "好む",
+    "kana": "このむ",
+    "romaji": "ko no mu",
+    "chinese": "爱好、喜欢",
+    "english": "prefer",
+    "POS": "他五"
+  },
+  {
+    "kanji": "拒む",
+    "kana": "こばむ",
+    "romaji": "ko ba mu",
+    "chinese": "拒绝、不承认；阻止",
+    "english": "refuse",
+    "POS": "他五"
+  },
+  {
+    "kanji": "ご飯",
+    "kana": "ごはん",
+    "romaji": "go ha n",
+    "chinese": "饭",
+    "english": "cooked rice",
+    "POS": "名"
+  },
+  {
+    "kanji": "ご無沙汰",
+    "kana": "ごぶさた",
+    "romaji": "go bu sa ta",
+    "chinese": "疏于问候、久违",
+    "english": "Long time no see",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "零れる",
+    "kana": "こぼれる",
+    "romaji": "ko bo re ru",
+    "chinese": "漏、落、掉；溢出；露出",
+    "english": "Spill",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "細かい",
+    "kana": "こまかい",
+    "romaji": "ko ma ka i",
+    "chinese": "细微；严密的、详细的；会打算、小气",
+    "english": "fine",
+    "POS": "形"
+  },
+  {
+    "kanji": "誤魔化す",
+    "kana": "ごまかす",
+    "romaji": "go ma ka su",
+    "chinese": "骗人；撒谎；敷衍了事、蒙混过关；骗取",
+    "english": "To conceal",
+    "POS": "他五"
+  },
+  {
+    "kanji": "困る",
+    "kana": "こまる",
+    "romaji": "ko ma ru",
+    "chinese": "处于困境、倒霉；不知所措",
+    "english": "in trouble",
+    "POS": "自五"
+  },
+  {
+    "kanji": "込む",
+    "kana": "こむ",
+    "romaji": "ko mu",
+    "chinese": "拥挤；复杂、精雕细刻",
+    "english": "Enter",
+    "POS": "自五"
+  },
+  {
+    "kanji": "米",
+    "kana": "こめ",
+    "romaji": "ko me",
+    "chinese": "稻米",
+    "english": "米",
+    "POS": "名"
+  },
+  {
+    "kanji": "御免",
+    "kana": "ごめん",
+    "romaji": "go me n",
+    "chinese": "原谅；拒绝；免职",
+    "english": "Sorry",
+    "POS": "名"
+  },
+  {
+    "kanji": "籠（も）る",
+    "kana": "こもる",
+    "romaji": "ko mo ru",
+    "chinese": "隐居、隐藏；闭门不出；包含；烟等弥漫于某场所；声音不清楚",
+    "english": "To be confined",
+    "POS": "自五"
+  },
+  {
+    "kanji": "凝らす",
+    "kana": "こらす",
+    "romaji": "ko ra su",
+    "chinese": "使凝固、使僵硬；使集中",
+    "english": "to devote",
+    "POS": "他五"
+  },
+  {
+    "kanji": "凝る",
+    "kana": "こる",
+    "romaji": "ko ru",
+    "chinese": "肌肉变硬；热衷于；讲究、精心制作",
+    "english": "Be engrossed",
+    "POS": "自五"
+  },
+  {
+    "kanji": "此れ，是",
+    "kana": "これ",
+    "romaji": "ko re",
+    "chinese": "此、这；现在；这人（用于家人或下属）",
+    "english": "This, this",
+    "POS": "代，感"
+  },
+  {
+    "kanji": "頃",
+    "kana": "ころ",
+    "romaji": "ko ro",
+    "chinese": "时期；时机",
+    "english": "頃",
+    "POS": "名"
+  },
+  {
+    "kanji": "転がす",
+    "kana": "ころがす",
+    "romaji": "ko ro ga su",
+    "chinese": "滚动；推倒；放置",
+    "english": "roll",
+    "POS": "他五"
+  },
+  {
+    "kanji": "転がる",
+    "kana": "ころがる",
+    "romaji": "ko ro ga ru",
+    "chinese": "滚动；倒下；横躺；随意搁置着",
+    "english": "roll",
+    "POS": "自五"
+  },
+  {
+    "kanji": "ごろごろ",
+    "kana": "ごろごろ",
+    "romaji": "go ro go ro",
+    "chinese": "汽车、地震等声音；滚动的样子；随处可见；混入异物、沙子等；懒洋洋",
+    "english": "Rolling around",
+    "POS": "副，サ変"
+  },
+  {
+    "kanji": "殺す",
+    "kana": "ころす",
+    "romaji": "ko ro su",
+    "chinese": "杀害；压抑；埋没",
+    "english": "kill",
+    "POS": "他五"
+  },
+  {
+    "kanji": "転ぶ",
+    "kana": "ころぶ",
+    "romaji": "ko ro bu",
+    "chinese": "跌倒；滚转",
+    "english": "Fall",
+    "POS": "自五"
+  },
+  {
+    "kanji": "怖い",
+    "kana": "こわい",
+    "romaji": "ko wa i",
+    "chinese": "恐惧、恐怖、可怕、吓人",
+    "english": "scared",
+    "POS": "形"
+  },
+  {
+    "kanji": "壊す",
+    "kana": "こわす",
+    "romaji": "ko wa su",
+    "chinese": "破坏、损坏；损害、损伤；破坏、砸锅",
+    "english": "break",
+    "POS": "他五"
+  },
+  {
+    "kanji": "声高",
+    "kana": "こわだか",
+    "romaji": "ko wa da ka",
+    "chinese": "高声",
+    "english": "Loud",
+    "POS": "形動"
+  },
+  {
+    "kanji": "強張る",
+    "kana": "こわばる",
+    "romaji": "ko wa ba ru",
+    "chinese": "生硬、变硬",
+    "english": "Be stiff",
+    "POS": "自五"
+  },
+  {
+    "kanji": "壊れる",
+    "kana": "こわれる",
+    "romaji": "ko wa re ru",
+    "chinese": "乱七八糟、支离破碎；失败、流产；出故障",
+    "english": "Break",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "今月",
+    "kana": "こんげつ",
+    "romaji": "ko n ge tsu",
+    "chinese": "本月、这个月",
+    "english": "this month",
+    "POS": "名"
+  },
+  {
+    "kanji": "今後",
+    "kana": "こんご",
+    "romaji": "ko n go",
+    "chinese": "今后、将来",
+    "english": "from now on",
+    "POS": "名"
+  },
+  {
+    "kanji": "今週",
+    "kana": "こんしゅう",
+    "romaji": "ko n shu u",
+    "chinese": "本周、这一周",
+    "english": "this week",
+    "POS": "名"
+  },
+  {
+    "kanji": "今度",
+    "kana": "こんど",
+    "romaji": "ko n do",
+    "chinese": "这次、这回；最近、上次；下次",
+    "english": "next time",
+    "POS": "名"
+  },
+  {
+    "kanji": "困難",
+    "kana": "こんなん",
+    "romaji": "ko n na n",
+    "chinese": "困难、棘手",
+    "english": "困難",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "今日",
+    "kana": "こんにち",
+    "romaji": "ko n ni chi",
+    "chinese": "今天；当代、现代",
+    "english": "today",
+    "POS": "名"
+  },
+  {
+    "kanji": "今晩",
+    "kana": "こんばん",
+    "romaji": "ko n ba n",
+    "chinese": "今晚、今夜",
+    "english": "tonight",
+    "POS": "名"
+  },
+  {
+    "kanji": "混乱",
+    "kana": "こんらん",
+    "romaji": "ko n ra n",
+    "chinese": "混乱",
+    "english": "confusion",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "最近",
+    "kana": "さいきん",
+    "romaji": "sa i ki n",
+    "chinese": "最近",
+    "english": "recently",
+    "POS": "名"
+  },
+  {
+    "kanji": "最後",
+    "kana": "さいご",
+    "romaji": "sa i go",
+    "chinese": "最后；一旦……就",
+    "english": "最後",
+    "POS": "名"
+  },
+  {
+    "kanji": "最高",
+    "kana": "さいこう",
+    "romaji": "sa i ko u",
+    "chinese": "最高的；最好的、最了不起的",
+    "english": "Highest",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "財産",
+    "kana": "ざいさん",
+    "romaji": "za i sa n",
+    "chinese": "财产",
+    "english": "property",
+    "POS": "名"
+  },
+  {
+    "kanji": "最終",
+    "kana": "さいしゅう",
+    "romaji": "sa i shu u",
+    "chinese": "最终",
+    "english": "最終",
+    "POS": "名"
+  },
+  {
+    "kanji": "最低",
+    "kana": "さいてい",
+    "romaji": "sa i te i",
+    "chinese": "最低；砸锅、不行、糟糕",
+    "english": "lowest",
+    "POS": "名"
+  },
+  {
+    "kanji": "才能",
+    "kana": "さいのう",
+    "romaji": "sa i no u",
+    "chinese": "才能",
+    "english": "talent",
+    "POS": "名"
+  },
+  {
+    "kanji": "財布",
+    "kana": "さいふ",
+    "romaji": "sa i fu",
+    "chinese": "钱包",
+    "english": "wallet",
+    "POS": "名"
+  },
+  {
+    "kanji": "材料",
+    "kana": "ざいりょう",
+    "romaji": "za i ryo u",
+    "chinese": "原料；资料、题材；影响行情的原因",
+    "english": "Material",
+    "POS": "名"
+  },
+  {
+    "kanji": "幸い",
+    "kana": "さいわい",
+    "romaji": "sa i wa i",
+    "chinese": "幸福、荣幸；合适、方便",
+    "english": "Fortunately",
+    "POS": "名，形動，サ変"
+  },
+  {
+    "kanji": "坂",
+    "kana": "さか",
+    "romaji": "sa ka",
+    "chinese": "斜坡；年龄、气势的高低",
+    "english": "坂",
+    "POS": "名"
+  },
+  {
+    "kanji": "探す，捜す",
+    "kana": "さがす",
+    "romaji": "sa ga su",
+    "chinese": "追踪；物色；寻找",
+    "english": "Search, find",
+    "POS": "他五"
+  },
+  {
+    "kanji": "魚",
+    "kana": "さかな",
+    "romaji": "sa ka na",
+    "chinese": "鱼",
+    "english": "魚",
+    "POS": "名"
+  },
+  {
+    "kanji": "肴",
+    "kana": "さかな",
+    "romaji": "sa ka na",
+    "chinese": "下酒菜、佳肴；饮酒时的助兴",
+    "english": "肴",
+    "POS": "名"
+  },
+  {
+    "kanji": "逆らう",
+    "kana": "さからう",
+    "romaji": "sa ka ra u",
+    "chinese": "逆行；反抗",
+    "english": "Disobey",
+    "POS": "自五"
+  },
+  {
+    "kanji": "盛り",
+    "kana": "さかり",
+    "romaji": "sa ka ri",
+    "chinese": "最盛时期；壮年、精力充沛的时期",
+    "english": "portion",
+    "POS": "名"
+  },
+  {
+    "kanji": "下がる",
+    "kana": "さがる",
+    "romaji": "sa ga ru",
+    "chinese": "下降；向后移、向后退；推移、进展；（阶段、程度、数值等）变低",
+    "english": "Go down",
+    "POS": "自五"
+  },
+  {
+    "kanji": "先",
+    "kana": "さき",
+    "romaji": "sa ki",
+    "chinese": "尖端、末梢、前头；先、早；将来；以前；事前、事先；目的地；剩余、继续；对象、对方",
+    "english": "先",
+    "POS": "名"
+  },
+  {
+    "kanji": "作業",
+    "kana": "さぎょう",
+    "romaji": "sa gyo u",
+    "chinese": "工作、作业",
+    "english": "work",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "咲く",
+    "kana": "さく",
+    "romaji": "sa ku",
+    "chinese": "开花；说话投机",
+    "english": "bloom",
+    "POS": "自五"
+  },
+  {
+    "kanji": "作文",
+    "kana": "さくぶん",
+    "romaji": "sa ku bu n",
+    "chinese": "作文",
+    "english": "composition",
+    "POS": "名"
+  },
+  {
+    "kanji": "桜",
+    "kana": "さくら",
+    "romaji": "sa ku ra",
+    "chinese": "樱花",
+    "english": "桜",
+    "POS": "名"
+  },
+  {
+    "kanji": "探る",
+    "kana": "さぐる",
+    "romaji": "sa gu ru",
+    "chinese": "摸、找；调查；探访风景等",
+    "english": "explore",
+    "POS": "他五"
+  },
+  {
+    "kanji": "酒",
+    "kana": "さけ",
+    "romaji": "sa ke",
+    "chinese": "酒",
+    "english": "酒",
+    "POS": "名"
+  },
+  {
+    "kanji": "叫ぶ",
+    "kana": "さけぶ",
+    "romaji": "sa ke bu",
+    "chinese": "大声叫喊；主张",
+    "english": "shout",
+    "POS": "自五"
+  },
+  {
+    "kanji": "避ける",
+    "kana": "さける",
+    "romaji": "sa ke ru",
+    "chinese": "避免、逃避；逃避责任；回避、避开；忌讳",
+    "english": "avoid",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "下げる",
+    "kana": "さげる",
+    "romaji": "sa ge ru",
+    "chinese": "降低；下垂、下挂；收拾、打烊；往后退；取钱；降低（阶段、程度、数值等）",
+    "english": "Lower",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "支える",
+    "kana": "ささえる",
+    "romaji": "sa sa e ru",
+    "chinese": "支撑；抵挡、抵御；担负、维持",
+    "english": "support",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "捧げる",
+    "kana": "ささげる",
+    "romaji": "sa sa ge ru",
+    "chinese": "捧起；献给；奉献、牺牲",
+    "english": "devote",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "差し上げる",
+    "kana": "さしあげる",
+    "romaji": "sa shi a ge ru",
+    "chinese": "举起、抬起；（敬）给",
+    "english": "give",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "指す",
+    "kana": "さす",
+    "romaji": "sa su",
+    "chinese": "指给人看；叫名字、点名；朝着、以……为目标；下象棋",
+    "english": "Point",
+    "POS": "他五"
+  },
+  {
+    "kanji": "差す",
+    "kana": "さす",
+    "romaji": "sa su",
+    "chinese": "倒水；添加；擦、涂；举到头上；插、夹带；撑（船）；劝酒、敬酒；呈现出；涨潮",
+    "english": "Insert",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "さすが",
+    "kana": "さすが",
+    "romaji": "sa su ga",
+    "chinese": "到底是、不愧是；但是、不过；就连……也",
+    "english": "As expected",
+    "POS": "副"
+  },
+  {
+    "kanji": "誘う",
+    "kana": "さそう",
+    "romaji": "sa so u",
+    "chinese": "邀请；相约；加快、催促；诱惑",
+    "english": "Invite",
+    "POS": "他五"
+  },
+  {
+    "kanji": "雑誌",
+    "kana": "ざっし",
+    "romaji": "za っ shi",
+    "chinese": "杂志",
+    "english": "magazine",
+    "POS": "名"
+  },
+  {
+    "kanji": "砂糖",
+    "kana": "さとう",
+    "romaji": "sa to u",
+    "chinese": "白砂糖",
+    "english": "sugar",
+    "POS": "名"
+  },
+  {
+    "kanji": "寂しい",
+    "kana": "さびしい",
+    "romaji": "sa bi shi i",
+    "chinese": "寂寞、悲哀；寂静；令人不满的、令人遗憾的",
+    "english": "lonely",
+    "POS": "形"
+  },
+  {
+    "kanji": "様",
+    "kana": "さま",
+    "romaji": "sa ma",
+    "chinese": "敬称；表示敬意、客气的说法；样子、情景",
+    "english": "様",
+    "POS": "名，代"
+  },
+  {
+    "kanji": "妨げる",
+    "kana": "さまたげる",
+    "romaji": "sa ma ta ge ru",
+    "chinese": "妨碍、阻止",
+    "english": "hinder",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "寒い",
+    "kana": "さむい",
+    "romaji": "sa mu i",
+    "chinese": "寒冷；胆怯、心虚；简陋的",
+    "english": "cold",
+    "POS": "形"
+  },
+  {
+    "kanji": "作用",
+    "kana": "さよう",
+    "romaji": "sa yo u",
+    "chinese": "作用、影响",
+    "english": "effect",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "さよなら",
+    "kana": "さよなら",
+    "romaji": "sa yo na ra",
+    "chinese": "再见",
+    "english": "good bye",
+    "POS": "感"
+  },
+  {
+    "kanji": "更に",
+    "kana": "さらに",
+    "romaji": "sa ra ni",
+    "chinese": "进一步；更加；反复、再三；（下接否定形式）一点也",
+    "english": "Furthermore",
+    "POS": "副"
+  },
+  {
+    "kanji": "皿",
+    "kana": "さら",
+    "romaji": "sa ra",
+    "chinese": "盘子；碟状物；（做数量词用）碟、盘",
+    "english": "皿",
+    "POS": "名，接尾"
+  },
+  {
+    "kanji": "去る",
+    "kana": "さる",
+    "romaji": "sa ru",
+    "chinese": "离去；时间流逝；死去；消失；相隔、相距；过去的；除去、消除；辞职；远离、疏远",
+    "english": "Leave",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "騒ぐ",
+    "kana": "さわぐ",
+    "romaji": "sa wa gu",
+    "chinese": "大声叫喊；大肆喧哗；哗哗摆动；起哄、闹事；心里乱糟糟",
+    "english": "Make noise",
+    "POS": "自五"
+  },
+  {
+    "kanji": "触る",
+    "kana": "さわる",
+    "romaji": "sa wa ru",
+    "chinese": "轻轻地接触、触摸",
+    "english": "touch",
+    "POS": "自五"
+  },
+  {
+    "kanji": "さん",
+    "kana": "さん",
+    "romaji": "sa n",
+    "chinese": "用在人名、职务后表示尊敬",
+    "english": "Mr. Miss.",
+    "POS": "接尾"
+  },
+  {
+    "kanji": "産業",
+    "kana": "さんぎょう",
+    "romaji": "sa n gyo u",
+    "chinese": "产业",
+    "english": "industry",
+    "POS": "名"
+  },
+  {
+    "kanji": "賛成",
+    "kana": "さんせい",
+    "romaji": "sa n se i",
+    "chinese": "赞成",
+    "english": "agreement",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "残念",
+    "kana": "ざんねん",
+    "romaji": "za n ne n",
+    "chinese": "遗憾、可惜",
+    "english": "disappointing",
+    "POS": "形動"
+  },
+  {
+    "kanji": "散歩",
+    "kana": "さんぽ",
+    "romaji": "sa n po",
+    "chinese": "散步",
+    "english": "stroll",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "試合",
+    "kana": "しあい",
+    "romaji": "shi a i",
+    "chinese": "比赛、竞争",
+    "english": "game",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "幸せ",
+    "kana": "しあわせ",
+    "romaji": "shi a wa se",
+    "chinese": "幸福；幸运",
+    "english": "happiness",
+    "POS": "形動"
+  },
+  {
+    "kanji": "塩",
+    "kana": "しお",
+    "romaji": "shi o",
+    "chinese": "食盐",
+    "english": "塩",
+    "POS": "名"
+  },
+  {
+    "kanji": "萎れる",
+    "kana": "しおれる",
+    "romaji": "shi o re ru",
+    "chinese": "（植物）枯萎、蔫；气馁、泄气",
+    "english": "wither",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "然し，併し",
+    "kana": "しかし",
+    "romaji": "shi ka shi",
+    "chinese": "但是",
+    "english": "However,",
+    "POS": "接続"
+  },
+  {
+    "kanji": "しかも",
+    "kana": "しかも",
+    "romaji": "shi ka mo",
+    "chinese": "而且；即使……也",
+    "english": "Moreover,",
+    "POS": "接続"
+  },
+  {
+    "kanji": "時間",
+    "kana": "じかん",
+    "romaji": "ji ka n",
+    "chinese": "小时；时间、光阴；时刻",
+    "english": "時間",
+    "POS": "名"
+  },
+  {
+    "kanji": "四季",
+    "kana": "しき",
+    "romaji": "shi ki",
+    "chinese": "四季",
+    "english": "four seasons",
+    "POS": "名"
+  },
+  {
+    "kanji": "刺激",
+    "kana": "しげき",
+    "romaji": "shi ge ki",
+    "chinese": "刺激；鼓舞、鼓励；使兴奋",
+    "english": "Stimulate",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "試験",
+    "kana": "しけん",
+    "romaji": "shi ke n",
+    "chinese": "考试；试验",
+    "english": "test",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "事件",
+    "kana": "じけん",
+    "romaji": "ji ke n",
+    "chinese": "事件；（杀人、强盗等）案件",
+    "english": "event",
+    "POS": "名"
+  },
+  {
+    "kanji": "時刻",
+    "kana": "じこく",
+    "romaji": "ji ko ku",
+    "chinese": "时刻",
+    "english": "時刻",
+    "POS": "名"
+  },
+  {
+    "kanji": "仕事",
+    "kana": "しごと",
+    "romaji": "shi go to",
+    "chinese": "工作；职务、业务",
+    "english": "work",
+    "POS": "名"
+  },
+  {
+    "kanji": "事実",
+    "kana": "じじつ",
+    "romaji": "ji ji tsu",
+    "chinese": "事实；实际",
+    "english": "fact",
+    "POS": "名，副"
+  },
+  {
+    "kanji": "辞書",
+    "kana": "じしょ",
+    "romaji": "ji sho",
+    "chinese": "辞书、辞典",
+    "english": "dictionary",
+    "POS": "名"
+  },
+  {
+    "kanji": "事情",
+    "kana": "じじょう",
+    "romaji": "ji jo u",
+    "chinese": "状态、理由",
+    "english": "matter",
+    "POS": "名"
+  },
+  {
+    "kanji": "静か",
+    "kana": "しずか",
+    "romaji": "shi zu ka",
+    "chinese": "安静；平静、安稳；宁静",
+    "english": "quiet",
+    "POS": "形動"
+  },
+  {
+    "kanji": "沈む",
+    "kana": "しずむ",
+    "romaji": "shi zu mu",
+    "chinese": "沉没；落山；变低；变得阴郁、忧郁；陷入、沦落",
+    "english": "Sink",
+    "POS": "自五"
+  },
+  {
+    "kanji": "姿勢",
+    "kana": "しせい",
+    "romaji": "shi se i",
+    "chinese": "姿势；态度、姿态",
+    "english": "posture",
+    "POS": "名"
+  },
+  {
+    "kanji": "自然",
+    "kana": "しぜん",
+    "romaji": "shi ze n",
+    "chinese": "大自然；自然、不做作；当然；自然而然",
+    "english": "nature",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "下",
+    "kana": "した",
+    "romaji": "shi ta",
+    "chinese": "下部、下放；楼下；内侧；年纪小；（程度、地位等）低；刚……之后",
+    "english": "下",
+    "POS": "名"
+  },
+  {
+    "kanji": "舌",
+    "kana": "した",
+    "romaji": "shi ta",
+    "chinese": "舌头；味觉",
+    "english": "舌",
+    "POS": "名"
+  },
+  {
+    "kanji": "時代",
+    "kana": "じだい",
+    "romaji": "ji da i",
+    "chinese": "时势；（历史上的）年代；人生的某一时期",
+    "english": "時代",
+    "POS": "名"
+  },
+  {
+    "kanji": "従う",
+    "kana": "したがう",
+    "romaji": "shi ta ga u",
+    "chinese": "服从；跟随；沿着；随着……",
+    "english": "follow",
+    "POS": "自五"
+  },
+  {
+    "kanji": "従って",
+    "kana": "したがって",
+    "romaji": "shi ta ga っ te",
+    "chinese": "由于、因此",
+    "english": "Therefore",
+    "POS": "接続"
+  },
+  {
+    "kanji": "支度，仕度",
+    "kana": "したく",
+    "romaji": "shi ta ku",
+    "chinese": "准备；装备；打扮、整装",
+    "english": "Preparation, preparation",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "親しい",
+    "kana": "したしい",
+    "romaji": "shi ta shi i",
+    "chinese": "亲密、关系好；熟悉",
+    "english": "close",
+    "POS": "形"
+  },
+  {
+    "kanji": "しっかり",
+    "kana": "しっかり",
+    "romaji": "shi っ ka ri",
+    "chinese": "牢固地；结实；值得信赖的；清醒、不糊涂；认真、扎实；确实、的确；很多、足够",
+    "english": "Firmly",
+    "POS": "副，サ変"
+  },
+  {
+    "kanji": "躾",
+    "kana": "しつけ",
+    "romaji": "shi tsu ke",
+    "chinese": "使……守规矩、管教、训练",
+    "english": "躾",
+    "POS": "名"
+  },
+  {
+    "kanji": "実験",
+    "kana": "じっけん",
+    "romaji": "ji っ ke n",
+    "chinese": "实验、试验；实际经验",
+    "english": "experiment",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "実行",
+    "kana": "じっこう",
+    "romaji": "ji っ ko u",
+    "chinese": "行动、付诸行动",
+    "english": "execution",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "実際",
+    "kana": "じっさい",
+    "romaji": "ji っ sa i",
+    "chinese": "实际；真正地",
+    "english": "actual",
+    "POS": "名，副"
+  },
+  {
+    "kanji": "じっと",
+    "kana": "じっと",
+    "romaji": "ji っ to",
+    "chinese": "一动不动、安静地；专心致志地；耐心地",
+    "english": "Stay still",
+    "POS": "副，サ変"
+  },
+  {
+    "kanji": "失敗",
+    "kana": "しっぱい",
+    "romaji": "shi っ pa i",
+    "chinese": "错误、失败",
+    "english": "失敗",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "失礼",
+    "kana": "しつれい",
+    "romaji": "shi tsu re i",
+    "chinese": "失礼、无礼；对不起、劳驾；失陪了",
+    "english": "rude",
+    "POS": "形動，サ変"
+  },
+  {
+    "kanji": "指導",
+    "kana": "しどう",
+    "romaji": "shi do u",
+    "chinese": "指导",
+    "english": "指導",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "品物",
+    "kana": "しなもの",
+    "romaji": "shi na mo no",
+    "chinese": "物品、商品",
+    "english": "goods",
+    "POS": "名"
+  },
+  {
+    "kanji": "死ぬ",
+    "kana": "しぬ",
+    "romaji": "shi nu",
+    "chinese": "死亡；失去生气；闲置着、不起作用",
+    "english": "die",
+    "POS": "自五"
+  },
+  {
+    "kanji": "暫く",
+    "kana": "しばらく",
+    "romaji": "shi ba ra ku",
+    "chinese": "一会儿；暂时、目前；一段时间",
+    "english": "For a while",
+    "POS": "副"
+  },
+  {
+    "kanji": "渋い",
+    "kana": "しぶい",
+    "romaji": "shi bu i",
+    "chinese": "（味道）苦涩；（表情等）苦涩；古朴的、高雅的；小气的",
+    "english": "Astringent",
+    "POS": "形"
+  },
+  {
+    "kanji": "自分",
+    "kana": "じぶん",
+    "romaji": "ji bu n",
+    "chinese": "自身、自己；我",
+    "english": "myself",
+    "POS": "名"
+  },
+  {
+    "kanji": "絞る，搾る",
+    "kana": "しぼる",
+    "romaji": "shi bo ru",
+    "chinese": "挤、榨；扎起来；缩小；把声音调小；缩小范围；绞尽脑汁；严厉责备、批评",
+    "english": "to squeeze, to squeeze",
+    "POS": "他五"
+  },
+  {
+    "kanji": "島",
+    "kana": "しま",
+    "romaji": "shi ma",
+    "chinese": "岛屿",
+    "english": "島",
+    "POS": "名"
+  },
+  {
+    "kanji": "仕舞う",
+    "kana": "しまう",
+    "romaji": "shi ma u",
+    "chinese": "收拾、整理；保存；关门、倒闭",
+    "english": "Put away",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "了う",
+    "kana": "しまう",
+    "romaji": "shi ma u",
+    "chinese": "表示完了；表示不希望出现的结果",
+    "english": "Finish",
+    "POS": "補動"
+  },
+  {
+    "kanji": "閉まる",
+    "kana": "しまる",
+    "romaji": "shi ma ru",
+    "chinese": "关门",
+    "english": "Close",
+    "POS": "自五"
+  },
+  {
+    "kanji": "締まる",
+    "kana": "しまる",
+    "romaji": "shi ma ru",
+    "chinese": "不宽松、紧",
+    "english": "Tighten",
+    "POS": "自五"
+  },
+  {
+    "kanji": "自慢",
+    "kana": "じまん",
+    "romaji": "ji ma n",
+    "chinese": "骄傲、自豪、豪言",
+    "english": "Boastful",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "事務",
+    "kana": "じむ",
+    "romaji": "ji mu",
+    "chinese": "事务",
+    "english": "Administration",
+    "POS": "名"
+  },
+  {
+    "kanji": "示す",
+    "kana": "しめす",
+    "romaji": "shi me su",
+    "chinese": "出示；表达（心情等）；指点；（钟表等）显示刻度",
+    "english": "show",
+    "POS": "他五"
+  },
+  {
+    "kanji": "閉める",
+    "kana": "しめる",
+    "romaji": "shi me ru",
+    "chinese": "关闭；倒闭",
+    "english": "close",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "占める",
+    "kana": "しめる",
+    "romaji": "shi me ru",
+    "chinese": "占有；取得、获取",
+    "english": "Occupy",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "社会",
+    "kana": "しゃかい",
+    "romaji": "sha ka i",
+    "chinese": "社会；相同行业",
+    "english": "society",
+    "POS": "名"
+  },
+  {
+    "kanji": "写真",
+    "kana": "しゃしん",
+    "romaji": "sha shi n",
+    "chinese": "照片",
+    "english": "photograph",
+    "POS": "名"
+  },
+  {
+    "kanji": "喋る",
+    "kana": "しゃべる",
+    "romaji": "sha be ru",
+    "chinese": "聊天、唠叨",
+    "english": "Speak",
+    "POS": "他五"
+  },
+  {
+    "kanji": "邪魔",
+    "kana": "じゃま",
+    "romaji": "ja ma",
+    "chinese": "障碍物、妨碍；拜访、串门",
+    "english": "obstacle",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "週",
+    "kana": "しゅう",
+    "romaji": "shu u",
+    "chinese": "周、星期",
+    "english": "週",
+    "POS": "名"
+  },
+  {
+    "kanji": "自由",
+    "kana": "じゆう",
+    "romaji": "ji yu u",
+    "chinese": "自由、随便",
+    "english": "free",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "習慣",
+    "kana": "しゅうかん",
+    "romaji": "shu u ka n",
+    "chinese": "习惯；风习",
+    "english": "習慣",
+    "POS": "名"
+  },
+  {
+    "kanji": "宗教",
+    "kana": "しゅうきょう",
+    "romaji": "shu u kyo u",
+    "chinese": "宗教",
+    "english": "religion",
+    "POS": "名"
+  },
+  {
+    "kanji": "収入",
+    "kana": "しゅうにゅう",
+    "romaji": "shu u nyu u",
+    "chinese": "所得；收益",
+    "english": "income",
+    "POS": "名"
+  },
+  {
+    "kanji": "十分",
+    "kana": "じゅうぶん",
+    "romaji": "ju u bu n",
+    "chinese": "许多；完全地",
+    "english": "very",
+    "POS": "形動，副"
+  },
+  {
+    "kanji": "重要",
+    "kana": "じゅうよう",
+    "romaji": "ju u yo u",
+    "chinese": "重要",
+    "english": "important",
+    "POS": "形動"
+  },
+  {
+    "kanji": "授業",
+    "kana": "じゅぎょう",
+    "romaji": "ju gyo u",
+    "chinese": "传授知识、技术、手艺",
+    "english": "class",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "宿題",
+    "kana": "しゅくだい",
+    "romaji": "shu ku da i",
+    "chinese": "作业；研究中的问题",
+    "english": "homework",
+    "POS": "名"
+  },
+  {
+    "kanji": "主権",
+    "kana": "しゅけん",
+    "romaji": "shu ke n",
+    "chinese": "主权",
+    "english": "sovereignty",
+    "POS": "名"
+  },
+  {
+    "kanji": "手術",
+    "kana": "しゅじゅつ",
+    "romaji": "shu ju tsu",
+    "chinese": "手术刀；手术",
+    "english": "手術",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "首相",
+    "kana": "しゅしょう",
+    "romaji": "shu sho u",
+    "chinese": "首相",
+    "english": "prime minister",
+    "POS": "名"
+  },
+  {
+    "kanji": "手段",
+    "kana": "しゅだん",
+    "romaji": "shu da n",
+    "chinese": "手段",
+    "english": "means",
+    "POS": "名"
+  },
+  {
+    "kanji": "主張",
+    "kana": "しゅちょう",
+    "romaji": "shu cho u",
+    "chinese": "主张",
+    "english": "Claims",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "出席",
+    "kana": "しゅっせき",
+    "romaji": "shu っ se ki",
+    "chinese": "出席",
+    "english": "Attend",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "出張",
+    "kana": "しゅっちょう",
+    "romaji": "shu っ cho u",
+    "chinese": "出差",
+    "english": "business trip",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "首都",
+    "kana": "しゅと",
+    "romaji": "shu to",
+    "chinese": "首都",
+    "english": "capital",
+    "POS": "名"
+  },
+  {
+    "kanji": "趣味",
+    "kana": "しゅみ",
+    "romaji": "shu mi",
+    "chinese": "兴趣、爱好；乐趣、喜好",
+    "english": "hobby",
+    "POS": "名"
+  },
+  {
+    "kanji": "種類",
+    "kana": "しゅるい",
+    "romaji": "shu ru i",
+    "chinese": "种类",
+    "english": "kinds",
+    "POS": "名"
+  },
+  {
+    "kanji": "順序",
+    "kana": "じゅんじょ",
+    "romaji": "ju n jo",
+    "chinese": "顺序、次序；步骤",
+    "english": "順序",
+    "POS": "名"
+  },
+  {
+    "kanji": "順調",
+    "kana": "じゅんちょう",
+    "romaji": "ju n cho u",
+    "chinese": "顺利、一帆风顺",
+    "english": "Going well",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "準備",
+    "kana": "じゅんび",
+    "romaji": "ju n bi",
+    "chinese": "准备",
+    "english": "準備",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "消化",
+    "kana": "しょうか",
+    "romaji": "sho u ka",
+    "chinese": "消化；吸收、消化知识等；完成",
+    "english": "Digestion",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "紹介",
+    "kana": "しょうかい",
+    "romaji": "sho u ka i",
+    "chinese": "介绍",
+    "english": "introduction",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "正月",
+    "kana": "しょうがつ",
+    "romaji": "sho u ga tsu",
+    "chinese": "正月",
+    "english": "New Year",
+    "POS": "名"
+  },
+  {
+    "kanji": "商業",
+    "kana": "しょうぎょう",
+    "romaji": "sho u gyo u",
+    "chinese": "商业",
+    "english": "商業",
+    "POS": "名"
+  },
+  {
+    "kanji": "状況",
+    "kana": "じょうきょう",
+    "romaji": "jo u kyo u",
+    "chinese": "状况",
+    "english": "situation",
+    "POS": "名"
+  },
+  {
+    "kanji": "情況",
+    "kana": "じょうきょう",
+    "romaji": "jo u kyo u",
+    "chinese": "情况",
+    "english": "情況",
+    "POS": "名"
+  },
+  {
+    "kanji": "条件",
+    "kana": "じょうけん",
+    "romaji": "jo u ke n",
+    "chinese": "条件",
+    "english": "condition",
+    "POS": "名"
+  },
+  {
+    "kanji": "証拠",
+    "kana": "しょうこ",
+    "romaji": "sho u ko",
+    "chinese": "证据",
+    "english": "evidence",
+    "POS": "名"
+  },
+  {
+    "kanji": "常識",
+    "kana": "じょうしき",
+    "romaji": "jo u shi ki",
+    "chinese": "常识",
+    "english": "common sense",
+    "POS": "名"
+  },
+  {
+    "kanji": "上手",
+    "kana": "じょうず",
+    "romaji": "jo u zu",
+    "chinese": "娴熟；客套",
+    "english": "good",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "状態",
+    "kana": "じょうたい",
+    "romaji": "jo u ta i",
+    "chinese": "状况、状态",
+    "english": "situation",
+    "POS": "名"
+  },
+  {
+    "kanji": "上達",
+    "kana": "じょうたつ",
+    "romaji": "jo u ta tsu",
+    "chinese": "学习、技能长进、进步",
+    "english": "Progress",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "冗談",
+    "kana": "じょうだん",
+    "romaji": "jo u da n",
+    "chinese": "玩笑、笑话",
+    "english": "joke",
+    "POS": "名"
+  },
+  {
+    "kanji": "承知",
+    "kana": "しょうち",
+    "romaji": "sho u chi",
+    "chinese": "知道；同意；许可；原谅",
+    "english": "Understood",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "象徴",
+    "kana": "しょうちょう",
+    "romaji": "sho u cho u",
+    "chinese": "象征",
+    "english": "Symbolism",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "商売",
+    "kana": "しょうばい",
+    "romaji": "sho u ba i",
+    "chinese": "生意；职业",
+    "english": "business",
+    "POS": "名"
+  },
+  {
+    "kanji": "消費",
+    "kana": "しょうひ",
+    "romaji": "sho u hi",
+    "chinese": "消费、支出",
+    "english": "消費",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "丈夫",
+    "kana": "じょうぶ",
+    "romaji": "jo u bu",
+    "chinese": "健康的；结实的",
+    "english": "husband",
+    "POS": "形動"
+  },
+  {
+    "kanji": "情報",
+    "kana": "じょうほう",
+    "romaji": "jo u ho u",
+    "chinese": "情报；消息",
+    "english": "information",
+    "POS": "名"
+  },
+  {
+    "kanji": "証明",
+    "kana": "しょうめい",
+    "romaji": "sho u me i",
+    "chinese": "证明",
+    "english": "Proof",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "正面",
+    "kana": "しょうめん",
+    "romaji": "sho u me n",
+    "chinese": "前面；针锋相对",
+    "english": "front",
+    "POS": "名"
+  },
+  {
+    "kanji": "将来",
+    "kana": "しょうらい",
+    "romaji": "sho u ra i",
+    "chinese": "将来",
+    "english": "future",
+    "POS": "名"
+  },
+  {
+    "kanji": "初級",
+    "kana": "しょきゅう",
+    "romaji": "sho kyu u",
+    "chinese": "初级",
+    "english": "初級",
+    "POS": "名"
+  },
+  {
+    "kanji": "食事",
+    "kana": "しょくじ",
+    "romaji": "sho ku ji",
+    "chinese": "吃饭、饮食、饭菜",
+    "english": "meal",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "食品",
+    "kana": "しょくひん",
+    "romaji": "sho ku hi n",
+    "chinese": "食品",
+    "english": "food",
+    "POS": "名"
+  },
+  {
+    "kanji": "植物",
+    "kana": "しょくぶつ",
+    "romaji": "sho ku bu tsu",
+    "chinese": "植物",
+    "english": "plant",
+    "POS": "名"
+  },
+  {
+    "kanji": "食料",
+    "kana": "しょくりょう",
+    "romaji": "sho ku ryo u",
+    "chinese": "食物",
+    "english": "food",
+    "POS": "名"
+  },
+  {
+    "kanji": "女性",
+    "kana": "じょせい",
+    "romaji": "jo se i",
+    "chinese": "女性",
+    "english": "woman",
+    "POS": "名"
+  },
+  {
+    "kanji": "処置",
+    "kana": "しょち",
+    "romaji": "sho chi",
+    "chinese": "处理、措施；治疗",
+    "english": "treatment",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "食器",
+    "kana": "しょっき",
+    "romaji": "sho っ ki",
+    "chinese": "餐具",
+    "english": "Tableware",
+    "POS": "名"
+  },
+  {
+    "kanji": "知らせる",
+    "kana": "しらせる",
+    "romaji": "shi ra se ru",
+    "chinese": "通知、告诉；通报、预告",
+    "english": "Inform",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "調べる",
+    "kana": "しらべる",
+    "romaji": "shi ra be ru",
+    "chinese": "调查、研究；查阅（辞书等）；搜索、检查；审讯",
+    "english": "investigate",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "尻",
+    "kana": "しり",
+    "romaji": "shi ri",
+    "chinese": "臀部；后头；末尾；（器物的）底儿",
+    "english": "尻",
+    "POS": "名"
+  },
+  {
+    "kanji": "じりじり",
+    "kana": "じりじり",
+    "romaji": "ji ri ji ri",
+    "chinese": "铃声等；油炸的吱吱音；一步一步地移动；（太阳光）灼热；坐立不安",
+    "english": "Scorching hot",
+    "POS": "副"
+  },
+  {
+    "kanji": "退く",
+    "kana": "しりぞく",
+    "romaji": "shi ri zo ku",
+    "chinese": "后退；回避；隐退、辞职；让步",
+    "english": "Step back",
+    "POS": "自五"
+  },
+  {
+    "kanji": "私立",
+    "kana": "しりつ",
+    "romaji": "shi ri tsu",
+    "chinese": "私立",
+    "english": "private",
+    "POS": "名"
+  },
+  {
+    "kanji": "資料",
+    "kana": "しりょう",
+    "romaji": "shi ryo u",
+    "chinese": "资料",
+    "english": "資料",
+    "POS": "名"
+  },
+  {
+    "kanji": "汁",
+    "kana": "しる",
+    "romaji": "shi ru",
+    "chinese": "果汁；草木的汁；菜汤；（占的）便宜、好处",
+    "english": "汁",
+    "POS": "名"
+  },
+  {
+    "kanji": "知る",
+    "kana": "しる",
+    "romaji": "shi ru",
+    "chinese": "知道；注意到、醒悟；分辨、区分；理解内容；感到；预见、预知；体验；相识；相关、介",
+    "english": "know",
+    "POS": "他五"
+  },
+  {
+    "kanji": "印",
+    "kana": "しるし",
+    "romaji": "shi ru shi",
+    "chinese": "记号、符号；标志；凭证",
+    "english": "印",
+    "POS": "名"
+  },
+  {
+    "kanji": "記す",
+    "kana": "しるす",
+    "romaji": "shi ru su",
+    "chinese": "写下；记述；做记号、标记；记住",
+    "english": "Write down",
+    "POS": "他五"
+  },
+  {
+    "kanji": "白",
+    "kana": "しろ",
+    "romaji": "shi ro",
+    "chinese": "白色；洁白（无罪）",
+    "english": "白",
+    "POS": "名"
+  },
+  {
+    "kanji": "白い",
+    "kana": "しろい",
+    "romaji": "shi ro i",
+    "chinese": "白",
+    "english": "white",
+    "POS": "形"
+  },
+  {
+    "kanji": "人格",
+    "kana": "じんかく",
+    "romaji": "ji n ka ku",
+    "chinese": "人格",
+    "english": "Personality",
+    "POS": "名"
+  },
+  {
+    "kanji": "進行",
+    "kana": "しんこう",
+    "romaji": "shi n ko u",
+    "chinese": "前进；进展；病情恶化",
+    "english": "進行",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "人口",
+    "kana": "じんこう",
+    "romaji": "ji n ko u",
+    "chinese": "人口；众人之口",
+    "english": "population",
+    "POS": "名"
+  },
+  {
+    "kanji": "信じる",
+    "kana": "しんじる",
+    "romaji": "shi n ji ru",
+    "chinese": "信仰；相信；信赖",
+    "english": "believe",
+    "POS": "他上一"
+  },
+  {
+    "kanji": "心身",
+    "kana": "しんしん",
+    "romaji": "shi n shi n",
+    "chinese": "身心",
+    "english": "Mind and Body",
+    "POS": "名"
+  },
+  {
+    "kanji": "人生",
+    "kana": "じんせい",
+    "romaji": "ji n se i",
+    "chinese": "人生",
+    "english": "Life",
+    "POS": "名"
+  },
+  {
+    "kanji": "親切",
+    "kana": "しんせつ",
+    "romaji": "shi n se tsu",
+    "chinese": "体贴、关怀、热情",
+    "english": "親切",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "新鮮",
+    "kana": "しんせん",
+    "romaji": "shi n se n",
+    "chinese": "新鲜；清新",
+    "english": "新鮮",
+    "POS": "形動"
+  },
+  {
+    "kanji": "心配",
+    "kana": "しんぱい",
+    "romaji": "shi n pa i",
+    "chinese": "担心；照顾、张罗",
+    "english": "anxiety",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "人物",
+    "kana": "じんぶつ",
+    "romaji": "ji n bu tsu",
+    "chinese": "人；人格、性格；有才能的人",
+    "english": "figure",
+    "POS": "名"
+  },
+  {
+    "kanji": "新聞",
+    "kana": "しんぶん",
+    "romaji": "shi n bu n",
+    "chinese": "报刊",
+    "english": "新聞",
+    "POS": "名"
+  },
+  {
+    "kanji": "進歩",
+    "kana": "しんぽ",
+    "romaji": "shi n po",
+    "chinese": "进步",
+    "english": "Progress",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "信用",
+    "kana": "しんよう",
+    "romaji": "shi n yo u",
+    "chinese": "信赖；相信；评价",
+    "english": "Credit",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "心理",
+    "kana": "しんり",
+    "romaji": "shi n ri",
+    "chinese": "精神活动、心理",
+    "english": "psychology",
+    "POS": "名"
+  },
+  {
+    "kanji": "酢",
+    "kana": "す",
+    "romaji": "su",
+    "chinese": "醋",
+    "english": "酢",
+    "POS": "名"
+  },
+  {
+    "kanji": "随分",
+    "kana": "ずいぶん",
+    "romaji": "zu i bu n",
+    "chinese": "非常；比较；特别；够呛；冷酷",
+    "english": "Quite a bit",
+    "POS": "副，サ変"
+  },
+  {
+    "kanji": "吸う",
+    "kana": "すう",
+    "romaji": "su u",
+    "chinese": "呼吸；吸烟；吸收",
+    "english": "inhale",
+    "POS": "他五"
+  },
+  {
+    "kanji": "数学",
+    "kana": "すうがく",
+    "romaji": "su u ga ku",
+    "chinese": "数学",
+    "english": "math",
+    "POS": "名"
+  },
+  {
+    "kanji": "末",
+    "kana": "すえ",
+    "romaji": "su e",
+    "chinese": "末尾；结果；将来；排行最后；末世；无足轻重之事",
+    "english": "末",
+    "POS": "名"
+  },
+  {
+    "kanji": "据える",
+    "kana": "すえる",
+    "romaji": "su e ru",
+    "chinese": "摆放；稳定下来；安置；让……坐下",
+    "english": "Place",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "姿",
+    "kana": "すがた",
+    "romaji": "su ga ta",
+    "chinese": "姿势；外观、打扮；状况、情况；物体的形状；身影",
+    "english": "姿",
+    "POS": "名"
+  },
+  {
+    "kanji": "好き",
+    "kana": "すき",
+    "romaji": "su ki",
+    "chinese": "喜爱的；随心所欲",
+    "english": "like",
+    "POS": "形動"
+  },
+  {
+    "kanji": "過ぎる",
+    "kana": "すぎる",
+    "romaji": "su gi ru",
+    "chinese": "通过、穿过；超过；经过、经历；结束、过去；过期；过度、过分；胜于",
+    "english": "Too much",
+    "POS": "自上一"
+  },
+  {
+    "kanji": "空く",
+    "kana": "すく",
+    "romaji": "su ku",
+    "chinese": "空；闲下来、手空出来",
+    "english": "Vacant",
+    "POS": "自五"
+  },
+  {
+    "kanji": "透く",
+    "kana": "すく",
+    "romaji": "su ku",
+    "chinese": "透明",
+    "english": "be transparent",
+    "POS": "自五"
+  },
+  {
+    "kanji": "直ぐ",
+    "kana": "すぐ",
+    "romaji": "su gu",
+    "chinese": "马上；不久；（距离）很近；容易、轻易",
+    "english": "immediately",
+    "POS": "副"
+  },
+  {
+    "kanji": "救う",
+    "kana": "すくう",
+    "romaji": "su ku u",
+    "chinese": "救助；挽救；弥补",
+    "english": "save",
+    "POS": "他五"
+  },
+  {
+    "kanji": "少ない",
+    "kana": "すくない",
+    "romaji": "su ku na i",
+    "chinese": "少",
+    "english": "few",
+    "POS": "形"
+  },
+  {
+    "kanji": "優れる",
+    "kana": "すぐれる",
+    "romaji": "su gu re ru",
+    "chinese": "出色、优秀、卓越",
+    "english": "Excellent",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "凄い",
+    "kana": "すごい",
+    "romaji": "su go i",
+    "chinese": "可怕、吓人；非常、特别；表示惊讶、惊叹的心情",
+    "english": "amazing",
+    "POS": "形"
+  },
+  {
+    "kanji": "少し",
+    "kana": "すこし",
+    "romaji": "su ko shi",
+    "chinese": "少量、少数；一点点；稍微；一会儿",
+    "english": "a bit",
+    "POS": "副"
+  },
+  {
+    "kanji": "過ごす",
+    "kana": "すごす",
+    "romaji": "su go su",
+    "chinese": "度过；过分、过度",
+    "english": "spend",
+    "POS": "他五"
+  },
+  {
+    "kanji": "涼しい",
+    "kana": "すずしい",
+    "romaji": "su zu shi i",
+    "chinese": "凉快；清爽、爽快",
+    "english": "cool",
+    "POS": "形"
+  },
+  {
+    "kanji": "進む",
+    "kana": "すすむ",
+    "romaji": "su su mu",
+    "chinese": "前进；进展；进入；进步；恶化；愿意、积极；旺盛；钟表快",
+    "english": "move on",
+    "POS": "自五"
+  },
+  {
+    "kanji": "雀",
+    "kana": "すずめ",
+    "romaji": "su zu me",
+    "chinese": "麻雀；消息通",
+    "english": "雀",
+    "POS": "名"
+  },
+  {
+    "kanji": "進める",
+    "kana": "すすめる",
+    "romaji": "su su me ru",
+    "chinese": "向前进；进展；晋升；增加（食欲）；把时间调快；提高程度",
+    "english": "Go Forward",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "勧める",
+    "kana": "すすめる",
+    "romaji": "su su me ru",
+    "chinese": "建议；劝、劝诱",
+    "english": "recommend",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "薦める",
+    "kana": "すすめる",
+    "romaji": "su su me ru",
+    "chinese": "推荐、推举",
+    "english": "recommend",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "廃れる",
+    "kana": "すたれる",
+    "romaji": "su ta re ru",
+    "chinese": "过时、不流行；衰弱、衰落",
+    "english": "Fall into disuse",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "すっかり",
+    "kana": "すっかり",
+    "romaji": "su っ ka ri",
+    "chinese": "全部、完全；非常",
+    "english": "Completely",
+    "POS": "副"
+  },
+  {
+    "kanji": "すっきり",
+    "kana": "すっきり",
+    "romaji": "su っ ki ri",
+    "chinese": "心情爽快；整洁、清爽；明了",
+    "english": "Refreshing",
+    "POS": "副"
+  },
+  {
+    "kanji": "ずっと",
+    "kana": "ずっと",
+    "romaji": "zu っ to",
+    "chinese": "时间、距离相隔阂；一直、不停地；笔直；……得多",
+    "english": "forever",
+    "POS": "副"
+  },
+  {
+    "kanji": "酸っぱい",
+    "kana": "すっぱい",
+    "romaji": "su っ pa i",
+    "chinese": "酸",
+    "english": "sour",
+    "POS": "形"
+  },
+  {
+    "kanji": "既に",
+    "kana": "すでに",
+    "romaji": "su de ni",
+    "chinese": "已经、到那时为止",
+    "english": "already",
+    "POS": "副"
+  },
+  {
+    "kanji": "捨てる",
+    "kana": "すてる",
+    "romaji": "su te ru",
+    "chinese": "扔掉；放弃；抛弃、遗弃",
+    "english": "dispose of",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "砂",
+    "kana": "すな",
+    "romaji": "su na",
+    "chinese": "沙子",
+    "english": "砂",
+    "POS": "名"
+  },
+  {
+    "kanji": "素直",
+    "kana": "すなお",
+    "romaji": "su na o",
+    "chinese": "正直、诚实；坦率",
+    "english": "Obedient",
+    "POS": "形動"
+  },
+  {
+    "kanji": "即ち",
+    "kana": "すなわち",
+    "romaji": "su na wa chi",
+    "chinese": "即、也就是说",
+    "english": "That is",
+    "POS": "接続"
+  },
+  {
+    "kanji": "素晴らしい",
+    "kana": "すばらしい",
+    "romaji": "su ba ra shi i",
+    "chinese": "出色；非常、特别",
+    "english": "wonderful",
+    "POS": "形"
+  },
+  {
+    "kanji": "全て",
+    "kana": "すべて",
+    "romaji": "su be te",
+    "chinese": "全部",
+    "english": "all",
+    "POS": "副"
+  },
+  {
+    "kanji": "滑る",
+    "kana": "すべる",
+    "romaji": "su be ru",
+    "chinese": "下滑；滑溜；打滑；考试落第；地位下降；说溜嘴",
+    "english": "slide",
+    "POS": "自五"
+  },
+  {
+    "kanji": "住まう",
+    "kana": "すまう",
+    "romaji": "su ma u",
+    "chinese": "居住",
+    "english": "Live",
+    "POS": "自五"
+  },
+  {
+    "kanji": "済ます",
+    "kana": "すます",
+    "romaji": "su ma su",
+    "chinese": "结束；偿还；对付、将就；解决",
+    "english": "Complete",
+    "POS": "他五"
+  },
+  {
+    "kanji": "隅",
+    "kana": "すみ",
+    "romaji": "su mi",
+    "chinese": "角落",
+    "english": "隅",
+    "POS": "名"
+  },
+  {
+    "kanji": "住む",
+    "kana": "すむ",
+    "romaji": "su mu",
+    "chinese": "居住",
+    "english": "live",
+    "POS": "自五"
+  },
+  {
+    "kanji": "済む",
+    "kana": "すむ",
+    "romaji": "su mu",
+    "chinese": "结束；足够、可以；解决",
+    "english": "Done",
+    "POS": "自五"
+  },
+  {
+    "kanji": "澄む",
+    "kana": "すむ",
+    "romaji": "su mu",
+    "chinese": "清澈；天空无云；声音清亮；没有邪念",
+    "english": "clear",
+    "POS": "自五"
+  },
+  {
+    "kanji": "相撲",
+    "kana": "すもう",
+    "romaji": "su mo u",
+    "chinese": "相扑",
+    "english": "Sumo",
+    "POS": "名"
+  },
+  {
+    "kanji": "する",
+    "kana": "する",
+    "romaji": "su ru",
+    "chinese": "做、干；表示人的感觉；表示某种状态；处于某种状态；值（多少钱）、要；戴、佩",
+    "english": "do",
+    "POS": "サ変"
+  },
+  {
+    "kanji": "狡い",
+    "kana": "ずるい",
+    "romaji": "zu ru i",
+    "chinese": "狡猾、滑头、奸诈",
+    "english": "cunning",
+    "POS": "形"
+  },
+  {
+    "kanji": "鋭い",
+    "kana": "するどい",
+    "romaji": "su ru do i",
+    "chinese": "锋利的；尖锐的；敏捷的",
+    "english": "sharp",
+    "POS": "形"
+  },
+  {
+    "kanji": "座る，坐る",
+    "kana": "すわる",
+    "romaji": "su wa ru",
+    "chinese": "坐；就任",
+    "english": "Sit, sit",
+    "POS": "自五"
+  },
+  {
+    "kanji": "背",
+    "kana": "せ",
+    "romaji": "se",
+    "chinese": "脊背；后防；身高",
+    "english": "背",
+    "POS": "名"
+  },
+  {
+    "kanji": "所為",
+    "kana": "せい",
+    "romaji": "se i",
+    "chinese": "原因、缘故",
+    "english": "所為",
+    "POS": "名"
+  },
+  {
+    "kanji": "性格",
+    "kana": "せいかく",
+    "romaji": "se i ka ku",
+    "chinese": "性格；性质",
+    "english": "character",
+    "POS": "名"
+  },
+  {
+    "kanji": "正確",
+    "kana": "せいかく",
+    "romaji": "se i ka ku",
+    "chinese": "正确",
+    "english": "正確",
+    "POS": "形動"
+  },
+  {
+    "kanji": "生活",
+    "kana": "せいかつ",
+    "romaji": "se i ka tsu",
+    "chinese": "生活；生计",
+    "english": "Life",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "制限",
+    "kana": "せいげん",
+    "romaji": "se i ge n",
+    "chinese": "限制",
+    "english": "limit",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "成功",
+    "kana": "せいこう",
+    "romaji": "se i ko u",
+    "chinese": "成功；事业有成",
+    "english": "success",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "生産",
+    "kana": "せいさん",
+    "romaji": "se i sa n",
+    "chinese": "生产",
+    "english": "production",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "政治",
+    "kana": "せいじ",
+    "romaji": "se i ji",
+    "chinese": "政治",
+    "english": "politics",
+    "POS": "名"
+  },
+  {
+    "kanji": "性質",
+    "kana": "せいしつ",
+    "romaji": "se i shi tsu",
+    "chinese": "天性、本性；特性",
+    "english": "性質",
+    "POS": "名"
+  },
+  {
+    "kanji": "青春",
+    "kana": "せいしゅん",
+    "romaji": "se i shu n",
+    "chinese": "青春",
+    "english": "youth",
+    "POS": "名"
+  },
+  {
+    "kanji": "精神",
+    "kana": "せいしん",
+    "romaji": "se i shi n",
+    "chinese": "精神、意志",
+    "english": "Spirit",
+    "POS": "名"
+  },
+  {
+    "kanji": "成績",
+    "kana": "せいせき",
+    "romaji": "se i se ki",
+    "chinese": "成绩；工作的成果",
+    "english": "成績",
+    "POS": "名"
+  },
+  {
+    "kanji": "生徒",
+    "kana": "せいと",
+    "romaji": "se i to",
+    "chinese": "中学生、高中生等",
+    "english": "student",
+    "POS": "名"
+  },
+  {
+    "kanji": "制度",
+    "kana": "せいど",
+    "romaji": "se i do",
+    "chinese": "制度",
+    "english": "system",
+    "POS": "名"
+  },
+  {
+    "kanji": "政府",
+    "kana": "せいふ",
+    "romaji": "se i fu",
+    "chinese": "政府、内阁",
+    "english": "government",
+    "POS": "名"
+  },
+  {
+    "kanji": "生命",
+    "kana": "せいめい",
+    "romaji": "se i me i",
+    "chinese": "生命、寿命；在某一领域的活动；精华、精髓",
+    "english": "life",
+    "POS": "名"
+  },
+  {
+    "kanji": "整理",
+    "kana": "せいり",
+    "romaji": "se i ri",
+    "chinese": "整理、整顿；裁减、缩减；偿还",
+    "english": "tidy",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "成立",
+    "kana": "せいりつ",
+    "romaji": "se i ri tsu",
+    "chinese": "成立；通过议案；实现",
+    "english": "Establishment",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "世界",
+    "kana": "せかい",
+    "romaji": "se ka i",
+    "chinese": "世界上；生活圈；特定的范围",
+    "english": "world",
+    "POS": "名"
+  },
+  {
+    "kanji": "責任",
+    "kana": "せきにん",
+    "romaji": "se ki ni n",
+    "chinese": "责任；职责",
+    "english": "責任",
+    "POS": "名"
+  },
+  {
+    "kanji": "世間",
+    "kana": "せけん",
+    "romaji": "se ke n",
+    "chinese": "人世间；世上的人们；交际、活动的范围",
+    "english": "Society",
+    "POS": "名"
+  },
+  {
+    "kanji": "折角",
+    "kana": "せっかく　",
+    "romaji": "se っ ka ku っ",
+    "chinese": "费周折、好不容易；特意；难得的尽力",
+    "english": "Thank you",
+    "POS": "副"
+  },
+  {
+    "kanji": "絶対",
+    "kana": "ぜったい",
+    "romaji": "ze っ ta i",
+    "chinese": "绝对；决（不）、决（没有）",
+    "english": "absolute",
+    "POS": "名，副"
+  },
+  {
+    "kanji": "説明",
+    "kana": "せつめい",
+    "romaji": "se tsu me i",
+    "chinese": "说明",
+    "english": "explanation",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "是非",
+    "kana": "ぜひ",
+    "romaji": "ze hi",
+    "chinese": "是非、善恶；一定、必定、肯定",
+    "english": "I'd love to",
+    "POS": "名，副"
+  },
+  {
+    "kanji": "狭い",
+    "kana": "せまい",
+    "romaji": "se ma i",
+    "chinese": "空间狭小、幅度狭窄；看法、观点贫乏",
+    "english": "narrow",
+    "POS": "形"
+  },
+  {
+    "kanji": "迫る",
+    "kana": "せまる",
+    "romaji": "se ma ru",
+    "chinese": "距离迫近；时间临近、逼近；急迫、急促；强迫、迫使",
+    "english": "Approaching",
+    "POS": "自五"
+  },
+  {
+    "kanji": "せめて",
+    "kana": "せめて",
+    "romaji": "se me te",
+    "chinese": "至少、哪怕是……也好",
+    "english": "at least",
+    "POS": "副"
+  },
+  {
+    "kanji": "攻める",
+    "kana": "せめる",
+    "romaji": "se me ru",
+    "chinese": "攻击、进攻、攻打",
+    "english": "attack",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "責める",
+    "kana": "せめる",
+    "romaji": "se me ru",
+    "chinese": "非难；严厉要求",
+    "english": "blame",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "世話",
+    "kana": "せわ",
+    "romaji": "se wa",
+    "chinese": "照看、照顾；棘手、麻烦；介绍、斡旋",
+    "english": "care",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "線",
+    "kana": "せん",
+    "romaji": "se n",
+    "chinese": "线；铁路线；电线、电话线；方针",
+    "english": "線",
+    "POS": "名"
+  },
+  {
+    "kanji": "選挙",
+    "kana": "せんきょ",
+    "romaji": "se n kyo",
+    "chinese": "选举",
+    "english": "election",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "先月",
+    "kana": "せんげつ",
+    "romaji": "se n ge tsu",
+    "chinese": "上个月",
+    "english": "last month",
+    "POS": "名"
+  },
+  {
+    "kanji": "先生",
+    "kana": "せんせい",
+    "romaji": "se n se i",
+    "chinese": "老师；对医生、律师、政治家的敬称",
+    "english": "gentlemen",
+    "POS": "名"
+  },
+  {
+    "kanji": "全然",
+    "kana": "ぜんぜん",
+    "romaji": "ze n ze n",
+    "chinese": "（后接否定）一点、完全、根本",
+    "english": "not at all",
+    "POS": "副"
+  },
+  {
+    "kanji": "戦争",
+    "kana": "せんそう",
+    "romaji": "se n so u",
+    "chinese": "战争",
+    "english": "war",
+    "POS": "名"
+  },
+  {
+    "kanji": "洗濯",
+    "kana": "せんたく",
+    "romaji": "se n ta ku",
+    "chinese": "洗涤",
+    "english": "laundry",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "宣伝",
+    "kana": "せんでん",
+    "romaji": "se n de n",
+    "chinese": "宣传；吹嘘、鼓吹",
+    "english": "Advertising",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "先輩",
+    "kana": "せんぱい",
+    "romaji": "se n pa i",
+    "chinese": "先辈、前辈、老资格；先入学或毕业的人、先参加工作的人",
+    "english": "senior",
+    "POS": "名"
+  },
+  {
+    "kanji": "全部",
+    "kana": "ぜんぶ",
+    "romaji": "ze n bu",
+    "chinese": "全部、整体上",
+    "english": "all",
+    "POS": "名"
+  },
+  {
+    "kanji": "添う",
+    "kana": "そう",
+    "romaji": "so u",
+    "chinese": "陪伴；结为夫妇；吻合、能实现",
+    "english": "Attach",
+    "POS": "自五"
+  },
+  {
+    "kanji": "沿う",
+    "kana": "そう",
+    "romaji": "so u",
+    "chinese": "沿着；遵照、按照",
+    "english": "Follow",
+    "POS": "自五"
+  },
+  {
+    "kanji": "増加",
+    "kana": "ぞうか",
+    "romaji": "zo u ka",
+    "chinese": "增加",
+    "english": "increase",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "相互",
+    "kana": "そうご",
+    "romaji": "so u go",
+    "chinese": "相互",
+    "english": "mutual",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "総合",
+    "kana": "そうごう",
+    "romaji": "so u go u",
+    "chinese": "综合",
+    "english": "General",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "想像",
+    "kana": "そうぞう",
+    "romaji": "so u zo u",
+    "chinese": "假定、假设；推测；空想",
+    "english": "imagine",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "相談",
+    "kana": "そうだん",
+    "romaji": "so u da n",
+    "chinese": "听取意见；协商、商量",
+    "english": "consultation",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "相当",
+    "kana": "そうとう",
+    "romaji": "so u to u",
+    "chinese": "相配；相当于；相当程度",
+    "english": "quite",
+    "POS": "名，サ変，行動，副"
+  },
+  {
+    "kanji": "底",
+    "kana": "そこ　",
+    "romaji": "so ko っ",
+    "chinese": "底部、底下；心底、内心；降到最低的物价或行情等",
+    "english": "底",
+    "POS": "名"
+  },
+  {
+    "kanji": "其処",
+    "kana": "そこ　",
+    "romaji": "so ko っ",
+    "chinese": "指距对方较近的场所、那儿；那一点",
+    "english": "There",
+    "POS": "代"
+  },
+  {
+    "kanji": "そこで",
+    "kana": "そこで",
+    "romaji": "so ko de",
+    "chinese": "于是、因此；那么",
+    "english": "So",
+    "POS": "接続"
+  },
+  {
+    "kanji": "損なう",
+    "kana": "そこなう",
+    "romaji": "so ko na u",
+    "chinese": "伤害、损害；有损于；错过、漏掉；险些",
+    "english": "Damage",
+    "POS": "他五"
+  },
+  {
+    "kanji": "組織",
+    "kana": "そしき",
+    "romaji": "so shi ki",
+    "chinese": "成立、结成；构成",
+    "english": "組織",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "そして",
+    "kana": "そして",
+    "romaji": "so shi te",
+    "chinese": "然后、于是",
+    "english": "and",
+    "POS": "接続"
+  },
+  {
+    "kanji": "注ぐ",
+    "kana": "そそぐ",
+    "romaji": "so so gu",
+    "chinese": "流入、汇入；落下、降下；浇、洒；灌、注入；灌溉；集中",
+    "english": "pour",
+    "POS": "自他五"
+  },
+  {
+    "kanji": "育てる",
+    "kana": "そだてる",
+    "romaji": "so da te ru",
+    "chinese": "使……成长；促进发育、培养",
+    "english": "Raise",
+    "POS": "他五"
+  },
+  {
+    "kanji": "そちら",
+    "kana": "そちら",
+    "romaji": "so chi ra",
+    "chinese": "那边；你；那个；那一位",
+    "english": "there",
+    "POS": "代"
+  },
+  {
+    "kanji": "卒業",
+    "kana": "そつぎょう",
+    "romaji": "so tsu gyo u",
+    "chinese": "从学校毕业",
+    "english": "graduation",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "外",
+    "kana": "そと",
+    "romaji": "so to",
+    "chinese": "外面；户外；外边、外面；外部；外表、脸上",
+    "english": "外",
+    "POS": "名"
+  },
+  {
+    "kanji": "備える",
+    "kana": "そなえる",
+    "romaji": "so na e ru",
+    "chinese": "准备；备置、备有；具备、具有",
+    "english": "Prepare",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "其の",
+    "kana": "その",
+    "romaji": "so no",
+    "chinese": "那、那个；那时、那件事",
+    "english": "its",
+    "POS": "連体"
+  },
+  {
+    "kanji": "そのまま",
+    "kana": "そのまま",
+    "romaji": "so no ma ma",
+    "chinese": "原原本本、原封不动的；就那样地；一模一样",
+    "english": "As it is",
+    "POS": "副"
+  },
+  {
+    "kanji": "側",
+    "kana": "そば",
+    "romaji": "so ba",
+    "chinese": "旁边；刚……之后、刚……不久",
+    "english": "側",
+    "POS": "名"
+  },
+  {
+    "kanji": "聳える",
+    "kana": "そびえる",
+    "romaji": "so bi e ru",
+    "chinese": "高耸、耸立",
+    "english": "Towering",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "祖父",
+    "kana": "そふ",
+    "romaji": "so fu",
+    "chinese": "祖父、爷爷、外公",
+    "english": "grandfather",
+    "POS": "名"
+  },
+  {
+    "kanji": "祖母",
+    "kana": "そぼ",
+    "romaji": "so bo",
+    "chinese": "祖母、奶奶、外婆",
+    "english": "grandmother",
+    "POS": "名"
+  },
+  {
+    "kanji": "背く",
+    "kana": "そむく",
+    "romaji": "so mu ku",
+    "chinese": "违背、不遵从；违反；辜负",
+    "english": "disobey",
+    "POS": "自五"
+  },
+  {
+    "kanji": "空",
+    "kana": "そら",
+    "romaji": "so ra",
+    "chinese": "天、空中；天气；心情；谎言、假话；背诵",
+    "english": "空",
+    "POS": "名"
+  },
+  {
+    "kanji": "それ",
+    "kana": "それ",
+    "romaji": "so re",
+    "chinese": "那个；那件事；那时",
+    "english": "that",
+    "POS": "代"
+  },
+  {
+    "kanji": "それだけ",
+    "kana": "それだけ",
+    "romaji": "so re da ke",
+    "chinese": "那些、那么多；唯独那个；只有那些、只限于那些",
+    "english": "That's all.",
+    "POS": "副"
+  },
+  {
+    "kanji": "それで",
+    "kana": "それで",
+    "romaji": "so re de",
+    "chinese": "那么；因此；后来",
+    "english": "So",
+    "POS": "接続"
+  },
+  {
+    "kanji": "揃う",
+    "kana": "そろう",
+    "romaji": "so ro u",
+    "chinese": "汇集、聚集；齐全、成套；整齐、一致",
+    "english": "Align",
+    "POS": "自五"
+  },
+  {
+    "kanji": "揃える",
+    "kana": "そろえる",
+    "romaji": "so ro e ru",
+    "chinese": "使……汇集、聚集；使齐备、凑齐；摆整齐；使……一致、整齐",
+    "english": "Align",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "そろそろ",
+    "kana": "そろそろ",
+    "romaji": "so ro so ro",
+    "chinese": "慢慢地、静悄悄地；渐渐地、一点点地",
+    "english": "It's about time",
+    "POS": "副"
+  },
+  {
+    "kanji": "存在",
+    "kana": "そんざい",
+    "romaji": "so n za i",
+    "chinese": "存在",
+    "english": "exist",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "体育",
+    "kana": "たいいく",
+    "romaji": "ta i i ku",
+    "chinese": "体育",
+    "english": "physical education",
+    "POS": "名"
+  },
+  {
+    "kanji": "第一",
+    "kana": "だいいち",
+    "romaji": "da i i chi",
+    "chinese": "第一、最初；主要；首先",
+    "english": "First",
+    "POS": "名"
+  },
+  {
+    "kanji": "大学",
+    "kana": "だいがく",
+    "romaji": "da i ga ku",
+    "chinese": "大学",
+    "english": "University",
+    "POS": "名"
+  },
+  {
+    "kanji": "大事",
+    "kana": "だいじ",
+    "romaji": "da i ji",
+    "chinese": "大事；重要、关键；贵重的、珍贵的",
+    "english": "Important",
+    "POS": "名，形動"
+  },
+  {
+    "kanji": "大した",
+    "kana": "たいした",
+    "romaji": "ta i shi ta",
+    "chinese": "了不起；不算什么、不要紧",
+    "english": "Great",
+    "POS": "連体"
+  },
+  {
+    "kanji": "対象",
+    "kana": "たいしょう",
+    "romaji": "ta i sho u",
+    "chinese": "对象",
+    "english": "subject",
+    "POS": "名"
+  },
+  {
+    "kanji": "大丈夫",
+    "kana": "だいじょうぶ",
+    "romaji": "da i jo u bu",
+    "chinese": "安全、放心；没关系、不要紧",
+    "english": "Are you okay",
+    "POS": "形動"
+  },
+  {
+    "kanji": "対する",
+    "kana": "たいする",
+    "romaji": "ta i su ru",
+    "chinese": "向对面；对于；对抗；对照、与……相比",
+    "english": "Against",
+    "POS": "サ変"
+  },
+  {
+    "kanji": "大切",
+    "kana": "たいせつ",
+    "romaji": "ta i se tsu",
+    "chinese": "贵重、心爱、谨慎",
+    "english": "important",
+    "POS": "形動"
+  },
+  {
+    "kanji": "体操",
+    "kana": "たいそう",
+    "romaji": "ta i so u",
+    "chinese": "体操；活动、运动",
+    "english": "Gymnastics",
+    "POS": "名"
+  },
+  {
+    "kanji": "大体",
+    "kana": "だいたい",
+    "romaji": "da i ta i",
+    "chinese": "大体上、大概、概略；基本上、差不多；全部；本来、原来",
+    "english": "roughly",
+    "POS": "名，副"
+  },
+  {
+    "kanji": "大抵",
+    "kana": "たいてい",
+    "romaji": "ta i te i",
+    "chinese": "通常；大概、也许；适度、适当；普通",
+    "english": "usually",
+    "POS": "副"
+  },
+  {
+    "kanji": "態度",
+    "kana": "たいど",
+    "romaji": "ta i do",
+    "chinese": "态度、举止；看法、想法",
+    "english": "態度",
+    "POS": "名"
+  },
+  {
+    "kanji": "代表",
+    "kana": "だいひょう",
+    "romaji": "da i hyo u",
+    "chinese": "代表；典型的、有代表性的",
+    "english": "represent",
+    "POS": "名，サ変"
+  },
+  {
+    "kanji": "大分",
+    "kana": "だいぶ",
+    "romaji": "da i bu",
+    "chinese": "数量多、很、颇、相当地",
+    "english": "Oita",
+    "POS": "副"
+  },
+  {
+    "kanji": "大変",
+    "kana": "たいへん",
+    "romaji": "ta i he n",
+    "chinese": "够受的、不得了、不简单；重大、严重；非常",
+    "english": "hard",
+    "POS": "形動"
+  },
+  {
+    "kanji": "太陽",
+    "kana": "たいよう",
+    "romaji": "ta i yo u",
+    "chinese": "太阳",
+    "english": "太陽",
+    "POS": "名"
+  },
+  {
+    "kanji": "平ら",
+    "kana": "たいら",
+    "romaji": "ta i ra",
+    "chinese": "平、平坦；平稳、安静、心平气和",
+    "english": "Flat",
+    "POS": "形動"
+  },
+  {
+    "kanji": "絶える",
+    "kana": "たえる",
+    "romaji": "ta e ru",
+    "chinese": "结束、终止、停止；消失、灭亡",
+    "english": "End",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "耐える",
+    "kana": "たえる",
+    "romaji": "ta e ru",
+    "chinese": "忍耐、忍受；承受、经得住；（以否定的形式表示）不止的、不堪",
+    "english": "Endure",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "倒す",
+    "kana": "たおす",
+    "romaji": "ta o su",
+    "chinese": "打倒、推倒；打败；打倒、推翻",
+    "english": "knock down",
+    "POS": "他五"
+  },
+  {
+    "kanji": "倒れる",
+    "kana": "たおれる",
+    "romaji": "ta o re ru",
+    "chinese": "倒塌；病倒、死；倒台；倒闭、破产",
+    "english": "Fall down",
+    "POS": "自下一"
+  },
+  {
+    "kanji": "高い",
+    "kana": "たかい",
+    "romaji": "ta ka i",
+    "chinese": "高；在上面、在上空；声音的频率高；工资、费用、价格高；地位高；评价高、声誉高；仪",
+    "english": "expensive",
+    "POS": "形"
+  },
+  {
+    "kanji": "互いに",
+    "kana": "たがいに",
+    "romaji": "ta ga i ni",
+    "chinese": "相互、双方",
+    "english": "Each other",
+    "POS": "副"
+  },
+  {
+    "kanji": "高まる",
+    "kana": "たかまる",
+    "romaji": "ta ka ma ru",
+    "chinese": "变高、提高、高张；增大、扩大",
+    "english": "Increase",
+    "POS": "自五"
+  },
+  {
+    "kanji": "高める",
+    "kana": "たかめる",
+    "romaji": "ta ka me ru",
+    "chinese": "提高、增高；增加、强化",
+    "english": "Enhance",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "耕す",
+    "kana": "たがやす",
+    "romaji": "ta ga ya su",
+    "chinese": "耕（地）",
+    "english": "Plow",
+    "POS": "他五"
+  },
+  {
+    "kanji": "宝",
+    "kana": "たから",
+    "romaji": "ta ka ra",
+    "chinese": "财宝、宝贝",
+    "english": "宝",
+    "POS": "名"
+  },
+  {
+    "kanji": "炊く",
+    "kana": "たく",
+    "romaji": "ta ku",
+    "chinese": "煮饭",
+    "english": "cook",
+    "POS": "他五"
+  },
+  {
+    "kanji": "焚く",
+    "kana": "たく",
+    "romaji": "ta ku",
+    "chinese": "烧；薰香",
+    "english": "burn",
+    "POS": "他五"
+  },
+  {
+    "kanji": "抱く",
+    "kana": "だく",
+    "romaji": "da ku",
+    "chinese": "抱；心怀",
+    "english": "Embrace",
+    "POS": "他五"
+  },
+  {
+    "kanji": "沢山",
+    "kana": "たくさん",
+    "romaji": "ta ku sa n",
+    "chinese": "众多、很多、许多；足够、够了",
+    "english": "many",
+    "POS": "副"
+  },
+  {
+    "kanji": "逞しい",
+    "kana": "たくましい",
+    "romaji": "ta ku ma shi i",
+    "chinese": "体格健壮；意志坚定的",
+    "english": "strong",
+    "POS": "形"
+  },
+  {
+    "kanji": "巧み",
+    "kana": "たくみ",
+    "romaji": "ta ku mi",
+    "chinese": "巧妙、精巧",
+    "english": "Skillful",
+    "POS": "形動"
+  },
+  {
+    "kanji": "企む",
+    "kana": "たくらむ",
+    "romaji": "ta ku ra mu",
+    "chinese": "打算、企图；预谋",
+    "english": "plot",
+    "POS": "他五"
+  },
+  {
+    "kanji": "蓄える",
+    "kana": "たくわえる",
+    "romaji": "ta ku wa e ru",
+    "chinese": "储备、储存；留（胡须、头发）",
+    "english": "store",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "竹",
+    "kana": "たけ",
+    "romaji": "ta ke",
+    "chinese": "竹；以松竹梅分等级时的第二",
+    "english": "竹",
+    "POS": "名"
+  },
+  {
+    "kanji": "確か",
+    "kana": "たしか",
+    "romaji": "ta shi ka",
+    "chinese": "确实；可靠的；正常的；大概、或许",
+    "english": "Certainly",
+    "POS": "副，形動"
+  },
+  {
+    "kanji": "確かめる",
+    "kana": "たしかめる",
+    "romaji": "ta shi ka me ru",
+    "chinese": "确认、核实",
+    "english": "Verify",
+    "POS": "他下一"
+  },
+  {
+    "kanji": "出し抜く",
+    "kana": "だしぬく",
+    "romaji": "da shi nu ku",
+    "chinese": "趁机、抢先下手",
+    "english": "Outwit",
+    "POS": "他五"
+  },
+  {
+    "kanji": "助かる",
+    "kana": "たすかる",
+    "romaji": "ta su ka ru",
+    "chinese": "被救、脱险；省钱、省事；有帮助",
+    "english": "Helpful",
+    "POS": "自五"
+  },
+  {
+    "kanji": "助ける",
+    "kana": "たすける",
+    "romaji": "ta su ke ru",
+    "chinese": "救助；帮助；促进",
+    "english": "help",
+    "POS": "他下一"
+  }
+]
