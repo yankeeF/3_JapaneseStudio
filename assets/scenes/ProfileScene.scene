@@ -317,7 +317,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "ResultLabel",
+    "_name": "ProfileLabel",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
@@ -376,7 +376,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 700,
-      "height": 100
+      "height": 600
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -405,13 +405,13 @@
       "b": 160,
       "a": 255
     },
-    "_string": "",
-    "_horizontalAlign": 1,
+    "_string": "我的页面\n（胜率完全没用啊，改为游戏总次数吧）\n最速记录：\n胜率：\n连续登录次数：\n已学习单词数量：\n",
+    "_horizontalAlign": 0,
     "_verticalAlign": 1,
-    "_actualFontSize": 35,
-    "_fontSize": 35,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
-    "_lineHeight": 80,
+    "_lineHeight": 30,
     "_overflow": 1,
     "_enableWrapText": true,
     "_font": null,
@@ -422,7 +422,7 @@
     "_isUnderline": false,
     "_underlineHeight": 2,
     "_cacheMode": 0,
-    "_enableOutline": false,
+    "_enableOutline": true,
     "_outlineColor": {
       "__type__": "cc.Color",
       "r": 0,
@@ -430,7 +430,7 @@
       "b": 0,
       "a": 255
     },
-    "_outlineWidth": 2,
+    "_outlineWidth": 5,
     "_enableShadow": false,
     "_shadowColor": {
       "__type__": "cc.Color",
@@ -1205,6 +1205,15 @@
     },
     "_enabled": true,
     "__prefab": null,
+    "messageLabel": {
+      "__id__": 9
+    },
+    "goldManager": {
+      "__id__": 26
+    },
+    "goldDisplay": {
+      "__id__": 25
+    },
     "_id": "02qkv1BENH3JLG/s0o/hf7"
   },
   {

@@ -1,6 +1,7 @@
 import { _decorator, Component, director } from 'cc';
 import { GoldManager } from './GoldManager';
 import { GoldDisplay } from './GoldDisplay';
+import { SaveManager } from './SaveManager';
 const { ccclass, property } = _decorator;
 
 @ccclass('HomeScene')

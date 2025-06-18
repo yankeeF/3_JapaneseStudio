@@ -4,7 +4,7 @@ import { GoldRewardPopup } from './GoldRewardPopup';
 import { GoldDisplay } from './GoldDisplay';
 import { OptionButton } from './OptionButton';
 const { ccclass, property } = _decorator;
-
+import { SaveManager } from './SaveManager';
 @ccclass('QuizManager')
 export class QuizManager extends Component {
 
@@ -395,6 +395,32 @@ export class QuizManager extends Component {
         // ✅ 更新右上角金币总数（并播放 "+X" 浮动动画）
         const current = this.goldManager.get();
         this.goldDisplay.updateGold(current, bonusGold);
+
+
+        // ⏺️ 加载本地存档
+        const save = SaveManager.load();
+
+        // 1️⃣ 记录最速记录（若更快）
+        if (!save.fastestRecord || this.elapsedTime < save.fastestRecord) {
+            save.fastestRecord = this.elapsedTime;
+        }
+
+        // 2️⃣ 累计正确题数 / 总题数（用于胜率统计）
+        save.correctCount = (save.correctCount || 0) + this.correctCount;
+        save.totalCount = (save.totalCount || 0) + this.questions.length;
+
+        // 3️⃣ 存储已学单词（只记录答对题目）
+        for (let i = 0; i < this.questions.length; i++) {
+            const q = this.questions[i];
+            if (q.answeredCorrectly && q.kanji) {
+                if (!save.learnedWords.includes(q.kanji)) {
+                    save.learnedWords.push(q.kanji);
+                }
+            }
+        }
+
+        // 💾 保存回本地
+        SaveManager.save(save);
     }
 
     showRandomCat() {
