@@ -11,6 +11,7 @@ export class HomeScene extends Component {
     @property(GoldDisplay)
     goldDisplay: GoldDisplay = null!;
 
+
     start() {
         // ✅ 显示本地保存的金币数（不传 delta，则无动画）
         const current = this.goldManager.get();
@@ -28,5 +29,10 @@ export class HomeScene extends Component {
                 console.warn("QuizManager not found.");
             }
         });
+    }
+
+    public onClickMyProfile(event?: Event, custom?: string) {
+        console.log('点击我的');
+                director.loadScene('ProfileScene');
     }
 }
